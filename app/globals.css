@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* basket24 Brand Colors */
+  --basket-orange: #F57C00;
+  --broadcast-charcoal: #1F1F1F;
+  --court-gray: #6B7280;
+  --live-green: #16A34A;
+}
+
+body {
+  color: #1F1F1F;
+  background: #F9FAFB;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+/* Flat design - NO gradients, hard edges */
+* {
+  box-sizing: border-box;
+}
+
+/* Container */
+.container-custom {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Match card - FLAT design, NO rounded corners */
+.match-card {
+  @apply bg-white border border-gray-200 p-4 hover:shadow-lg transition-shadow;
+  border-radius: 0; /* Hard edges */
+}
+
+/* League icon */
+.league-icon {
+  @apply w-8 h-8 object-contain;
+  border-radius: 0; /* Hard edges */
+}
+
+/* Flat color blocks - TV broadcast feel */
+.flat-orange {
+  background-color: var(--basket-orange);
+  border-radius: 0;
+}
+
+.flat-dark {
+  background-color: var(--broadcast-charcoal);
+  border-radius: 0;
+}
+
+.flat-gray {
+  background-color: var(--court-gray);
+  border-radius: 0;
+}
+
+/* Remove ALL rounded corners globally */
+button,
+.btn,
+.card,
+.panel,
+input,
+select,
+textarea {
+  border-radius: 0 !important;
+}
