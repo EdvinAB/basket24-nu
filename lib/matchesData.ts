@@ -9135,3 +9135,9 @@ export const allMatches: Match[] = [
     "id": 829
   }
 ];
+// Add this temporarily at the end of matchesData.ts
+export const invalidMatches = allMatches.filter(m => 
+  !m.date || !m.broadcaster || !m.league || !m.venue
+);
+
+console.log('Invalid matches:', invalidMatches.length);

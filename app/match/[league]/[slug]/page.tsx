@@ -4,14 +4,19 @@ import Link from 'next/link';
 import SportsEventSchema from '@/components/SportsEventSchema';
 
 interface MatchPageProps {
-  params: {
+  params: Promise<{
     league: string;
     slug: string;
-  };
+  }>;
 }
 
 // Parse slug to extract date and teams
-function parseSlug(slug: string) {
+function parseSlug(slug: string | undefined) {
+  if (!slug || typeof slug !== 'string') {
+    console.error('Invalid slug:', slug);
+    return null;
+  }
+  
   const parts = slug.split('-vs-');
   if (parts.length !== 2) return null;
   
@@ -24,7 +29,9 @@ function parseSlug(slug: string) {
 
 // Find match by league, date, and teams
 function findMatch(league: string, slug: string): Match | null {
-  const parsed = parseSlug(slug);
+  // Decode URL-encoded characters (å, ä, ö, etc.)
+  const decodedSlug = decodeURIComponent(slug);
+  const parsed = parseSlug(decodedSlug);
   if (!parsed) return null;
   
   const { date, awayTeam, homeTeam } = parsed;
@@ -69,8 +76,8 @@ function formatDate(dateString: string): string {
   return `${dayName} ${day} ${month.toUpperCase()}. ${year}`;
 }
 
-export default function MatchPage({ params }: MatchPageProps) {
-  const { league, slug } = params;
+export default async function MatchPage({ params }: MatchPageProps) {
+  const { league, slug } = await params;
   
   const match = findMatch(league, slug);
   
@@ -78,6 +85,12 @@ export default function MatchPage({ params }: MatchPageProps) {
     notFound();
   }
   
+if (!match.date || !match.broadcaster) {
+    console.error('Match missing required data:', match);
+    notFound();
+  }
+
+  // ADD NULL CHECKS HERE!
   const isLive = isMatchLive(match.date);
   const formattedDate = formatDate(match.date);
   const tvChannels = match.broadcaster.split(',').map(c => c.trim()).filter(Boolean);
@@ -261,7 +274,7 @@ function getChannelLink(channel: string): string {
 
 // Metadata for SEO
 export async function generateMetadata({ params }: MatchPageProps) {
-  const { league, slug } = params;
+  const { league, slug } = await params;
   const match = findMatch(league, slug);
   
   if (!match) {
@@ -270,6 +283,13 @@ export async function generateMetadata({ params }: MatchPageProps) {
     };
   }
   
+  // ADD NULL CHECK HERE!
+  if (!match.date || !match.broadcaster) {
+    return {
+      title: 'Match saknar data | basket24.nu',
+    };
+  }
+
   const formattedDate = formatDate(match.date);
   const matchName = `${match.away} vs ${match.home}`;
   

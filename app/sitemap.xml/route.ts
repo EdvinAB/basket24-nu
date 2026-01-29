@@ -21,7 +21,9 @@ export async function GET() {
   ];
   
   // Generate match URLs from matchesData
-  const matchPages: SitemapPage[] = allMatches.map((match) => {
+  const matchPages: SitemapPage[] = allMatches
+  .filter(match => match.date && match.league)
+  .map((match) => {
     const leagueSlug = match.league.toLowerCase();
     const dateOnly = match.date.split('T')[0];
     const awaySlug = match.away.toLowerCase().replace(/\s+/g, '-');
