@@ -1,11 +1,19 @@
 import { allMatches } from '@/lib/matchesData';
 
+// Define the page type
+interface SitemapPage {
+  url: string;
+  changefreq: string;
+  priority: number;
+  lastmod?: string; // Optional lastmod
+}
+
 // Generate sitemap.xml dynamically
 export async function GET() {
   const baseUrl = 'https://basket24.nu';
   
   // Static pages
-  const staticPages = [
+  const staticPages: SitemapPage[] = [
     { url: '/', changefreq: 'daily', priority: 1.0 },
     { url: '/nba/', changefreq: 'daily', priority: 0.9 },
     { url: '/euroleague/', changefreq: 'daily', priority: 0.9 },
@@ -13,7 +21,7 @@ export async function GET() {
   ];
   
   // Generate match URLs from matchesData
-  const matchPages = allMatches.map((match) => {
+  const matchPages: SitemapPage[] = allMatches.map((match) => {
     const leagueSlug = match.league.toLowerCase();
     const dateOnly = match.date.split('T')[0];
     const awaySlug = match.away.toLowerCase().replace(/\s+/g, '-');
