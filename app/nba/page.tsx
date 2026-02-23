@@ -1,64 +1,119 @@
-import LeagueHero from '@/components/LeagueHero';
-import LeagueMatches from '@/components/LeagueMatches';
-import { Metadata } from 'next';
+'use client';
 
-// SEO Metadata
-export const metadata: Metadata = {
-  title: 'NBA på TV och stream - Alla NBA-matcher 2025/2026 | basket24.nu',
-  description: 'Se alla NBA-matcher på TV och stream. TV-tider, kanaler och streaming för Lakers, Celtics, Warriors och alla NBA lag. Komplett TV-guide för NBA säsongen 2025/2026.',
-  keywords: 'NBA på TV, NBA stream, NBA matcher, NBA Sverige, NBA League Pass, Lakers på TV, Celtics stream, Warriors matcher',
-};
+import { useState, useEffect } from 'react';
+import LeagueHero from '@/components/LeagueHero';
+import DateNavigation from '@/components/DateNavigation';
+import MatchCard from '@/components/MatchCard';
+import DayNavigation from '@/components/DayNavigation';
+import nbaData from '@/lib/data/nba-2025-2026.json';
+
+interface ApiMatch {
+  id: number | string;
+  league: string;
+  home: string;
+  away: string;
+  time: string;
+  date: string;
+  status: string;
+  venue: string;
+  broadcaster?: string;      // Gammal string (från API)
+  broadcasters?: string[];   // Ny array (från lokal JSON)
+}
+
+interface LocalMatch {
+  id: number | string;
+  broadcasters: string[];
+}
+
+// Slår upp broadcaster-info från lokal JSON
+// Om matchen inte finns i JSON → default NBA League Pass
+function getBroadcastersForMatch(matchId: number | string): string[] {
+  const localMatches = (nbaData as any).matches as LocalMatch[];
+  const localMatch = localMatches.find(m => String(m.id) === String(matchId));
+  return localMatch?.broadcasters || ['nba-league-pass'];
+}
 
 export default function NBAPage() {
+  const [selectedDate, setSelectedDate] = useState<string>(() => {
+    return new Date().toISOString().split('T')[0];
+  });
+  const [matches, setMatches] = useState<ApiMatch[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    async function fetchMatches() {
+      try {
+        setLoading(true);
+        const response = await fetch(`/api/basketball?league=nba&date=${selectedDate}`);
+        const data = await response.json();
+        if (data.success && data.matches) {
+          setMatches(data.matches);
+        } else {
+          setMatches([]);
+        }
+      } catch (error) {
+        console.error('Error fetching matches:', error);
+        setMatches([]);
+      } finally {
+        setLoading(false);
+      }
+    }
+    fetchMatches();
+  }, [selectedDate]);
+
+  const sortedMatches = [...matches].sort((a, b) => a.time.localeCompare(b.time));
+
+  const handlePrevDay = () => {
+    const d = new Date(selectedDate);
+    d.setDate(d.getDate() - 1);
+    setSelectedDate(d.toISOString().split('T')[0]);
+  };
+
+  const handleNextDay = () => {
+    const d = new Date(selectedDate);
+    d.setDate(d.getDate() + 1);
+    setSelectedDate(d.toISOString().split('T')[0]);
+  };
+
   return (
-    <div className="bg-gray-50 min-h-screen">
-      
-      {/* Hero */}
-      <LeagueHero
-        league="NBA"
-        title="NBA - National Basketball Association"
-        description="Alla NBA-matcher på TV och stream. Följ Lakers, Celtics, Warriors och alla dina favorit-NBA-lag."
-        icon="🏀"
-      />
+    <div className="min-h-screen bg-gray-50">
+      <LeagueHero league="NBA" />
 
-      {/* Matches */}
-      <LeagueMatches league="NBA" />
+      <div className="max-w-[1092px] mx-auto px-4">
+        <DateNavigation selectedDate={selectedDate} onDateChange={setSelectedDate} />
 
-      {/* SEO Content */}
-      <div className="max-w-4xl mx-auto px-4 py-8">
-        <div className="bg-white shadow-sm p-6">
-          <h2 className="text-xl font-bold text-dark mb-4">
-            NBA på TV och stream i Sverige
-          </h2>
-          <div className="prose prose-sm text-gray-700 space-y-4">
-            <p>
-              Välkommen till basket24.nu - din kompletta TV-guide för NBA! 
-              Här hittar du alla NBA-matcher med exakta TV-tider, kanaler och 
-              streamingtjänster för den svenska marknaden.
-            </p>
-            <p>
-              NBA (National Basketball Association) är världens största och mest prestigefyllda 
-              basketliga med 30 lag från USA och Kanada. Säsongen 2025/2026 pågår från oktober 
-              till april med playoffs fram till juni.
-            </p>
-            <h3 className="text-lg font-bold text-dark">Var kan jag se NBA i Sverige?</h3>
-            <p>
-              NBA sänds i Sverige på flera kanaler och streamingtjänster:
-            </p>
-            <ul className="list-disc list-inside space-y-2 ml-4">
-              <li><strong>NBA League Pass</strong> - Officiell streamtjänst med alla matcher</li>
-              <li><strong>Viaplay</strong> - Utvalda matcher varje vecka</li>
-              <li><strong>HBO MAX</strong> - Toppmatcher och playoffs</li>
-              <li><strong>Amazon Prime Video</strong> - Utvalda matcher</li>
-            </ul>
-            <p>
-              Med basket24.nu får du alltid aktuell information om vilken kanal som visar 
-              vilken match, så du aldrig missar dina favorit-NBA-lag!
-            </p>
-          </div>
+        <div className="bg-primary text-white px-4 py-3 mt-6 mb-0">
+          <h2 className="text-lg font-bold uppercase">NBA SPELSCHEMA</h2>
         </div>
-      </div>
 
+        {loading ? (
+          <div className="text-center py-8 bg-white">
+            <div className="text-gray-500">Laddar matcher...</div>
+          </div>
+        ) : sortedMatches.length === 0 ? (
+          <div className="text-center py-8 bg-white">
+            <div className="text-gray-500">Inga matcher hittades för valt datum</div>
+          </div>
+        ) : (
+          <div className="bg-white">
+            {sortedMatches.map((match) => (
+              <MatchCard
+                key={match.id}
+                id={match.id}
+                league={match.league}
+                home={match.home}
+                away={match.away}
+                time={match.time}
+                date={match.date}
+                venue={match.venue}
+                broadcasters={getBroadcastersForMatch(match.id)}
+              />
+            ))}
+          </div>
+        )}
+
+        <DayNavigation onPrevDay={handlePrevDay} onNextDay={handleNextDay} />
+      </div>
     </div>
   );
 }

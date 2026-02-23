@@ -1,5 +1,7 @@
 'use client';
 
+import LeagueDropdown from './LeagueDropdown';
+
 export default function Header() {
   return (
     <header className="bg-white border-b sticky top-0 z-50 shadow-sm">
@@ -23,14 +25,12 @@ export default function Header() {
       <nav className="container-custom">
         <div className="flex items-center justify-between py-4">
           
-          {/* Logo - FLAT DESIGN, NO GRADIENT */}
+          {/* Logo */}
           <a href="/" className="flex items-center gap-3 group">
             <div className="relative">
-              {/* Flat orange block instead of gradient */}
               <div className="w-12 h-12 bg-primary flex items-center justify-center shadow-lg group-hover:shadow-xl group-hover:scale-105 transition-all duration-300">
                 <span className="text-white font-black text-2xl">24</span>
               </div>
-              {/* Hard edge on basketball icon */}
               <div className="absolute -bottom-1 -right-1 w-5 h-5 bg-live border-2 border-white shadow-md flex items-center justify-center">
                 <span className="text-xs">🏀</span>
               </div>
@@ -45,24 +45,15 @@ export default function Header() {
             </div>
           </a>
 
-          {/* Navigation Links */}
-          <div className="hidden md:flex items-center gap-6">
-            <a href="/" className="text-gray-700 hover:text-primary font-medium">Matcher</a>
-            <a href="/tv-guide" className="text-gray-700 hover:text-primary font-medium">TV-Guide</a>
-          </div>
-
-          {/* Mobile Menu Button */}
-          <button className="md:hidden p-2">
-            <span className="text-2xl">☰</span>
-          </button>
+          {/* Dropdown Menu - Precis som "Sport på TV" */}
+          <LeagueDropdown />
 
         </div>
       </nav>
 
       {/* Tabs Navigation */}
       <div className="border-t bg-gray-50">
-        <div className="container-custom">
-        </div>
+        <div className="container-custom"></div>
       </div>
 
     </header>

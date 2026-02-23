@@ -1,8 +1,15 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ['images.basket.se', 'api-basketball.com'], // För laglogos etc
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'media.api-sports.io',
+        port: '',
+        pathname: '/basketball/**',
+      },
+    ],
   },
-}
+};
 
-module.exports = nextConfig
+export default nextConfig;

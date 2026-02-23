@@ -2,6 +2,9 @@
 
 import { useState, useEffect } from 'react';
 import MatchCard from './MatchCard';
+import nbaData from '@/lib/data/nba-2025-2026.json';
+import sblData from '@/lib/data/sbl-2025-2026.json';
+import euroleagueData from '@/lib/data/euroleague-2025-2026.json';
 import DateNavigation from './DateNavigation';
 
 // TypeScript interface
@@ -15,6 +18,34 @@ interface Match {
   status: string;
   venue: string;
   broadcaster: string;
+}
+
+interface LocalMatch {
+  id: number | string;
+  broadcasters: string[];
+}
+
+function getBroadcastersForMatch(matchId: number | string, league: string): string[] {
+  const lower = league.toLowerCase();
+  if (lower === 'nba') {
+    const local = (nbaData as any).matches as LocalMatch[];
+    const m = local.find(m => String(m.id) === String(matchId));
+    if (m?.broadcasters) return m.broadcasters;
+    return ['nba-league-pass'];
+  }
+  if (lower === 'sbl' || lower === 'basketligan') {
+    const local = (sblData as any).matches as LocalMatch[];
+    const m = local.find(m => String(m.id) === String(matchId));
+    if (m?.broadcasters) return m.broadcasters;
+    return ['expressen-tv'];
+  }
+  if (lower === 'euroleague') {
+    const local = (euroleagueData as any).matches as LocalMatch[];
+    const m = local.find(m => String(m.id) === String(matchId));
+    if (m?.broadcasters) return m.broadcasters;
+    return ['viaplay'];
+  }
+  return [];
 }
 
 interface LeagueMatchesProps {
@@ -163,9 +194,9 @@ export default function LeagueMatches({ league }: LeagueMatchesProps) {
                 away={match.away}
                 time={match.time}
                 date={match.date}
-                broadcaster={match.broadcaster}
+                broadcasters={getBroadcastersForMatch(match.id, match.league)}
                 venue={match.venue}
-                isLive={isMatchLive(match.date)}
+
               />
             ))}
           </div>
@@ -215,14 +246,14 @@ export default function LeagueMatches({ league }: LeagueMatchesProps) {
                   {dateMatches.map((match) => (
                     <MatchCard
                       key={match.id}
+                      id={match.id}
                       league={match.league}
                       home={match.home}
                       away={match.away}
                       time={match.time}
                       date={match.date}
-                      broadcaster={match.broadcaster}
+                      broadcasters={getBroadcastersForMatch(match.id, match.league)}
                       venue={match.venue}
-                      isLive={isMatchLive(match.date)}
                     />
                   ))}
                 </div>

@@ -1,117 +1,158 @@
 import Link from 'next/link';
 
 interface MatchCardProps {
-  league: string;
-  home: string;
-  away: string;
-  time: string;
+  id: number | string;
   date: string;
-  broadcaster: string;
+  time: string;
+  away: string;
+  home: string;
+  league: string;
+  broadcasters: string[];   // ← Array med broadcaster-IDs
   venue: string;
-  isLive?: boolean;
 }
 
-// Helper to create match URL slug
-function createMatchSlug(date: string, away: string, home: string): string {
-  const dateOnly = date.split('T')[0]; // "2026-01-21"
-  const awaySlug = away.toLowerCase().replace(/\s+/g, '-');
-  const homeSlug = home.toLowerCase().replace(/\s+/g, '-');
+// Kort visningsnamn för etiketter i matchkortet
+const broadcasterLabels: Record<string, string> = {
+  'nba-league-pass': 'NBA PASS',
+  'hbo-max': 'HBO MAX',
+  'allente': 'ALLENTE',
+  'kanal-9': 'KANAL 9',
+  'viaplay': 'VIAPLAY',
+  'expressen-tv': 'EXPRESSEN',
+  'movistar-plus': 'MOVISTAR+',
+  'bein-sports-turkey': 'BEIN TR',
+  'arena-sport': 'ARENA',
+  'dyn': 'DYN',
+  'cosmote-tv': 'COSMOTE',
+  'dazn-italy': 'DAZN IT',
+  'go3': 'GO3',
+};
+
+function getLeagueColor(league: string): string {
+  const colors: Record<string, string> = {
+    'NBA': '#2563eb',
+    'EuroLeague': '#16a34a',
+    'SBL': '#eab308',
+  };
+  return colors[league] || '#4b5563';
+}
+
+// Mappa API:ets liga-namn till URL-slugs
+function getLeagueSlug(league: string): string {
+  const slugMap: Record<string, string> = {
+    'NBA': 'nba',
+    'EuroLeague': 'euroleague',
+    'Euroleague': 'euroleague',
+    'SBL': 'sbl',
+    'Basketligan': 'sbl',
+    'ACB': 'acb',
+    'Super Ligi': 'turkish-bsl',
+    'ABA League': 'aba-liga',
+    'BBL': 'bbl',
+    'Greek Cup': 'greek-cup',
+    'Lega A': 'lega-a',
+    'LKL': 'lkl',
+    'First League': 'kls',
+    'Super League': 'serbian-super-league',
+    // Fallback för API IDs (om de används)
+    '12': 'nba',
+    '120': 'euroleague',
+    '93': 'sbl',
+    '117': 'acb',
+    '104': 'turkish-bsl',
+    '198': 'aba-liga',
+    '40': 'bbl',
+    '136': 'greek-cup',
+    '52': 'lega-a',
+    '60': 'lkl',
+    '85': 'kls',
+    '86': 'serbian-super-league',
+  };
   
-  return `${dateOnly}-${awaySlug}-vs-${homeSlug}`;
+  return slugMap[league] || league.toLowerCase().replace(/\s+/g, '-');
 }
 
 export default function MatchCard({
-  league,
-  home,
-  away,
-  time,
+  id,
   date,
-  broadcaster,
+  time,
+  away,
+  home,
+  league,
+  broadcasters,
   venue,
-  isLive = false
 }: MatchCardProps) {
-  
-  // Create match URL
-  const leagueSlug = league.toLowerCase();
-  const matchSlug = createMatchSlug(date, away, home);
-  const matchUrl = `/match/${leagueSlug}/${matchSlug}`;
-  
-  // Liga-specifika färger
-  const getLeagueColor = () => {
-    switch(league) {
-      case 'NBA':
-        return 'text-blue-600 border-blue-500';
-      case 'SBL':
-        return 'text-green-600 border-green-500';
-      case 'EuroLeague':
-        return 'text-purple-600 border-purple-500';
-      default:
-        return 'text-primary border-primary';
-    }
-  };
-  
-  const leagueColors = getLeagueColor();
+  const homeSlug = home.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+  const awaySlug = away.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+  const matchSlug = `${homeSlug}-vs-${awaySlug}-${id}`;
+  const leagueSlug = getLeagueSlug(league);
+  const matchUrl = `/${leagueSlug}/${matchSlug}`;
+  const leagueColor = getLeagueColor(league);
+
+  // Max 4 broadcasters i 2x2 grid
+  const visibleBroadcasters = broadcasters.slice(0, 4);
 
   return (
     <Link href={matchUrl}>
-      <div 
-        className="bg-white shadow-sm hover:shadow-lg transition-all duration-300 p-4 border-l-4 group cursor-pointer"
-        style={{ borderRadius: 0 }}
-      >
-        <div className="flex items-center justify-between gap-4">
-          
-          {/* VÄNSTER: Tid + Live Badge */}
-          <div className="flex flex-col items-center min-w-[60px]">
-            <div className="font-bold text-dark text-base mb-1">{time}</div>
-            
-            {/* LIVE INDICATOR */}
-            {isLive && (
-              <div className="flex items-center gap-1 bg-live px-2 py-0.5 animate-pulse">
-                <span className="w-2 h-2 bg-white rounded-full animate-ping absolute"></span>
-                <span className="w-2 h-2 bg-white rounded-full relative"></span>
-                <span className="text-white text-xs font-bold uppercase">LIVE</span>
-              </div>
-            )}
-          </div>
+      <div className="bg-white border-b border-gray-200 hover:bg-gray-50 transition-colors cursor-pointer relative">
 
-          {/* MITTEN: Teams + Info */}
-          <div className="flex-1">
-            {/* Teams */}
-            <div className="font-semibold text-dark text-base mb-2 group-hover:text-primary transition-colors">
-              {away} <span className="text-gray-400 font-normal">@</span> {home}
-            </div>
-            
-            {/* Info rad */}
-            <div className="flex items-center gap-4 text-sm">
-              {/* Liga Badge */}
-              <span className={`font-semibold ${leagueColors.split(' ')[0]} px-2 py-0.5 bg-gray-50`}>
-                {league}
-              </span>
-              
-              {/* Arena */}
-              <span className="text-court-gray truncate">
-                📍 {venue}
-              </span>
+        {/* VERTICAL color strip on LEFT */}
+        <div
+          className="absolute left-0 top-0 bottom-0 w-1"
+          style={{ backgroundColor: leagueColor }}
+        ></div>
+
+        {/* Content with left padding for strip */}
+        <div className="pl-4 pr-3 py-3 flex gap-3 items-center">
+
+          {/* LEFT: Time */}
+          <div className="flex-shrink-0 min-w-[50px]">
+            <div className="text-xl sm:text-2xl font-bold text-dark leading-tight">
+              {time}
             </div>
           </div>
 
-          {/* HÖGER: TV-kanaler */}
-          <div className="flex flex-col items-end gap-1.5 min-w-[120px]">
-            {broadcaster.split(',').slice(0, 2).map((channel, idx) => (
-              <div 
-                key={idx}
-                className="bg-dark text-white px-3 py-1.5 text-xs font-medium hover:bg-primary transition-colors"
-                style={{ borderRadius: 0 }}
-              >
-                {channel.trim()}
-              </div>
-            ))}
-            
-            {/* Se mer länk */}
-            <span className="text-primary hover:text-primary-dark text-xs font-medium transition-colors mt-1">
-              Se detaljer →
-            </span>
+          {/* CENTER: Teams + Venue */}
+          <div className="flex-1 min-w-0">
+            <div
+              className="text-[10px] sm:text-xs font-bold uppercase mb-1"
+              style={{ color: leagueColor }}
+            >
+              {league}
+            </div>
+
+            <div className="text-sm font-semibold text-dark mb-0.5">
+              {home}
+            </div>
+            <div className="text-xs text-gray-400 mb-0.5">vs</div>
+            <div className="text-sm font-semibold text-dark mb-1.5">
+              {away}
+            </div>
+            <div className="text-[10px] sm:text-xs text-gray-500 truncate">
+              📍 {venue}
+            </div>
           </div>
+
+          {/* RIGHT: Broadcaster-etiketter i 2x2 grid */}
+          <div className="flex-shrink-0">
+            <div className="grid grid-cols-2 gap-1">
+              {visibleBroadcasters.map((broadcasterId) => (
+                <span
+                  key={broadcasterId}
+                  className="bg-dark text-white px-2 py-0.5 text-[9px] sm:text-[10px] font-medium whitespace-nowrap text-center"
+                >
+                  {broadcasterLabels[broadcasterId] || broadcasterId.toUpperCase()}
+                </span>
+              ))}
+            </div>
+          </div>
+        </div>
+
+        {/* Bottom: "Se detaljer" */}
+        <div className="pl-4 pr-3 pb-2 text-right">
+          <span className="text-xs text-primary font-semibold">
+            Se detaljer →
+          </span>
         </div>
       </div>
     </Link>

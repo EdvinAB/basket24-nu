@@ -2,10 +2,21 @@
 
 import { useState, useEffect } from 'react';
 import MatchCard from './MatchCard';
+import nbaData from '@/lib/data/nba-2025-2026.json';
+import sblData from '@/lib/data/sbl-2025-2026.json';
+import euroleagueData from '@/lib/data/euroleague-2025-2026.json';
+import acbData from '@/lib/data/acb-2025-2026.json';
+import turkishBslData from '@/lib/data/turkish-bsl-2025-2026.json';
+import abaLigaData from '@/lib/data/aba-liga-2025-2026.json';
+import bblData from '@/lib/data/bbl-2025-2026.json';
+import greekCupData from '@/lib/data/greek-cup-2025-2026.json';
+import legaAData from '@/lib/data/lega-a-2025-2026.json';
+import lklData from '@/lib/data/lkl-2025-2026.json';
+import klsData from '@/lib/data/kls-2025-2026.json';
+import serbianSuperLeagueData from '@/lib/data/serbian-super-league-2025-2026.json';
 
-// TypeScript interface för match-objekt
 interface Match {
-  id: number;
+  id: number | string;
   league: string;
   home: string;
   away: string;
@@ -16,175 +27,239 @@ interface Match {
   broadcaster: string;
 }
 
-// PROPS: Ta emot filters från page.tsx
-interface TodaysMatchesProps {
-  selectedLeague?: string;
-  selectedDate?: string;
+interface LocalMatch {
+  id: number | string;
+  broadcasters: string[];
 }
 
-export default function TodaysMatches({ 
-  selectedLeague = 'all',
-  selectedDate 
-}: TodaysMatchesProps) {
+interface TodaysMatchesProps {
+  selectedLeague: string;
+  selectedDate: string;
+}
+
+function getBroadcastersForMatch(matchId: number | string, league: string, apiBroadcaster: string): string[] {
+  const lower = league.toLowerCase();
+
+  // Mapping för alla ligor (både API-namn och URL-slugs)
+  const leagueMap: Record<string, any> = {
+    'nba': nbaData,
+    'sbl': sblData,
+    'basketligan': sblData,
+    'euroleague': euroleagueData,
+    'acb': acbData,
+    '117': acbData,  // ACB league ID från API
+    'turkish-bsl': turkishBslData,
+    'turkish bsl': turkishBslData,
+    '104': turkishBslData,  // Turkish BSL league ID från API
+    'aba-liga': abaLigaData,
+    'aba liga': abaLigaData,
+    '198': abaLigaData,  // ABA Liga league ID från API
+    'bbl': bblData,
+    '40': bblData,  // BBL league ID från API
+    'greek-cup': greekCupData,
+    'greek cup': greekCupData,
+    '136': greekCupData,  // Greek Cup league ID från API
+    'lega-a': legaAData,
+    'lega a': legaAData,
+    '52': legaAData,  // Lega A league ID från API
+    'lkl': lklData,
+    '60': lklData,  // LKL league ID från API
+    'kls': klsData,
+    '85': klsData,  // KLS league ID från API
+    'serbian-super-league': serbianSuperLeagueData,
+    'serbian super league': serbianSuperLeagueData,
+    '86': serbianSuperLeagueData,  // Serbian Super League league ID från API
+  };
+
+  const leagueData = leagueMap[lower];
+  if (leagueData) {
+    const localMatches = (leagueData as any).matches as LocalMatch[];
+    const localMatch = localMatches.find(m => String(m.id) === String(matchId));
+    if (localMatch?.broadcasters) return localMatch.broadcasters;
+  }
+
+  // NBA fallback
+  if (lower === 'nba') {
+    return ['nba-league-pass'];
+  }
+
+  // Fallback: använd API:ets broadcaster-string
+  if (apiBroadcaster) {
+    return apiBroadcaster.split(',').map(b => b.trim()).filter(Boolean);
+  }
+
+  return [];
+}
+
+export default function TodaysMatches({ selectedLeague, selectedDate }: TodaysMatchesProps) {
   const [matches, setMatches] = useState<Match[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
-  // useEffect - hämta matcher
+  console.log('🎯 TodaysMatches render:', { selectedLeague, selectedDate });
+
   useEffect(() => {
-    async function fetchMatches() {
+    function loadMatches() {
       try {
         setLoading(true);
-        const response = await fetch('/api/matches');
-        const data = await response.json();
-        
-        if (data.success) {
-          setMatches(data.matches);
+        setError(null);
+
+        // Mapping för alla ligor
+        const allLeagueData: Record<string, any> = {
+          'nba': nbaData,
+          'sbl': sblData,
+          'euroleague': euroleagueData,
+          'acb': acbData,
+          '117': acbData,
+          'turkish-bsl': turkishBslData,
+          '104': turkishBslData,
+          'aba-liga': abaLigaData,
+          '198': abaLigaData,
+          'bbl': bblData,
+          '40': bblData,
+          'greek-cup': greekCupData,
+          '136': greekCupData,
+          'lega-a': legaAData,
+          '52': legaAData,
+          'lkl': lklData,
+          '60': lklData,
+          'kls': klsData,
+          '85': klsData,
+          'serbian-super-league': serbianSuperLeagueData,
+          '86': serbianSuperLeagueData,
+        };
+
+        let allMatches: Match[] = [];
+
+        if (selectedLeague === 'all') {
+          // Hämta matcher från alla ligor
+          const leagues = ['nba', 'sbl', 'euroleague', 'acb', 'turkish-bsl', 'aba-liga', 'bbl', 'greek-cup', 'lega-a', 'lkl', 'kls', 'serbian-super-league'];
+          
+          leagues.forEach(leagueName => {
+            const leagueData = allLeagueData[leagueName];
+            if (leagueData && (leagueData as any).matches) {
+              const leagueMatches = (leagueData as any).matches.map((m: any) => ({
+                id: m.id,
+                league: leagueName,
+                home: m.home,
+                away: m.away,
+                time: m.time,
+                date: m.date,
+                status: m.status || 'Scheduled',
+                venue: m.venue,
+                broadcaster: '', // Kommer från getBroadcastersForMatch
+              }));
+              allMatches.push(...leagueMatches);
+            }
+          });
         } else {
-          setError('Kunde inte hämta matcher');
+          // Hämta matcher från specifik liga
+          const leagueData = allLeagueData[selectedLeague.toLowerCase()];
+          if (leagueData && (leagueData as any).matches) {
+            allMatches = (leagueData as any).matches.map((m: any) => ({
+              id: m.id,
+              league: selectedLeague,
+              home: m.home,
+              away: m.away,
+              time: m.time,
+              date: m.date,
+              status: m.status || 'Scheduled',
+              venue: m.venue,
+              broadcaster: '', // Kommer från getBroadcastersForMatch
+            }));
+          }
         }
+
+        console.log('📦 Loaded matches from local JSON:', allMatches.length);
+        setMatches(allMatches);
       } catch (err) {
-        console.error('Fetch error:', err);
-        setError('Ett fel uppstod');
+        console.error('❌ Error loading matches:', err);
+        setError(err instanceof Error ? err.message : 'Failed to load matches');
+        setMatches([]);
       } finally {
         setLoading(false);
       }
     }
 
-    fetchMatches();
-  }, []);
+    loadMatches();
+  }, [selectedLeague, selectedDate]);
 
-  // Funktion för att kolla om match är live
-  const isMatchLive = (matchDate: string, matchTime: string): boolean => {
-    const now = new Date();
-    const matchDateTime = new Date(matchDate);
-    
-    // Match är live om den startade för mindre än 3 timmar sedan
-    const threeHoursAgo = new Date(now.getTime() - (3 * 60 * 60 * 1000));
-    
-    return matchDateTime >= threeHoursAgo && matchDateTime <= now;
-  };
-
-  // FILTRERING: Applicera liga och datum filter
+  // Filter matches by date
   const filteredMatches = matches.filter((match) => {
-    // Liga-filter
-    if (selectedLeague && selectedLeague !== 'all') {
-      const matchLeague = match.league.toLowerCase();
-      const filterLeague = selectedLeague.toLowerCase();
-      
-      if (matchLeague !== filterLeague) {
-        return false;
-      }
+    console.log('🔍 Checking match:', {
+      id: match.id,
+      league: match.league,
+      home: match.home,
+      away: match.away,
+    });
+
+    // League filter
+    if (selectedLeague !== 'all' && match.league.toLowerCase() !== selectedLeague.toLowerCase()) {
+      return false;
     }
-    
-    // Datum-filter
-    if (selectedDate) {
-      const matchDate = match.date.split('T')[0];
-      
-      if (matchDate !== selectedDate) {
-        return false;
-      }
+
+    // Date filter
+    const matchDate = match.date.split('T')[0];
+    console.log('🔍 Date comparison:', {
+      matchDate,
+      selectedDate,
+      match: matchDate === selectedDate
+    });
+
+    if (matchDate !== selectedDate) {
+      return false;
     }
-    
+
+    console.log('✅ Match passed filters!');
     return true;
   });
 
-  // GRUPPERA matcher per liga
-  const matchesByLeague = filteredMatches.reduce((acc, match) => {
-    const league = match.league;
-    if (!acc[league]) {
-      acc[league] = [];
-    }
-    acc[league].push(match);
-    return acc;
-  }, {} as Record<string, Match[]>);
+  console.log('🎯 Filtered matches:', filteredMatches.length);
 
-  // Sortera ligorna
-  const leagueOrder = ['NBA', 'EuroLeague', 'SBL'];
-  const sortedLeagues = Object.keys(matchesByLeague).sort((a, b) => {
-    const indexA = leagueOrder.indexOf(a);
-    const indexB = leagueOrder.indexOf(b);
-    if (indexA === -1) return 1;
-    if (indexB === -1) return -1;
-    return indexA - indexB;
-  });
+  // Sort by time
+  const sortedMatches = [...filteredMatches].sort((a, b) => 
+    a.time.localeCompare(b.time)
+  );
 
-  // LOADING STATE
   if (loading) {
     return (
-      <div className="text-center py-12">
-        <div className="inline-block h-8 w-8 animate-spin rounded-full border-4 border-solid border-primary border-r-transparent"></div>
-        <p className="mt-4 text-gray-600">Laddar matcher...</p>
+      <div className="text-center py-8">
+        <div className="text-gray-500">Laddar matcher...</div>
       </div>
     );
   }
 
-  // ERROR STATE
   if (error) {
     return (
-      <div className="text-center py-12 text-red-600">
-        <p className="text-lg font-semibold">❌ {error}</p>
-        <button 
-          onClick={() => window.location.reload()}
-          className="mt-4 px-4 py-2 bg-primary text-white hover:bg-primary-dark transition"
-        >
-          Försök igen
-        </button>
+      <div className="text-center py-8">
+        <div className="text-red-500">Fel: {error}</div>
       </div>
     );
   }
 
-  // INGA MATCHER
-  if (filteredMatches.length === 0) {
+  if (sortedMatches.length === 0) {
     return (
-      <div className="text-center py-12">
-        <p className="text-lg text-gray-600">
-          🏀 Inga matcher hittades för valt filter.
-        </p>
-        <p className="text-sm text-gray-500 mt-2">
-          Prova ett annat datum eller välj "ALLA" ligor.
-        </p>
+      <div className="text-center py-8">
+        <div className="text-gray-500">Inga matcher hittades för valt datum</div>
       </div>
     );
   }
 
-  // VISA MATCHER
   return (
-    <div className="space-y-8">
-      {sortedLeagues.map((league) => {
-        const leagueMatches = matchesByLeague[league];
-        
-        return (
-          <div key={league}>
-            {/* Liga Header */}
-            <div className="flex items-center gap-3 mb-4 pb-2 border-b-2 border-primary">
-              <h2 className="text-xl font-bold text-dark">
-                {league}
-              </h2>
-              <span className="text-sm text-gray-500">
-                ({leagueMatches.length} {leagueMatches.length === 1 ? 'match' : 'matcher'})
-              </span>
-            </div>
-
-            {/* Matcher */}
-            <div className="space-y-3">
-              {leagueMatches.map((match) => (
-                <MatchCard
-                  key={match.id}
-                  league={match.league}
-                  home={match.home}
-                  away={match.away}
-                  time={match.time}
-                  date={match.date}
-                  broadcaster={match.broadcaster}
-                  venue={match.venue}
-                  isLive={isMatchLive(match.date, match.time)}
-                />
-              ))}
-            </div>
-          </div>
-        );
-      })}
+    <div className="space-y-0">
+      {sortedMatches.map((match) => (
+        <MatchCard
+          key={match.id}
+          id={match.id}
+          league={match.league}
+          home={match.home}
+          away={match.away}
+          time={match.time}
+          date={match.date}
+          venue={match.venue}
+          broadcasters={getBroadcastersForMatch(match.id, match.league, match.broadcaster)}
+        />
+      ))}
     </div>
   );
 }
