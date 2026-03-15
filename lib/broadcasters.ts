@@ -2,115 +2,142 @@ export interface Broadcaster {
   id: string;
   name: string;
   displayName: string;
-  affiliateUrl: string | null;
-  buttonText: string | null;
+  affiliateUrl?: string;
+  buttonText?: string;
 }
 
-export const broadcasters: Record<string, Broadcaster> = {
-  'nba-league-pass': {
-    id: 'nba-league-pass',
-    name: 'NBA League Pass',
-    displayName: 'NBA PASS',
-    affiliateUrl: '#',        // Byt till riktig affiliate-URL innan launch
-    buttonText: 'Streama på NBA League Pass',
+export const BROADCASTERS: Broadcaster[] = [
+  // === BEFINTLIGA ===
+  {
+    id: "nba-league-pass",
+    name: "NBA League Pass",
+    displayName: "NBA PASS",
+    affiliateUrl: "#", // Byt till riktig affiliate-URL innan launch
+    buttonText: "Se på NBA Pass",
   },
-  'hbo-max': {
-    id: 'hbo-max',
-    name: 'HBO Max',
-    displayName: 'HBO MAX',
-    affiliateUrl: '#',        // Byt till riktig affiliate-URL innan launch
-    buttonText: 'Streama på HBO Max',
+  {
+    id: "hbo-max",
+    name: "HBO Max",
+    displayName: "HBO MAX",
+    affiliateUrl: "#", // Byt till riktig affiliate-URL innan launch
+    buttonText: "Se på HBO Max",
   },
-  'allente': {
-    id: 'allente',
-    name: 'Allente',
-    displayName: 'ALLENTE',
-    affiliateUrl: '#',        // Byt till riktig affiliate-URL innan launch
-    buttonText: 'Streama på Allente',
+  {
+    id: "allente",
+    name: "Allente",
+    displayName: "ALLENTE",
+    affiliateUrl: "#", // Byt till riktig affiliate-URL innan launch
+    buttonText: "Se på Allente",
   },
-  'kanal-9': {
-    id: 'kanal-9',
-    name: 'Kanal 9',
-    displayName: 'KANAL 9',
-    affiliateUrl: null,       // Ingen affiliate-länk
-    buttonText: null,
+  {
+    id: "kanal-9",
+    name: "Kanal 9",
+    displayName: "KANAL 9",
   },
-  'expressen-tv': {
-    id: 'expressen-tv',
-    name: 'Expressen TV',
-    displayName: 'EXPRESSEN',
-    affiliateUrl: 'https://www.expressen.se/tv',
-    buttonText: 'Streama på Expressen TV',
+  {
+    id: "expressen-tv",
+    name: "Expressen TV",
+    displayName: "EXPRESSEN",
+    affiliateUrl: "https://www.expressen.se/tv",
+    buttonText: "Se på Expressen",
   },
-  'viaplay': {
-    id: 'viaplay',
-    name: 'Viaplay',
-    displayName: 'VIAPLAY',
-    affiliateUrl: '#',        // Byt till riktig affiliate-URL innan launch
-    buttonText: 'Streama på Viaplay',
+  {
+    id: "viaplay",
+    name: "Viaplay",
+    displayName: "VIAPLAY",
+    affiliateUrl: "#", // Byt till riktig affiliate-URL innan launch
+    buttonText: "Se på Viaplay",
   },
-  'movistar-plus': {
-    id: 'movistar-plus',
-    name: 'Movistar Plus',
-    displayName: 'MOVISTAR+',
-    affiliateUrl: null,
-    buttonText: null,
+  {
+    id: "movistar-plus",
+    name: "Movistar+",
+    displayName: "MOVISTAR+",
   },
-  'bein-sports-turkey': {
-    id: 'bein-sports-turkey',
-    name: 'beIN Sports Turkey',
-    displayName: 'BEIN TR',
-    affiliateUrl: null,
-    buttonText: null,
+  {
+    id: "bein-sports-turkey",
+    name: "beIN Sports Turkey",
+    displayName: "BEIN TR",
   },
-  'arena-sport': {
-    id: 'arena-sport',
-    name: 'Arena Sport',
-    displayName: 'ARENA',
-    affiliateUrl: null,
-    buttonText: null,
+  {
+    id: "arena-sport",
+    name: "Arena Sport",
+    displayName: "ARENA",
   },
-  'dyn': {
-    id: 'dyn',
-    name: 'Dyn',
-    displayName: 'DYN',
-    affiliateUrl: null,
-    buttonText: null,
+  {
+    id: "dyn",
+    name: "Dyn",
+    displayName: "DYN",
   },
-  'cosmote-tv': {
-    id: 'cosmote-tv',
-    name: 'Cosmote TV',
-    displayName: 'COSMOTE',
-    affiliateUrl: null,
-    buttonText: null,
+  {
+    id: "cosmote-tv",
+    name: "Cosmote TV",
+    displayName: "COSMOTE",
   },
-  'dazn-italy': {
-    id: 'dazn-italy',
-    name: 'DAZN Italy',
-    displayName: 'DAZN IT',
-    affiliateUrl: null,
-    buttonText: null,
+  {
+    id: "dazn-italy",
+    name: "DAZN Italy",
+    displayName: "DAZN IT",
   },
-  'go3': {
-    id: 'go3',
-    name: 'Go3',
-    displayName: 'GO3',
-    affiliateUrl: null,
-    buttonText: null,
+  {
+    id: "go3",
+    name: "Go3",
+    displayName: "GO3",
   },
-};
+
+  // === NYA ===
+  {
+    id: "eurocup-tv",
+    name: "EuroLeague TV",
+    displayName: "EUROCUP TV",
+    affiliateUrl: "#", // Byt till riktig affiliate-URL innan launch
+    buttonText: "Se på EuroLeague TV",
+  },
+  {
+    id: "courtside1891",
+    name: "Courtside 1891",
+    displayName: "COURTSIDE",
+    affiliateUrl: "#", // Byt till riktig affiliate-URL innan launch
+    buttonText: "Se på Courtside 1891",
+  },
+  {
+    id: "dazn",
+    name: "DAZN",
+    displayName: "DAZN",
+    affiliateUrl: "#", // Byt till riktig affiliate-URL innan launch
+    buttonText: "Se på DAZN",
+  },
+  {
+    id: "courtside1891-max",
+    name: "Courtside 1891 Max",
+    displayName: "COURTSIDE MAX",
+    affiliateUrl: "#", // Byt till riktig affiliate-URL innan launch
+    buttonText: "Se på Courtside Max",
+  },
+  {
+    id: "fiba-plus",
+    name: "FIBA+",
+    displayName: "FIBA+",
+    affiliateUrl: "#", // Byt till riktig affiliate-URL innan launch
+    buttonText: "Se på FIBA+",
+  },
+  {
+    id: "lnb-tv",
+    name: "LNB TV",
+    displayName: "LNB TV",
+  },
+  {
+    id: "bein-sports-fr",
+    name: "beIN Sports France",
+    displayName: "BEIN FR",
+  },
+];
 
 export function getBroadcasterById(id: string): Broadcaster {
-  // Om ID finns i listan, returnera den
-  if (broadcasters[id]) return broadcasters[id];
-
-  // Fallback: skapa en generisk broadcaster från ID-strängen
-  // (för äldre string-broadcasters som "Expressen TV" direkt från API)
-  return {
-    id: id,
-    name: id,
-    displayName: id.toUpperCase().slice(0, 10),
-    affiliateUrl: null,
-    buttonText: null,
-  };
+  return (
+    BROADCASTERS.find((b) => b.id === id) ?? {
+      id,
+      name: id,
+      displayName: id.toUpperCase(),
+    }
+  );
 }

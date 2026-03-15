@@ -173,9 +173,10 @@ export default function LeagueMatches({ league }: LeagueMatchesProps) {
       
       {/* Date Navigation */}
       <div className="mb-8">
-        <DateNavigation 
+        <DateNavigation
+          selectedDate={selectedDate}
           onDateChange={(date) => setSelectedDate(date)}
-        />
+      />
       </div>
 
       {/* Show filtered matches if date selected, otherwise show all grouped by date */}
@@ -189,6 +190,7 @@ export default function LeagueMatches({ league }: LeagueMatchesProps) {
             {filteredMatches.map((match) => (
               <MatchCard
                 key={match.id}
+                id={match.id}
                 league={match.league}
                 home={match.home}
                 away={match.away}

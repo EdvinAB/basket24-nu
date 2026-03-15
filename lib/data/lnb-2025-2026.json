@@ -1,0 +1,4088 @@
+{
+  "league": "LNB",
+  "season": "2025-2026",
+  "updated": "2026-03-01",
+  "total": 240,
+  "matches": [
+    {
+      "id": 454943,
+      "date": "2025-09-26T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Dijon",
+      "away": "Le Mans",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "homeId": 10,
+      "awayId": 23,
+      "venue": "Palais des Sports Jean-Michel Geoffroy",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454941,
+      "date": "2025-09-27T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Boulazac",
+      "away": "Saint Quentin",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "homeId": 22,
+      "awayId": 106,
+      "venue": "Le Palio",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454942,
+      "date": "2025-09-27T18:10:00+02:00",
+      "time": "18:10",
+      "home": "Cholet",
+      "away": "Strasbourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "homeId": 18,
+      "awayId": 25,
+      "venue": "La Meilleraie",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454946,
+      "date": "2025-09-27T18:20:00+02:00",
+      "time": "18:20",
+      "home": "Limoges",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 27,
+      "awayId": 24,
+      "venue": "Palais des Sports de Beaublanc",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454944,
+      "date": "2025-09-27T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Gravelines-Dunkerque",
+      "away": "Paris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "homeId": 17,
+      "awayId": 108,
+      "venue": "Stade des Flandres",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454945,
+      "date": "2025-09-28T16:30:00+02:00",
+      "time": "16:30",
+      "home": "Le Portel",
+      "away": "Monaco",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "homeId": 11,
+      "awayId": 16,
+      "venue": "Le Chaudron",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454947,
+      "date": "2025-09-28T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Lyon-Villeurbanne",
+      "away": "Nancy",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "homeId": 26,
+      "awayId": 100,
+      "venue": "LDLC Arena",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454948,
+      "date": "2025-09-30T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Chalon/Saone",
+      "away": "Nanterre",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "homeId": 20,
+      "awayId": 21,
+      "venue": "Le Colisee",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454956,
+      "date": "2025-10-03T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Cholet",
+      "away": "Boulazac",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "homeId": 18,
+      "awayId": 22,
+      "venue": "La Meilleraie",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454954,
+      "date": "2025-10-04T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Limoges",
+      "away": "Dijon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "homeId": 27,
+      "awayId": 10,
+      "venue": "Palais des Sports de Beaublanc",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454952,
+      "date": "2025-10-04T18:10:00+02:00",
+      "time": "18:10",
+      "home": "Nanterre",
+      "away": "Gravelines-Dunkerque",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "homeId": 21,
+      "awayId": 17,
+      "venue": "Palais des Sports Maurice Thorez",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454950,
+      "date": "2025-10-04T18:20:00+02:00",
+      "time": "18:20",
+      "home": "Strasbourg",
+      "away": "Le Portel",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "homeId": 25,
+      "awayId": 11,
+      "venue": "Rhénus Sport",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454949,
+      "date": "2025-10-04T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Nancy",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 100,
+      "awayId": 24,
+      "venue": "Palais des Sports Jean-Weille",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454953,
+      "date": "2025-10-05T16:30:00+02:00",
+      "time": "16:30",
+      "home": "Monaco",
+      "away": "Chalon/Saone",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "homeId": 16,
+      "awayId": 20,
+      "venue": "Salle Gaston Medecin",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454951,
+      "date": "2025-10-05T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Saint Quentin",
+      "away": "Lyon-Villeurbanne",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "homeId": 106,
+      "awayId": 26,
+      "venue": "Palais des Sports Pierre Ratte",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454955,
+      "date": "2025-10-06T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Le Mans",
+      "away": "Paris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "homeId": 23,
+      "awayId": 108,
+      "venue": "Antares",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454963,
+      "date": "2025-10-10T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Nanterre",
+      "away": "Limoges",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "homeId": 21,
+      "awayId": 27,
+      "venue": "Palais des Sports Maurice Thorez",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454961,
+      "date": "2025-10-11T18:00:00+02:00",
+      "time": "18:00",
+      "home": "JL Bourg",
+      "away": "Le Portel",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "homeId": 24,
+      "awayId": 11,
+      "venue": "Ekinox",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454958,
+      "date": "2025-10-11T18:10:00+02:00",
+      "time": "18:10",
+      "home": "Chalon/Saone",
+      "away": "Saint Quentin",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "homeId": 20,
+      "awayId": 106,
+      "venue": "Le Colisee",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454957,
+      "date": "2025-10-11T18:20:00+02:00",
+      "time": "18:20",
+      "home": "Boulazac",
+      "away": "Nancy",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "homeId": 22,
+      "awayId": 100,
+      "venue": "Le Palio",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454959,
+      "date": "2025-10-11T18:30:00+02:00",
+      "time": "18:30",
+      "home": "Dijon",
+      "away": "Cholet",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "homeId": 10,
+      "awayId": 18,
+      "venue": "Palais des Sports Jean-Michel Geoffroy",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454962,
+      "date": "2025-10-11T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Lyon-Villeurbanne",
+      "away": "Le Mans",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "homeId": 26,
+      "awayId": 23,
+      "venue": "LDLC Arena",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454960,
+      "date": "2025-10-12T16:30:00+02:00",
+      "time": "16:30",
+      "home": "Gravelines-Dunkerque",
+      "away": "Strasbourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "homeId": 17,
+      "awayId": 25,
+      "venue": "Stade des Flandres",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454964,
+      "date": "2025-10-12T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Paris",
+      "away": "Monaco",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "homeId": 108,
+      "awayId": 16,
+      "venue": "Adidas Arena",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454967,
+      "date": "2025-10-17T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Saint Quentin",
+      "away": "Gravelines-Dunkerque",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "homeId": 106,
+      "awayId": 17,
+      "venue": "Palais des Sports Pierre Ratte",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454966,
+      "date": "2025-10-18T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Strasbourg",
+      "away": "Nanterre",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "homeId": 25,
+      "awayId": 21,
+      "venue": "Rhénus Sport",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454970,
+      "date": "2025-10-18T18:10:00+02:00",
+      "time": "18:10",
+      "home": "Le Portel",
+      "away": "Boulazac",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "homeId": 11,
+      "awayId": 22,
+      "venue": "Le Chaudron",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454965,
+      "date": "2025-10-18T18:20:00+02:00",
+      "time": "18:20",
+      "home": "Nancy",
+      "away": "Limoges",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "homeId": 100,
+      "awayId": 27,
+      "venue": "Palais des Sports Jean-Weille",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454972,
+      "date": "2025-10-18T18:30:00+02:00",
+      "time": "18:30",
+      "home": "Cholet",
+      "away": "Chalon/Saone",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "homeId": 18,
+      "awayId": 20,
+      "venue": "La Meilleraie",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454971,
+      "date": "2025-10-18T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Le Mans",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 23,
+      "awayId": 24,
+      "venue": "Antares",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454968,
+      "date": "2025-10-19T16:30:00+02:00",
+      "time": "16:30",
+      "home": "Paris",
+      "away": "Dijon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "homeId": 108,
+      "awayId": 10,
+      "venue": "Adidas Arena",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454969,
+      "date": "2025-10-19T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Lyon-Villeurbanne",
+      "away": "Monaco",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "homeId": 26,
+      "awayId": 16,
+      "venue": "LDLC Arena",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454978,
+      "date": "2025-10-24T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Limoges",
+      "away": "Saint Quentin",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "homeId": 27,
+      "awayId": 106,
+      "venue": "Palais des Sports de Beaublanc",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454977,
+      "date": "2025-10-25T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Le Mans",
+      "away": "Le Portel",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "homeId": 23,
+      "awayId": 11,
+      "venue": "Antares",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454975,
+      "date": "2025-10-25T18:10:00+02:00",
+      "time": "18:10",
+      "home": "Gravelines-Dunkerque",
+      "away": "Nancy",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "homeId": 17,
+      "awayId": 100,
+      "venue": "Stade des Flandres",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454974,
+      "date": "2025-10-25T18:20:00+02:00",
+      "time": "18:20",
+      "home": "Dijon",
+      "away": "Strasbourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "homeId": 10,
+      "awayId": 25,
+      "venue": "Palais des Sports Jean-Michel Geoffroy",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454976,
+      "date": "2025-10-25T18:30:00+02:00",
+      "time": "18:30",
+      "home": "JL Bourg",
+      "away": "Cholet",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "homeId": 24,
+      "awayId": 18,
+      "venue": "Ekinox",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454980,
+      "date": "2025-10-25T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Nanterre",
+      "away": "Lyon-Villeurbanne",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "homeId": 21,
+      "awayId": 26,
+      "venue": "Palais des Sports Maurice Thorez",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454979,
+      "date": "2025-10-26T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Monaco",
+      "away": "Boulazac",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "homeId": 16,
+      "awayId": 22,
+      "venue": "Salle Gaston Medecin",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454973,
+      "date": "2025-10-26T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Chalon/Saone",
+      "away": "Paris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "homeId": 20,
+      "awayId": 108,
+      "venue": "Le Colisee",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455023,
+      "date": "2025-10-28T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Limoges",
+      "away": "Le Portel",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "homeId": 27,
+      "awayId": 11,
+      "venue": "Palais des Sports de Beaublanc",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454983,
+      "date": "2025-10-31T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Saint Quentin",
+      "away": "Nanterre",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "homeId": 106,
+      "awayId": 21,
+      "venue": "Palais des Sports Pierre Ratte",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454986,
+      "date": "2025-11-01T18:00:00+01:00",
+      "time": "18:00",
+      "home": "JL Bourg",
+      "away": "Dijon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "homeId": 24,
+      "awayId": 10,
+      "venue": "Ekinox",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454982,
+      "date": "2025-11-01T18:10:00+01:00",
+      "time": "18:10",
+      "home": "Strasbourg",
+      "away": "Nancy",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "homeId": 25,
+      "awayId": 100,
+      "venue": "Rhénus Sport",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454984,
+      "date": "2025-11-01T18:20:00+01:00",
+      "time": "18:20",
+      "home": "Le Portel",
+      "away": "Gravelines-Dunkerque",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "homeId": 11,
+      "awayId": 17,
+      "venue": "Le Chaudron",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454987,
+      "date": "2025-11-01T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Cholet",
+      "away": "Le Mans",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "homeId": 18,
+      "awayId": 23,
+      "venue": "La Meilleraie",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454981,
+      "date": "2025-11-01T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Lyon-Villeurbanne",
+      "away": "Chalon/Saone",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "homeId": 26,
+      "awayId": 20,
+      "venue": "LDLC Arena",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454988,
+      "date": "2025-11-02T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Boulazac",
+      "away": "Paris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "homeId": 22,
+      "awayId": 108,
+      "venue": "Le Palio",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454985,
+      "date": "2025-11-02T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Limoges",
+      "away": "Monaco",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "homeId": 27,
+      "awayId": 16,
+      "venue": "Palais des Sports de Beaublanc",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454994,
+      "date": "2025-11-07T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Nancy",
+      "away": "Cholet",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "homeId": 100,
+      "awayId": 18,
+      "venue": "Palais des Sports Jean-Weille",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454992,
+      "date": "2025-11-08T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Le Mans",
+      "away": "Strasbourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "homeId": 23,
+      "awayId": 25,
+      "venue": "Antares",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454989,
+      "date": "2025-11-08T18:10:00+01:00",
+      "time": "18:10",
+      "home": "Boulazac",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 22,
+      "awayId": 24,
+      "venue": "Le Palio",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454995,
+      "date": "2025-11-08T18:20:00+01:00",
+      "time": "18:20",
+      "home": "Nanterre",
+      "away": "Le Portel",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "homeId": 21,
+      "awayId": 11,
+      "venue": "Palais des Sports Maurice Thorez",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454990,
+      "date": "2025-11-08T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Chalon/Saone",
+      "away": "Dijon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "homeId": 20,
+      "awayId": 10,
+      "venue": "Le Colisee",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454991,
+      "date": "2025-11-08T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Gravelines-Dunkerque",
+      "away": "Lyon-Villeurbanne",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "homeId": 17,
+      "awayId": 26,
+      "venue": "Stade des Flandres",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454993,
+      "date": "2025-11-09T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Monaco",
+      "away": "Saint Quentin",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "homeId": 16,
+      "awayId": 106,
+      "venue": "Salle Gaston Medecin",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454996,
+      "date": "2025-11-09T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Paris",
+      "away": "Limoges",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "homeId": 108,
+      "awayId": 27,
+      "venue": "Adidas Arena",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455020,
+      "date": "2025-11-11T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Boulazac",
+      "away": "Gravelines-Dunkerque",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "homeId": 22,
+      "awayId": 17,
+      "venue": "Le Palio",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455004,
+      "date": "2025-11-14T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Cholet",
+      "away": "Nanterre",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "homeId": 18,
+      "awayId": 21,
+      "venue": "La Meilleraie",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454999,
+      "date": "2025-11-15T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Saint Quentin",
+      "away": "Nancy",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "homeId": 106,
+      "awayId": 100,
+      "venue": "Palais des Sports Pierre Ratte",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455003,
+      "date": "2025-11-15T18:10:00+01:00",
+      "time": "18:10",
+      "home": "Dijon",
+      "away": "Gravelines-Dunkerque",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "homeId": 10,
+      "awayId": 17,
+      "venue": "Palais des Sports Jean-Michel Geoffroy",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454997,
+      "date": "2025-11-15T18:20:00+01:00",
+      "time": "18:20",
+      "home": "Le Portel",
+      "away": "Chalon/Saone",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "homeId": 11,
+      "awayId": 20,
+      "venue": "Le Chaudron",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 454998,
+      "date": "2025-11-15T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Strasbourg",
+      "away": "Boulazac",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "homeId": 25,
+      "awayId": 22,
+      "venue": "Rhénus Sport",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455002,
+      "date": "2025-11-15T20:30:00+01:00",
+      "time": "20:30",
+      "home": "JL Bourg",
+      "away": "Paris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "homeId": 24,
+      "awayId": 108,
+      "venue": "Ekinox",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455000,
+      "date": "2025-11-16T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Limoges",
+      "away": "Lyon-Villeurbanne",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "homeId": 27,
+      "awayId": 26,
+      "venue": "Palais des Sports de Beaublanc",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455001,
+      "date": "2025-11-16T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Le Mans",
+      "away": "Monaco",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "homeId": 23,
+      "awayId": 16,
+      "venue": "Antares",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455010,
+      "date": "2025-11-22T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Nanterre",
+      "away": "Boulazac",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "homeId": 21,
+      "awayId": 22,
+      "venue": "Palais des Sports Maurice Thorez",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455009,
+      "date": "2025-11-22T18:10:00+01:00",
+      "time": "18:10",
+      "home": "Nancy",
+      "away": "Le Mans",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "homeId": 100,
+      "awayId": 23,
+      "venue": "Palais des Sports Jean-Weille",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455005,
+      "date": "2025-11-22T18:20:00+01:00",
+      "time": "18:20",
+      "home": "Chalon/Saone",
+      "away": "Strasbourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "homeId": 20,
+      "awayId": 25,
+      "venue": "Le Colisee",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455012,
+      "date": "2025-11-22T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Saint Quentin",
+      "away": "Cholet",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "homeId": 106,
+      "awayId": 18,
+      "venue": "Palais des Sports Pierre Ratte",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455007,
+      "date": "2025-11-22T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Lyon-Villeurbanne",
+      "away": "Dijon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "homeId": 26,
+      "awayId": 10,
+      "venue": "LDLC Arena",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455008,
+      "date": "2025-11-23T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Monaco",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 16,
+      "awayId": 24,
+      "venue": "Salle Gaston Medecin",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455013,
+      "date": "2025-12-05T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Le Portel",
+      "away": "Nancy",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "homeId": 11,
+      "awayId": 100,
+      "venue": "Le Chaudron",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455017,
+      "date": "2025-12-06T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Le Mans",
+      "away": "Chalon/Saone",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "homeId": 23,
+      "awayId": 20,
+      "venue": "Antares",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455019,
+      "date": "2025-12-06T18:10:00+01:00",
+      "time": "18:10",
+      "home": "Cholet",
+      "away": "Limoges",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "homeId": 18,
+      "awayId": 27,
+      "venue": "La Meilleraie",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455014,
+      "date": "2025-12-06T18:20:00+01:00",
+      "time": "18:20",
+      "home": "Strasbourg",
+      "away": "Lyon-Villeurbanne",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "homeId": 25,
+      "awayId": 26,
+      "venue": "Rhénus Sport",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455018,
+      "date": "2025-12-06T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Dijon",
+      "away": "Monaco",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "homeId": 10,
+      "awayId": 16,
+      "venue": "Palais des Sports Jean-Michel Geoffroy",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455016,
+      "date": "2025-12-07T16:30:00+01:00",
+      "time": "16:30",
+      "home": "JL Bourg",
+      "away": "Nanterre",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "homeId": 24,
+      "awayId": 21,
+      "venue": "Ekinox",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455015,
+      "date": "2025-12-07T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Paris",
+      "away": "Saint Quentin",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "homeId": 108,
+      "awayId": 106,
+      "venue": "Adidas Arena",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455006,
+      "date": "2025-12-09T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Gravelines-Dunkerque",
+      "away": "Limoges",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "homeId": 17,
+      "awayId": 27,
+      "venue": "Stade des Flandres",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455011,
+      "date": "2025-12-09T21:00:00+01:00",
+      "time": "21:00",
+      "home": "Paris",
+      "away": "Le Portel",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "homeId": 108,
+      "awayId": 11,
+      "venue": "Adidas Arena",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455027,
+      "date": "2025-12-12T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Nanterre",
+      "away": "Le Mans",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "homeId": 21,
+      "awayId": 23,
+      "venue": "Palais des Sports Maurice Thorez",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455021,
+      "date": "2025-12-13T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Chalon/Saone",
+      "away": "Boulazac",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "homeId": 20,
+      "awayId": 22,
+      "venue": "Le Colisee",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455028,
+      "date": "2025-12-13T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Saint Quentin",
+      "away": "Dijon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "homeId": 106,
+      "awayId": 10,
+      "venue": "Palais des Sports Pierre Ratte",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455026,
+      "date": "2025-12-13T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Nancy",
+      "away": "Paris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "homeId": 100,
+      "awayId": 108,
+      "venue": "Palais des Sports Jean-Weille",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455022,
+      "date": "2025-12-14T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Gravelines-Dunkerque",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 17,
+      "awayId": 24,
+      "venue": "Stade des Flandres",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455025,
+      "date": "2025-12-14T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Monaco",
+      "away": "Strasbourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "homeId": 16,
+      "awayId": 25,
+      "venue": "Salle Gaston Medecin",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455024,
+      "date": "2025-12-14T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Lyon-Villeurbanne",
+      "away": "Cholet",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "homeId": 26,
+      "awayId": 18,
+      "venue": "LDLC Arena",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455036,
+      "date": "2025-12-19T20:50:00+01:00",
+      "time": "20:50",
+      "home": "Boulazac",
+      "away": "Limoges",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "homeId": 22,
+      "awayId": 27,
+      "venue": "Le Palio",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455035,
+      "date": "2025-12-20T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Dijon",
+      "away": "Nancy",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "homeId": 10,
+      "awayId": 100,
+      "venue": "Palais des Sports Jean-Michel Geoffroy",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455032,
+      "date": "2025-12-20T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Le Mans",
+      "away": "Gravelines-Dunkerque",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "homeId": 23,
+      "awayId": 17,
+      "venue": "Antares",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455034,
+      "date": "2025-12-20T20:30:00+01:00",
+      "time": "20:30",
+      "home": "JL Bourg",
+      "away": "Chalon/Saone",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "homeId": 24,
+      "awayId": 20,
+      "venue": "Ekinox",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455029,
+      "date": "2025-12-21T15:00:00+01:00",
+      "time": "15:00",
+      "home": "Monaco",
+      "away": "Nanterre",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "homeId": 16,
+      "awayId": 21,
+      "venue": "Salle Gaston Medecin",
+      "status": "AOT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455030,
+      "date": "2025-12-21T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Strasbourg",
+      "away": "Saint Quentin",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "homeId": 25,
+      "awayId": 106,
+      "venue": "Rhénus Sport",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455033,
+      "date": "2025-12-21T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Le Portel",
+      "away": "Lyon-Villeurbanne",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "homeId": 11,
+      "awayId": 26,
+      "venue": "Le Chaudron",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455031,
+      "date": "2025-12-21T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Paris",
+      "away": "Cholet",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "homeId": 108,
+      "awayId": 18,
+      "venue": "Adidas Arena",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455042,
+      "date": "2025-12-23T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Nancy",
+      "away": "Nanterre",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "homeId": 100,
+      "awayId": 21,
+      "venue": "Palais des Sports Jean-Weille",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455038,
+      "date": "2025-12-23T16:40:00+01:00",
+      "time": "16:40",
+      "home": "Dijon",
+      "away": "Le Portel",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "homeId": 10,
+      "awayId": 11,
+      "venue": "Palais des Sports Jean-Michel Geoffroy",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455039,
+      "date": "2025-12-23T16:50:00+01:00",
+      "time": "16:50",
+      "home": "Gravelines-Dunkerque",
+      "away": "Chalon/Saone",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "homeId": 17,
+      "awayId": 20,
+      "venue": "Stade des Flandres",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455044,
+      "date": "2025-12-23T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Saint Quentin",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 106,
+      "awayId": 24,
+      "venue": "Palais des Sports Pierre Ratte",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455040,
+      "date": "2025-12-23T17:10:00+01:00",
+      "time": "17:10",
+      "home": "Limoges",
+      "away": "Le Mans",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "homeId": 27,
+      "awayId": 23,
+      "venue": "Palais des Sports de Beaublanc",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455037,
+      "date": "2025-12-23T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Cholet",
+      "away": "Monaco",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "homeId": 18,
+      "awayId": 16,
+      "venue": "La Meilleraie",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455048,
+      "date": "2025-12-26T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Le Mans",
+      "away": "Saint Quentin",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "homeId": 23,
+      "awayId": 106,
+      "venue": "Antares",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455052,
+      "date": "2025-12-26T16:40:00+01:00",
+      "time": "16:40",
+      "home": "Boulazac",
+      "away": "Dijon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "homeId": 22,
+      "awayId": 10,
+      "venue": "Le Palio",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455049,
+      "date": "2025-12-26T16:50:00+01:00",
+      "time": "16:50",
+      "home": "Le Portel",
+      "away": "Cholet",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "homeId": 11,
+      "awayId": 18,
+      "venue": "Le Chaudron",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455051,
+      "date": "2025-12-26T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Chalon/Saone",
+      "away": "Nancy",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "homeId": 20,
+      "awayId": 100,
+      "venue": "Le Colisee",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455046,
+      "date": "2025-12-26T17:10:00+01:00",
+      "time": "17:10",
+      "home": "Strasbourg",
+      "away": "Limoges",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "homeId": 25,
+      "awayId": 27,
+      "venue": "Rhénus Sport",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455047,
+      "date": "2025-12-26T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Nanterre",
+      "away": "Paris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "homeId": 21,
+      "awayId": 108,
+      "venue": "Palais des Sports Maurice Thorez",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455050,
+      "date": "2025-12-26T21:00:00+01:00",
+      "time": "21:00",
+      "home": "JL Bourg",
+      "away": "Lyon-Villeurbanne",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "homeId": 24,
+      "awayId": 26,
+      "venue": "Ekinox",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455054,
+      "date": "2026-01-10T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Dijon",
+      "away": "Nanterre",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "homeId": 10,
+      "awayId": 21,
+      "venue": "Palais des Sports Jean-Michel Geoffroy",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455053,
+      "date": "2026-01-10T18:10:00+01:00",
+      "time": "18:10",
+      "home": "Boulazac",
+      "away": "Le Mans",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "homeId": 22,
+      "awayId": 23,
+      "venue": "Le Palio",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455057,
+      "date": "2026-01-10T18:20:00+01:00",
+      "time": "18:20",
+      "home": "Limoges",
+      "away": "Chalon/Saone",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "homeId": 27,
+      "awayId": 20,
+      "venue": "Palais des Sports de Beaublanc",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455060,
+      "date": "2026-01-10T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Saint Quentin",
+      "away": "Le Portel",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "homeId": 106,
+      "awayId": 11,
+      "venue": "Palais des Sports Pierre Ratte",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455056,
+      "date": "2026-01-10T18:40:00+01:00",
+      "time": "18:40",
+      "home": "JL Bourg",
+      "away": "Strasbourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "homeId": 24,
+      "awayId": 25,
+      "venue": "Ekinox",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455059,
+      "date": "2026-01-10T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Nancy",
+      "away": "Monaco",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "homeId": 100,
+      "awayId": 16,
+      "venue": "Palais des Sports Jean-Weille",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455055,
+      "date": "2026-01-11T17:30:00+01:00",
+      "time": "17:30",
+      "home": "Gravelines-Dunkerque",
+      "away": "Cholet",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "homeId": 17,
+      "awayId": 18,
+      "venue": "Stade des Flandres",
+      "status": "AOT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455058,
+      "date": "2026-01-11T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Lyon-Villeurbanne",
+      "away": "Paris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "homeId": 26,
+      "awayId": 108,
+      "venue": "LDLC Arena",
+      "status": "AOT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455045,
+      "date": "2026-01-13T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Monaco",
+      "away": "Gravelines-Dunkerque",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "homeId": 16,
+      "awayId": 17,
+      "venue": "Salle Gaston Medecin",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455041,
+      "date": "2026-01-13T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Lyon-Villeurbanne",
+      "away": "Boulazac",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "homeId": 26,
+      "awayId": 22,
+      "venue": "LDLC Arena",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455043,
+      "date": "2026-01-13T21:10:00+01:00",
+      "time": "21:10",
+      "home": "Paris",
+      "away": "Strasbourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "homeId": 108,
+      "awayId": 25,
+      "venue": "Adidas Arena",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455065,
+      "date": "2026-01-16T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Nancy",
+      "away": "Boulazac",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "homeId": 100,
+      "awayId": 22,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455067,
+      "date": "2026-01-17T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Dijon",
+      "away": "Chalon/Saone",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "homeId": 10,
+      "awayId": 20,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455062,
+      "date": "2026-01-17T18:10:00+01:00",
+      "time": "18:10",
+      "home": "Strasbourg",
+      "away": "Gravelines-Dunkerque",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "homeId": 25,
+      "awayId": 17,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455064,
+      "date": "2026-01-17T18:20:00+01:00",
+      "time": "18:20",
+      "home": "Cholet",
+      "away": "Saint Quentin",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "homeId": 18,
+      "awayId": 106,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455068,
+      "date": "2026-01-17T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Monaco",
+      "away": "Limoges",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "homeId": 16,
+      "awayId": 27,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455061,
+      "date": "2026-01-17T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Nanterre",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 21,
+      "awayId": 24,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455066,
+      "date": "2026-01-18T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Lyon-Villeurbanne",
+      "away": "Le Portel",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "homeId": 26,
+      "awayId": 11,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455063,
+      "date": "2026-01-18T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Paris",
+      "away": "Le Mans",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "homeId": 108,
+      "awayId": 23,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455070,
+      "date": "2026-01-23T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Limoges",
+      "away": "Strasbourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "homeId": 27,
+      "awayId": 25,
+      "venue": "Palais des Sports de Beaublanc",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455076,
+      "date": "2026-01-24T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Boulazac",
+      "away": "Nanterre",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "homeId": 22,
+      "awayId": 21,
+      "venue": "Le Palio",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455074,
+      "date": "2026-01-24T18:10:00+01:00",
+      "time": "18:10",
+      "home": "Gravelines-Dunkerque",
+      "away": "Dijon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "homeId": 17,
+      "awayId": 10,
+      "venue": "Stade des Flandres",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455075,
+      "date": "2026-01-24T18:20:00+01:00",
+      "time": "18:20",
+      "home": "Chalon/Saone",
+      "away": "Cholet",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "homeId": 20,
+      "awayId": 18,
+      "venue": "Le Colisee",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455071,
+      "date": "2026-01-24T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Le Portel",
+      "away": "Paris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "homeId": 11,
+      "awayId": 108,
+      "venue": "Le Chaudron",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455073,
+      "date": "2026-01-25T16:00:00+01:00",
+      "time": "16:00",
+      "home": "JL Bourg",
+      "away": "Nancy",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "homeId": 24,
+      "awayId": 100,
+      "venue": "Ekinox",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455072,
+      "date": "2026-01-25T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Saint Quentin",
+      "away": "Monaco",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "homeId": 106,
+      "awayId": 16,
+      "venue": "Palais des Sports Pierre Ratte",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455069,
+      "date": "2026-01-25T19:10:00+01:00",
+      "time": "19:10",
+      "home": "Le Mans",
+      "away": "Lyon-Villeurbanne",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "homeId": 23,
+      "awayId": 26,
+      "venue": "Antares",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455083,
+      "date": "2026-01-30T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Saint Quentin",
+      "away": "Limoges",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "homeId": 106,
+      "awayId": 27,
+      "venue": "Palais des Sports Pierre Ratte",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455077,
+      "date": "2026-01-31T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Cholet",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 18,
+      "awayId": 24,
+      "venue": "La Meilleraie",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455080,
+      "date": "2026-01-31T18:10:00+01:00",
+      "time": "18:10",
+      "home": "Nancy",
+      "away": "Gravelines-Dunkerque",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "homeId": 100,
+      "awayId": 17,
+      "venue": "Palais des Sports Jean-Weille",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455081,
+      "date": "2026-01-31T18:20:00+01:00",
+      "time": "18:20",
+      "home": "Nanterre",
+      "away": "Chalon/Saone",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "homeId": 21,
+      "awayId": 20,
+      "venue": "Palais des Sports Maurice Thorez",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455084,
+      "date": "2026-01-31T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Strasbourg",
+      "away": "Le Mans",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "homeId": 25,
+      "awayId": 23,
+      "venue": "Rhénus Sport",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455079,
+      "date": "2026-02-01T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Monaco",
+      "away": "Le Portel",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "homeId": 16,
+      "awayId": 11,
+      "venue": "Salle Gaston Medecin",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455082,
+      "date": "2026-02-01T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Paris",
+      "away": "Boulazac",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "homeId": 108,
+      "awayId": 22,
+      "venue": "Adidas Arena",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455078,
+      "date": "2026-02-01T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Dijon",
+      "away": "Lyon-Villeurbanne",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "homeId": 10,
+      "awayId": 26,
+      "venue": "Palais des Sports Jean-Michel Geoffroy",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455090,
+      "date": "2026-02-06T20:30:00+01:00",
+      "time": "20:30",
+      "home": "JL Bourg",
+      "away": "Boulazac",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "homeId": 24,
+      "awayId": 22,
+      "venue": "Ekinox",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455091,
+      "date": "2026-02-07T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Gravelines-Dunkerque",
+      "away": "Saint Quentin",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "homeId": 17,
+      "awayId": 106,
+      "venue": "Stade des Flandres",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455089,
+      "date": "2026-02-07T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Le Mans",
+      "away": "Dijon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "homeId": 23,
+      "awayId": 10,
+      "venue": "Antares",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455088,
+      "date": "2026-02-07T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Paris",
+      "away": "Nancy",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "homeId": 108,
+      "awayId": 100,
+      "venue": "Adidas Arena",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455087,
+      "date": "2026-02-08T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Limoges",
+      "away": "Cholet",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "homeId": 27,
+      "awayId": 18,
+      "venue": "Palais des Sports de Beaublanc",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455086,
+      "date": "2026-02-08T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Lyon-Villeurbanne",
+      "away": "Nanterre",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "homeId": 26,
+      "awayId": 21,
+      "venue": "LDLC Arena",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455092,
+      "date": "2026-02-08T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Chalon/Saone",
+      "away": "Monaco",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "homeId": 20,
+      "awayId": 16,
+      "venue": "Le Colisee",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455095,
+      "date": "2026-02-13T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Cholet",
+      "away": "Gravelines-Dunkerque",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "homeId": 18,
+      "awayId": 17,
+      "venue": "La Meilleraie",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455100,
+      "date": "2026-02-14T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Strasbourg",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 25,
+      "awayId": 24,
+      "venue": "Rhénus Sport",
+      "status": "AOT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455093,
+      "date": "2026-02-14T18:10:00+01:00",
+      "time": "18:10",
+      "home": "Boulazac",
+      "away": "Le Portel",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "homeId": 22,
+      "awayId": 11,
+      "venue": "Le Palio",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455096,
+      "date": "2026-02-14T18:20:00+01:00",
+      "time": "18:20",
+      "home": "Dijon",
+      "away": "Limoges",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "homeId": 10,
+      "awayId": 27,
+      "venue": "Palais des Sports Jean-Michel Geoffroy",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455097,
+      "date": "2026-02-14T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Nancy",
+      "away": "Lyon-Villeurbanne",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "homeId": 100,
+      "awayId": 26,
+      "venue": "Palais des Sports Jean-Weille",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455094,
+      "date": "2026-02-14T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Chalon/Saone",
+      "away": "Le Mans",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "homeId": 20,
+      "awayId": 23,
+      "venue": "Le Colisee",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455099,
+      "date": "2026-02-15T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Saint Quentin",
+      "away": "Paris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "homeId": 106,
+      "awayId": 108,
+      "venue": "Palais des Sports Pierre Ratte",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455098,
+      "date": "2026-02-15T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Nanterre",
+      "away": "Monaco",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "homeId": 21,
+      "awayId": 16,
+      "venue": "Palais des Sports Maurice Thorez",
+      "status": "FT",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455106,
+      "date": "2026-03-07T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Le Portel",
+      "away": "Saint Quentin",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "homeId": 11,
+      "awayId": 106,
+      "venue": "Le Chaudron",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455101,
+      "date": "2026-03-07T18:10:00+01:00",
+      "time": "18:10",
+      "home": "Strasbourg",
+      "away": "Dijon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "homeId": 25,
+      "awayId": 10,
+      "venue": "Rhénus Sport",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455102,
+      "date": "2026-03-07T18:20:00+01:00",
+      "time": "18:20",
+      "home": "Nancy",
+      "away": "Chalon/Saone",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "homeId": 100,
+      "awayId": 20,
+      "venue": "Palais des Sports Jean-Weille",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455107,
+      "date": "2026-03-07T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Le Mans",
+      "away": "Nanterre",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "homeId": 23,
+      "awayId": 21,
+      "venue": "Antares",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455105,
+      "date": "2026-03-07T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Lyon-Villeurbanne",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 26,
+      "awayId": 24,
+      "venue": "LDLC Arena",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455103,
+      "date": "2026-03-07T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Monaco",
+      "away": "Cholet",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "homeId": 16,
+      "awayId": 18,
+      "venue": "Salle Gaston Medecin",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455108,
+      "date": "2026-03-08T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Gravelines-Dunkerque",
+      "away": "Boulazac",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "homeId": 17,
+      "awayId": 22,
+      "venue": "Stade des Flandres",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455104,
+      "date": "2026-03-08T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Limoges",
+      "away": "Paris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "homeId": 27,
+      "awayId": 108,
+      "venue": "Palais des Sports de Beaublanc",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455128,
+      "date": "2026-03-10T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Le Portel",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 11,
+      "awayId": 24,
+      "venue": "Le Chaudron",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455110,
+      "date": "2026-03-13T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Chalon/Saone",
+      "away": "Limoges",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "homeId": 20,
+      "awayId": 27,
+      "venue": "Le Colisee",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455113,
+      "date": "2026-03-14T18:00:00+01:00",
+      "time": "18:00",
+      "home": "JL Bourg",
+      "away": "Le Mans",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "homeId": 24,
+      "awayId": 23,
+      "venue": "Ekinox",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455111,
+      "date": "2026-03-14T18:10:00+01:00",
+      "time": "18:10",
+      "home": "Cholet",
+      "away": "Le Portel",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "homeId": 18,
+      "awayId": 11,
+      "venue": "La Meilleraie",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455114,
+      "date": "2026-03-14T18:20:00+01:00",
+      "time": "18:20",
+      "home": "Monaco",
+      "away": "Nancy",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "homeId": 16,
+      "awayId": 100,
+      "venue": "Salle Gaston Medecin",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455109,
+      "date": "2026-03-14T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Boulazac",
+      "away": "Lyon-Villeurbanne",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "homeId": 22,
+      "awayId": 26,
+      "venue": "Le Palio",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455112,
+      "date": "2026-03-15T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Dijon",
+      "away": "Saint Quentin",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "homeId": 10,
+      "awayId": 106,
+      "venue": "Palais des Sports Jean-Michel Geoffroy",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455116,
+      "date": "2026-03-15T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Paris",
+      "away": "Gravelines-Dunkerque",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "homeId": 108,
+      "awayId": 17,
+      "venue": "Adidas Arena",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455115,
+      "date": "2026-03-15T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Nanterre",
+      "away": "Strasbourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "homeId": 21,
+      "awayId": 25,
+      "venue": "Palais des Sports Maurice Thorez",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455118,
+      "date": "2026-03-20T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Nancy",
+      "away": "Dijon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "homeId": 100,
+      "awayId": 10,
+      "venue": "Palais des Sports Jean-Weille",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455123,
+      "date": "2026-03-21T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Le Portel",
+      "away": "Nanterre",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "homeId": 11,
+      "awayId": 21,
+      "venue": "Le Chaudron",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455120,
+      "date": "2026-03-21T18:10:00+01:00",
+      "time": "18:10",
+      "home": "Saint Quentin",
+      "away": "Chalon/Saone",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "homeId": 106,
+      "awayId": 20,
+      "venue": "Palais des Sports Pierre Ratte",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455124,
+      "date": "2026-03-21T18:20:00+01:00",
+      "time": "18:20",
+      "home": "Le Mans",
+      "away": "Boulazac",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "homeId": 23,
+      "awayId": 22,
+      "venue": "Antares",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455117,
+      "date": "2026-03-21T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Strasbourg",
+      "away": "Cholet",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "homeId": 25,
+      "awayId": 18,
+      "venue": "Rhénus Sport",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455122,
+      "date": "2026-03-21T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Gravelines-Dunkerque",
+      "away": "Monaco",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "homeId": 17,
+      "awayId": 16,
+      "venue": "Stade des Flandres",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455121,
+      "date": "2026-03-22T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Lyon-Villeurbanne",
+      "away": "Limoges",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "homeId": 26,
+      "awayId": 27,
+      "venue": "LDLC Arena",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455119,
+      "date": "2026-03-22T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Paris",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 108,
+      "awayId": 24,
+      "venue": "Adidas Arena",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455125,
+      "date": "2026-03-27T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Chalon/Saone",
+      "away": "Gravelines-Dunkerque",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "homeId": 20,
+      "awayId": 17,
+      "venue": "Le Colisee",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455127,
+      "date": "2026-03-27T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Dijon",
+      "away": "Paris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "homeId": 10,
+      "awayId": 108,
+      "venue": "Palais des Sports Jean-Michel Geoffroy",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455129,
+      "date": "2026-03-28T18:10:00+01:00",
+      "time": "18:10",
+      "home": "Limoges",
+      "away": "Nancy",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "homeId": 27,
+      "awayId": 100,
+      "venue": "Palais des Sports de Beaublanc",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455131,
+      "date": "2026-03-28T18:20:00+01:00",
+      "time": "18:20",
+      "home": "Nanterre",
+      "away": "Saint Quentin",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "homeId": 21,
+      "awayId": 106,
+      "venue": "Palais des Sports Maurice Thorez",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455126,
+      "date": "2026-03-28T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Cholet",
+      "away": "Lyon-Villeurbanne",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "homeId": 18,
+      "awayId": 26,
+      "venue": "La Meilleraie",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455132,
+      "date": "2026-03-29T16:30:00+02:00",
+      "time": "16:30",
+      "home": "Boulazac",
+      "away": "Strasbourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "homeId": 22,
+      "awayId": 25,
+      "venue": "Le Palio",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455130,
+      "date": "2026-03-29T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Monaco",
+      "away": "Le Mans",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "homeId": 16,
+      "awayId": 23,
+      "venue": "Salle Gaston Medecin",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455136,
+      "date": "2026-04-03T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Nancy",
+      "away": "Strasbourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "homeId": 100,
+      "awayId": 25,
+      "venue": "Palais des Sports Jean-Weille",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455134,
+      "date": "2026-04-04T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Saint Quentin",
+      "away": "Boulazac",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "homeId": 106,
+      "awayId": 22,
+      "venue": "Palais des Sports Pierre Ratte",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455140,
+      "date": "2026-04-04T18:30:00+02:00",
+      "time": "18:30",
+      "home": "Le Mans",
+      "away": "Cholet",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "homeId": 23,
+      "awayId": 18,
+      "venue": "Antares",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455135,
+      "date": "2026-04-04T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Paris",
+      "away": "Nanterre",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "homeId": 108,
+      "awayId": 21,
+      "venue": "Adidas Arena",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455138,
+      "date": "2026-04-05T15:00:00+02:00",
+      "time": "15:00",
+      "home": "Gravelines-Dunkerque",
+      "away": "Le Portel",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "homeId": 17,
+      "awayId": 11,
+      "venue": "Stade des Flandres",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455137,
+      "date": "2026-04-05T16:00:00+02:00",
+      "time": "16:00",
+      "home": "JL Bourg",
+      "away": "Limoges",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "homeId": 24,
+      "awayId": 27,
+      "venue": "Ekinox",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455133,
+      "date": "2026-04-05T16:30:00+02:00",
+      "time": "16:30",
+      "home": "Monaco",
+      "away": "Dijon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "homeId": 16,
+      "awayId": 10,
+      "venue": "Salle Gaston Medecin",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455139,
+      "date": "2026-04-05T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Chalon/Saone",
+      "away": "Lyon-Villeurbanne",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "homeId": 20,
+      "awayId": 26,
+      "venue": "Le Colisee",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455147,
+      "date": "2026-04-10T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Nanterre",
+      "away": "Nancy",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "homeId": 21,
+      "awayId": 100,
+      "venue": "Palais des Sports Maurice Thorez",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455144,
+      "date": "2026-04-11T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Le Portel",
+      "away": "Le Mans",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "homeId": 11,
+      "awayId": 23,
+      "venue": "Le Chaudron",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455141,
+      "date": "2026-04-11T18:10:00+02:00",
+      "time": "18:10",
+      "home": "Boulazac",
+      "away": "Chalon/Saone",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "homeId": 22,
+      "awayId": 20,
+      "venue": "Le Palio",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455145,
+      "date": "2026-04-11T18:20:00+02:00",
+      "time": "18:20",
+      "home": "Limoges",
+      "away": "Gravelines-Dunkerque",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "homeId": 27,
+      "awayId": 17,
+      "venue": "Palais des Sports de Beaublanc",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455142,
+      "date": "2026-04-11T18:30:00+02:00",
+      "time": "18:30",
+      "home": "Cholet",
+      "away": "Dijon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "homeId": 18,
+      "awayId": 10,
+      "venue": "La Meilleraie",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455148,
+      "date": "2026-04-11T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Strasbourg",
+      "away": "Paris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "homeId": 25,
+      "awayId": 108,
+      "venue": "Rhénus Sport",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455146,
+      "date": "2026-04-12T16:30:00+02:00",
+      "time": "16:30",
+      "home": "Lyon-Villeurbanne",
+      "away": "Saint Quentin",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "homeId": 26,
+      "awayId": 106,
+      "venue": "LDLC Arena",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455143,
+      "date": "2026-04-12T19:00:00+02:00",
+      "time": "19:00",
+      "home": "JL Bourg",
+      "away": "Monaco",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "homeId": 24,
+      "awayId": 16,
+      "venue": "Ekinox",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455149,
+      "date": "2026-04-18T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Monaco",
+      "away": "Lyon-Villeurbanne",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "homeId": 16,
+      "awayId": 26,
+      "venue": "Salle Gaston Medecin",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455150,
+      "date": "2026-04-18T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Saint Quentin",
+      "away": "Strasbourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "homeId": 106,
+      "awayId": 25,
+      "venue": "Palais des Sports Pierre Ratte",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455151,
+      "date": "2026-04-18T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Nancy",
+      "away": "Le Portel",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "homeId": 100,
+      "awayId": 11,
+      "venue": "Palais des Sports Jean-Weille",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455152,
+      "date": "2026-04-18T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Dijon",
+      "away": "Boulazac",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "homeId": 10,
+      "awayId": 22,
+      "venue": "Palais des Sports Jean-Michel Geoffroy",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455153,
+      "date": "2026-04-18T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Limoges",
+      "away": "Nanterre",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "homeId": 27,
+      "awayId": 21,
+      "venue": "Palais des Sports de Beaublanc",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455154,
+      "date": "2026-04-18T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Cholet",
+      "away": "Paris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "homeId": 18,
+      "awayId": 108,
+      "venue": "La Meilleraie",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455155,
+      "date": "2026-04-18T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Chalon/Saone",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 20,
+      "awayId": 24,
+      "venue": "Le Colisee",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455156,
+      "date": "2026-04-18T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Gravelines-Dunkerque",
+      "away": "Le Mans",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "homeId": 17,
+      "awayId": 23,
+      "venue": "Stade des Flandres",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455085,
+      "date": "2026-04-28T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Le Portel",
+      "away": "Strasbourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "homeId": 11,
+      "awayId": 25,
+      "venue": "Le Chaudron",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455157,
+      "date": "2026-05-02T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Boulazac",
+      "away": "Cholet",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "homeId": 22,
+      "awayId": 18,
+      "venue": "Le Palio",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455158,
+      "date": "2026-05-02T20:00:00+02:00",
+      "time": "20:00",
+      "home": "JL Bourg",
+      "away": "Saint Quentin",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "homeId": 24,
+      "awayId": 106,
+      "venue": "Ekinox",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455159,
+      "date": "2026-05-02T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Le Mans",
+      "away": "Nancy",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "homeId": 23,
+      "awayId": 100,
+      "venue": "Antares",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455160,
+      "date": "2026-05-02T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Le Portel",
+      "away": "Limoges",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "homeId": 11,
+      "awayId": 27,
+      "venue": "Le Chaudron",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455161,
+      "date": "2026-05-02T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Lyon-Villeurbanne",
+      "away": "Gravelines-Dunkerque",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "homeId": 26,
+      "awayId": 17,
+      "venue": "LDLC Arena",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455162,
+      "date": "2026-05-02T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Nanterre",
+      "away": "Dijon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "homeId": 21,
+      "awayId": 10,
+      "venue": "Palais des Sports Maurice Thorez",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455163,
+      "date": "2026-05-02T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Paris",
+      "away": "Chalon/Saone",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "homeId": 108,
+      "awayId": 20,
+      "venue": "Adidas Arena",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455164,
+      "date": "2026-05-02T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Strasbourg",
+      "away": "Monaco",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "homeId": 25,
+      "awayId": 16,
+      "venue": "Rhénus Sport",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455165,
+      "date": "2026-05-09T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Lyon-Villeurbanne",
+      "away": "Strasbourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "homeId": 26,
+      "awayId": 25,
+      "venue": "LDLC Arena",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455166,
+      "date": "2026-05-09T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Saint Quentin",
+      "away": "Le Mans",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "homeId": 106,
+      "awayId": 23,
+      "venue": "Palais des Sports Pierre Ratte",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455167,
+      "date": "2026-05-09T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Monaco",
+      "away": "Paris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "homeId": 16,
+      "awayId": 108,
+      "venue": "Salle Gaston Medecin",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455168,
+      "date": "2026-05-09T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Dijon",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 10,
+      "awayId": 24,
+      "venue": "Palais des Sports Jean-Michel Geoffroy",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455169,
+      "date": "2026-05-09T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Limoges",
+      "away": "Boulazac",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "homeId": 27,
+      "awayId": 22,
+      "venue": "Palais des Sports de Beaublanc",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455170,
+      "date": "2026-05-09T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Gravelines-Dunkerque",
+      "away": "Nanterre",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "homeId": 17,
+      "awayId": 21,
+      "venue": "Stade des Flandres",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455171,
+      "date": "2026-05-09T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Cholet",
+      "away": "Nancy",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "homeId": 18,
+      "awayId": 100,
+      "venue": "La Meilleraie",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455172,
+      "date": "2026-05-09T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Chalon/Saone",
+      "away": "Le Portel",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "homeId": 20,
+      "awayId": 11,
+      "venue": "Le Colisee",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455173,
+      "date": "2026-05-16T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Boulazac",
+      "away": "Monaco",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/22.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/16.png",
+      "homeId": 22,
+      "awayId": 16,
+      "venue": "Le Palio",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455174,
+      "date": "2026-05-16T20:00:00+02:00",
+      "time": "20:00",
+      "home": "JL Bourg",
+      "away": "Gravelines-Dunkerque",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/17.png",
+      "homeId": 24,
+      "awayId": 17,
+      "venue": "Ekinox",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455175,
+      "date": "2026-05-16T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Le Mans",
+      "away": "Limoges",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/23.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/27.png",
+      "homeId": 23,
+      "awayId": 27,
+      "venue": "Antares",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455176,
+      "date": "2026-05-16T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Le Portel",
+      "away": "Dijon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/11.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "homeId": 11,
+      "awayId": 10,
+      "venue": "Le Chaudron",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455177,
+      "date": "2026-05-16T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Nancy",
+      "away": "Saint Quentin",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/100.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/106.png",
+      "homeId": 100,
+      "awayId": 106,
+      "venue": "Palais des Sports Jean-Weille",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455178,
+      "date": "2026-05-16T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Nanterre",
+      "away": "Cholet",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/21.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/18.png",
+      "homeId": 21,
+      "awayId": 18,
+      "venue": "Palais des Sports Maurice Thorez",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455179,
+      "date": "2026-05-16T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Paris",
+      "away": "Lyon-Villeurbanne",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/108.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/26.png",
+      "homeId": 108,
+      "awayId": 26,
+      "venue": "Adidas Arena",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    },
+    {
+      "id": 455180,
+      "date": "2026-05-16T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Strasbourg",
+      "away": "Chalon/Saone",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/25.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/20.png",
+      "homeId": 25,
+      "awayId": 20,
+      "venue": "Rhénus Sport",
+      "status": "NS",
+      "broadcasters": [
+        "lnb-tv",
+        "bein-sports-fr"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5074 @@
+{
+  "league": "World Cup",
+  "season": "2027",
+  "updated": "2026-03-01",
+  "total": 298,
+  "matches": [
+    {
+      "id": 485379,
+      "date": "2024-02-22T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Romania",
+      "away": "Luxembourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3151.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3146.png",
+      "homeId": 3151,
+      "awayId": 3146,
+      "venue": "BTarena",
+      "status": "AOT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485380,
+      "date": "2024-02-22T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Kosovo",
+      "away": "Ireland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3144.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4769.png",
+      "homeId": 3144,
+      "awayId": 4769,
+      "venue": "Pallati i Rinise dhe Sporteve",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485381,
+      "date": "2024-02-22T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Switzerland",
+      "away": "Azerbaijan",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3154.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4983.png",
+      "homeId": 3154,
+      "awayId": 4983,
+      "venue": "Salle Saint-Lèonard",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485382,
+      "date": "2024-02-22T19:15:00+01:00",
+      "time": "19:15",
+      "home": "Austria",
+      "away": "Armenia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3131.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3130.png",
+      "homeId": 3131,
+      "awayId": 3130,
+      "venue": "Hallmann Dome",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485383,
+      "date": "2024-02-25T11:00:00+01:00",
+      "time": "11:00",
+      "home": "Azerbaijan",
+      "away": "Kosovo",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4983.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3144.png",
+      "homeId": 4983,
+      "awayId": 3144,
+      "venue": "Sarkhadchi Sport Center",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485384,
+      "date": "2024-02-25T15:00:00+01:00",
+      "time": "15:00",
+      "home": "Armenia",
+      "away": "Albania",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3130.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3129.png",
+      "homeId": 3130,
+      "awayId": 3129,
+      "venue": "Karen Demirchyan Complex",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485385,
+      "date": "2024-02-25T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Ireland",
+      "away": "Switzerland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4769.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3154.png",
+      "homeId": 4769,
+      "awayId": 3154,
+      "venue": "Tallaght Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485386,
+      "date": "2024-02-25T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Luxembourg",
+      "away": "Norway",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3146.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4773.png",
+      "homeId": 3146,
+      "awayId": 4773,
+      "venue": "Coque Sport Center",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485387,
+      "date": "2024-07-18T01:30:00+02:00",
+      "time": "01:30",
+      "home": "Costa Rica",
+      "away": "Honduras",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5955.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5958.png",
+      "homeId": 5955,
+      "awayId": 5958,
+      "venue": "Gimnasio Nacional Adolfo Pineda",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485388,
+      "date": "2024-07-18T04:00:00+02:00",
+      "time": "04:00",
+      "home": "El Salvador",
+      "away": "Guatemala",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5956.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5957.png",
+      "homeId": 5956,
+      "awayId": 5957,
+      "venue": "Gimnasio Nacional Adolfo Pineda",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485389,
+      "date": "2024-07-19T01:30:00+02:00",
+      "time": "01:30",
+      "home": "Guatemala",
+      "away": "Costa Rica",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5957.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5955.png",
+      "homeId": 5957,
+      "awayId": 5955,
+      "venue": "Gimnasio Nacional Adolfo Pineda",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485390,
+      "date": "2024-07-19T04:00:00+02:00",
+      "time": "04:00",
+      "home": "Honduras",
+      "away": "El Salvador",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5958.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5956.png",
+      "homeId": 5958,
+      "awayId": 5956,
+      "venue": "Gimnasio Nacional Adolfo Pineda",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485391,
+      "date": "2024-07-20T01:30:00+02:00",
+      "time": "01:30",
+      "home": "Honduras",
+      "away": "Guatemala",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5958.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5957.png",
+      "homeId": 5958,
+      "awayId": 5957,
+      "venue": "Gimnasio Nacional Adolfo Pineda",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485392,
+      "date": "2024-07-20T04:00:00+02:00",
+      "time": "04:00",
+      "home": "El Salvador",
+      "away": "Costa Rica",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5956.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5955.png",
+      "homeId": 5956,
+      "awayId": 5955,
+      "venue": "Gimnasio Nacional Adolfo Pineda",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485393,
+      "date": "2024-07-21T01:30:00+02:00",
+      "time": "01:30",
+      "home": "Costa Rica",
+      "away": "Honduras",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5955.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5958.png",
+      "homeId": 5955,
+      "awayId": 5958,
+      "venue": "Gimnasio Nacional Adolfo Pineda",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485394,
+      "date": "2024-07-21T04:00:00+02:00",
+      "time": "04:00",
+      "home": "El Salvador",
+      "away": "Guatemala",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5956.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5957.png",
+      "homeId": 5956,
+      "awayId": 5957,
+      "venue": "Dos Santos A.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485395,
+      "date": "2024-07-22T01:30:00+02:00",
+      "time": "01:30",
+      "home": "Guatemala",
+      "away": "Honduras",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5957.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5958.png",
+      "homeId": 5957,
+      "awayId": 5958,
+      "venue": "Gimnasio Nacional Adolfo Pineda",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485396,
+      "date": "2024-07-22T04:00:00+02:00",
+      "time": "04:00",
+      "home": "El Salvador",
+      "away": "Costa Rica",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5956.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5955.png",
+      "homeId": 5956,
+      "awayId": 5955,
+      "venue": "Gimnasio Nacional Adolfo Pineda",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485397,
+      "date": "2024-11-21T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Ireland",
+      "away": "Azerbaijan",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4769.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4983.png",
+      "homeId": 4769,
+      "awayId": 4983,
+      "venue": "Macdonald I.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485398,
+      "date": "2024-11-21T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Norway",
+      "away": "Romania",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4773.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3151.png",
+      "homeId": 4773,
+      "awayId": 3151,
+      "venue": "Binders-Coders E.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485399,
+      "date": "2024-11-21T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Switzerland",
+      "away": "Kosovo",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3154.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3144.png",
+      "homeId": 3154,
+      "awayId": 3144,
+      "venue": "Garcia Gonzalez J.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485400,
+      "date": "2024-11-21T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Albania",
+      "away": "Austria",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3129.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3131.png",
+      "homeId": 3129,
+      "awayId": 3131,
+      "venue": "Padros A.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485401,
+      "date": "2024-11-24T11:00:00+01:00",
+      "time": "11:00",
+      "home": "Azerbaijan",
+      "away": "Switzerland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4983.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3154.png",
+      "homeId": 4983,
+      "awayId": 3154,
+      "venue": "Edis T.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485402,
+      "date": "2024-11-24T15:00:00+01:00",
+      "time": "15:00",
+      "home": "Armenia",
+      "away": "Austria",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3130.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3131.png",
+      "homeId": 3130,
+      "awayId": 3131,
+      "venue": "Ninkovic N.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485403,
+      "date": "2024-11-24T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Luxembourg",
+      "away": "Romania",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3146.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3151.png",
+      "homeId": 3146,
+      "awayId": 3151,
+      "venue": "Ceccarelli E.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485404,
+      "date": "2024-11-24T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Ireland",
+      "away": "Kosovo",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4769.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3144.png",
+      "homeId": 4769,
+      "awayId": 3144,
+      "venue": "Helmsteins R.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485405,
+      "date": "2025-02-20T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Albania",
+      "away": "Armenia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3129.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3130.png",
+      "homeId": 3129,
+      "awayId": 3130,
+      "venue": "Tsibouris I.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485406,
+      "date": "2025-02-20T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Norway",
+      "away": "Luxembourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4773.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3146.png",
+      "homeId": 4773,
+      "awayId": 3146,
+      "venue": "Garcia Gonzalez J.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485407,
+      "date": "2025-02-20T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Kosovo",
+      "away": "Azerbaijan",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3144.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4983.png",
+      "homeId": 3144,
+      "awayId": 4983,
+      "venue": "Simeonidis S.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485408,
+      "date": "2025-02-20T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Switzerland",
+      "away": "Ireland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3154.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4769.png",
+      "homeId": 3154,
+      "awayId": 4769,
+      "venue": "Perciavalle A.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485409,
+      "date": "2025-02-23T14:00:00+01:00",
+      "time": "14:00",
+      "home": "Azerbaijan",
+      "away": "Ireland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4983.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4769.png",
+      "homeId": 4983,
+      "awayId": 4769,
+      "venue": "Rutesic Z.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485410,
+      "date": "2025-02-23T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Austria",
+      "away": "Albania",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3131.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3129.png",
+      "homeId": 3131,
+      "awayId": 3129,
+      "venue": "Galic B.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485411,
+      "date": "2025-02-23T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Romania",
+      "away": "Norway",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3151.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4773.png",
+      "homeId": 3151,
+      "awayId": 4773,
+      "venue": "Ninkovic N.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485412,
+      "date": "2025-02-23T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Kosovo",
+      "away": "Switzerland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3144.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3154.png",
+      "homeId": 3144,
+      "awayId": 3154,
+      "venue": "Baloun J.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485413,
+      "date": "2025-08-02T14:30:00+02:00",
+      "time": "14:30",
+      "home": "Netherlands",
+      "away": "Austria",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3148.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3131.png",
+      "homeId": 3148,
+      "awayId": 3131,
+      "venue": "Sportcampus Zuiderpark",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485414,
+      "date": "2025-08-02T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Denmark",
+      "away": "Norway",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3137.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4773.png",
+      "homeId": 3137,
+      "awayId": 4773,
+      "venue": "Farum Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485415,
+      "date": "2025-08-02T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Slovakia",
+      "away": "Switzerland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3152.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3154.png",
+      "homeId": 3152,
+      "awayId": 3154,
+      "venue": "GoPass Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485416,
+      "date": "2025-08-02T20:00:00+02:00",
+      "time": "20:00",
+      "home": "North Macedonia",
+      "away": "Romania",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3149.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3151.png",
+      "homeId": 3149,
+      "awayId": 3151,
+      "venue": "Sports Hall Kumanovo",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485417,
+      "date": "2025-08-06T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Norway",
+      "away": "Croatia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4773.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/279.png",
+      "homeId": 4773,
+      "awayId": 279,
+      "venue": "Asane Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485418,
+      "date": "2025-08-06T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Romania",
+      "away": "Hungary",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3151.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3141.png",
+      "homeId": 3151,
+      "awayId": 3141,
+      "venue": "Oradea Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485419,
+      "date": "2025-08-06T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Switzerland",
+      "away": "Ukraine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3154.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3155.png",
+      "homeId": 3154,
+      "awayId": 3155,
+      "venue": "Salle Saint-Lèonard",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485420,
+      "date": "2025-08-06T19:20:00+02:00",
+      "time": "19:20",
+      "home": "Austria",
+      "away": "Bulgaria",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3131.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3135.png",
+      "homeId": 3131,
+      "awayId": 3135,
+      "venue": "Multiversum",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485421,
+      "date": "2025-08-09T16:00:00+02:00",
+      "time": "16:00",
+      "home": "Ukraine",
+      "away": "Slovakia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3155.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3152.png",
+      "homeId": 3155,
+      "awayId": 3152,
+      "venue": "Rimi Olimpiskais centrs",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485422,
+      "date": "2025-08-09T17:00:00+02:00",
+      "time": "17:00",
+      "home": "Bulgaria",
+      "away": "Netherlands",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3135.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3148.png",
+      "homeId": 3135,
+      "awayId": 3148,
+      "venue": "Arena Samokov",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485423,
+      "date": "2025-08-09T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Hungary",
+      "away": "North Macedonia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3141.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3149.png",
+      "homeId": 3141,
+      "awayId": 3149,
+      "venue": "Tiszaliget City Sports Hall",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485424,
+      "date": "2025-08-09T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Croatia",
+      "away": "Denmark",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/279.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3137.png",
+      "homeId": 279,
+      "awayId": 3137,
+      "venue": "Marino Cvetkovic",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485425,
+      "date": "2025-08-13T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Norway",
+      "away": "Denmark",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4773.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3137.png",
+      "homeId": 4773,
+      "awayId": 3137,
+      "venue": "Asane Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485426,
+      "date": "2025-08-13T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Romania",
+      "away": "North Macedonia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3151.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3149.png",
+      "homeId": 3151,
+      "awayId": 3149,
+      "venue": "Oradea Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485427,
+      "date": "2025-08-13T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Switzerland",
+      "away": "Slovakia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3154.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3152.png",
+      "homeId": 3154,
+      "awayId": 3152,
+      "venue": "AXA Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485428,
+      "date": "2025-08-13T19:20:00+02:00",
+      "time": "19:20",
+      "home": "Austria",
+      "away": "Netherlands",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3131.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3148.png",
+      "homeId": 3131,
+      "awayId": 3148,
+      "venue": "Multiversum",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485429,
+      "date": "2025-08-16T16:00:00+02:00",
+      "time": "16:00",
+      "home": "Ukraine",
+      "away": "Switzerland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3155.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3154.png",
+      "homeId": 3155,
+      "awayId": 3154,
+      "venue": "Rimi Olimpiskais centrs",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485430,
+      "date": "2025-08-16T17:00:00+02:00",
+      "time": "17:00",
+      "home": "Bulgaria",
+      "away": "Austria",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3135.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3131.png",
+      "homeId": 3135,
+      "awayId": 3131,
+      "venue": "Arena Botevgrad",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485431,
+      "date": "2025-08-16T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Hungary",
+      "away": "Romania",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3141.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3151.png",
+      "homeId": 3141,
+      "awayId": 3151,
+      "venue": "Tiszaliget City Sports Hall",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485432,
+      "date": "2025-08-16T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Croatia",
+      "away": "Norway",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/279.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4773.png",
+      "homeId": 279,
+      "awayId": 4773,
+      "venue": "Marino Cvetkovic",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485433,
+      "date": "2025-08-20T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Slovakia",
+      "away": "Ukraine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3152.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3155.png",
+      "homeId": 3152,
+      "awayId": 3155,
+      "venue": "GoPass Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485434,
+      "date": "2025-08-20T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Denmark",
+      "away": "Croatia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3137.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/279.png",
+      "homeId": 3137,
+      "awayId": 279,
+      "venue": "Farum Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485435,
+      "date": "2025-08-20T19:00:00+02:00",
+      "time": "19:00",
+      "home": "North Macedonia",
+      "away": "Hungary",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3149.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3141.png",
+      "homeId": 3149,
+      "awayId": 3141,
+      "venue": "Sports Hall Kumanovo",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485436,
+      "date": "2025-08-20T19:30:00+02:00",
+      "time": "19:30",
+      "home": "Netherlands",
+      "away": "Bulgaria",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3148.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3135.png",
+      "homeId": 3148,
+      "awayId": 3135,
+      "venue": "Topsportcentrum Almere",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485437,
+      "date": "2025-11-27T11:00:00+01:00",
+      "time": "11:00",
+      "home": "Cameroon",
+      "away": "Cape Verde",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4069.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4070.png",
+      "homeId": 4069,
+      "awayId": 4070,
+      "venue": "Mostafa W.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485438,
+      "date": "2025-11-27T14:00:00+01:00",
+      "time": "14:00",
+      "home": "South Sudan",
+      "away": "Libya",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4089.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5289.png",
+      "homeId": 4089,
+      "awayId": 5289,
+      "venue": "Davidson Y.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485439,
+      "date": "2025-11-27T15:00:00+01:00",
+      "time": "15:00",
+      "home": "Iran",
+      "away": "Iraq",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3055.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4095.png",
+      "homeId": 3055,
+      "awayId": 4095,
+      "venue": "Mikheyev Y.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485440,
+      "date": "2025-11-27T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Nigeria",
+      "away": "Tunisia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3057.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3031.png",
+      "homeId": 3057,
+      "awayId": 3031,
+      "venue": "Sy O.",
+      "status": "AOT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485441,
+      "date": "2025-11-27T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Saudi Arabia",
+      "away": "India",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3159.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4078.png",
+      "homeId": 3159,
+      "awayId": 4078,
+      "venue": "Al Shuwaili A.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485442,
+      "date": "2025-11-27T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Qatar",
+      "away": "Lebanon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4098.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4083.png",
+      "homeId": 4098,
+      "awayId": 4083,
+      "venue": "Zein W.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485443,
+      "date": "2025-11-27T17:30:00+01:00",
+      "time": "17:30",
+      "home": "Greece",
+      "away": "Romania",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3019.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3151.png",
+      "homeId": 3019,
+      "awayId": 3151,
+      "venue": "Castillo L.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485444,
+      "date": "2025-11-27T17:30:00+01:00",
+      "time": "17:30",
+      "home": "Jordan",
+      "away": "Syria",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3158.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4090.png",
+      "homeId": 3158,
+      "awayId": 4090,
+      "venue": "Noujaim R.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485445,
+      "date": "2025-11-27T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Georgia",
+      "away": "Ukraine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1924.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3155.png",
+      "homeId": 1924,
+      "awayId": 3155,
+      "venue": "Manniste M.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485446,
+      "date": "2025-11-27T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Montenegro",
+      "away": "Portugal",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3147.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3150.png",
+      "homeId": 3147,
+      "awayId": 3150,
+      "venue": "Gedvilas G.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485447,
+      "date": "2025-11-27T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Denmark",
+      "away": "Spain",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3137.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3058.png",
+      "homeId": 3137,
+      "awayId": 3058,
+      "venue": "Kozlovskis M.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485448,
+      "date": "2025-11-27T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Serbia",
+      "away": "Switzerland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3028.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3154.png",
+      "homeId": 3028,
+      "awayId": 3154,
+      "venue": "Chueca A.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485449,
+      "date": "2025-11-27T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Turkey",
+      "away": "Bosnia & Herzegovina",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3032.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3134.png",
+      "homeId": 3032,
+      "awayId": 3134,
+      "venue": "Liszka W.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485450,
+      "date": "2025-11-27T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Italy",
+      "away": "Iceland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3020.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3142.png",
+      "homeId": 3020,
+      "awayId": 3142,
+      "venue": "Aunkrogers A.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485451,
+      "date": "2025-11-27T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Rwanda",
+      "away": "Guinea",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4088.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4077.png",
+      "homeId": 4088,
+      "awayId": 4077,
+      "venue": "Seye M.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485452,
+      "date": "2025-11-27T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Great Britain",
+      "away": "Lithuania",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3140.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3021.png",
+      "homeId": 3140,
+      "awayId": 3021,
+      "venue": "Salins G.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485453,
+      "date": "2025-11-28T00:10:00+01:00",
+      "time": "00:10",
+      "home": "Cuba",
+      "away": "Argentina",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4075.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3052.png",
+      "homeId": 4075,
+      "awayId": 3052,
+      "venue": "Dominguez K.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485454,
+      "date": "2025-11-28T00:10:00+01:00",
+      "time": "00:10",
+      "home": "Chile",
+      "away": "Brazil",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4072.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3014.png",
+      "homeId": 4072,
+      "awayId": 3014,
+      "venue": "Batista J.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485455,
+      "date": "2025-11-28T02:40:00+01:00",
+      "time": "02:40",
+      "home": "Colombia",
+      "away": "Venezuela",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4074.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3034.png",
+      "homeId": 4074,
+      "awayId": 3034,
+      "venue": "Bermudez O.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485456,
+      "date": "2025-11-28T02:40:00+01:00",
+      "time": "02:40",
+      "home": "Panama",
+      "away": "Uruguay",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4086.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3033.png",
+      "homeId": 4086,
+      "awayId": 3033,
+      "venue": "Vazquez L. R.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485457,
+      "date": "2025-11-28T09:30:00+01:00",
+      "time": "09:30",
+      "home": "Australia",
+      "away": "New Zealand",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3053.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4085.png",
+      "homeId": 3053,
+      "awayId": 4085,
+      "venue": "MyState Bank Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485458,
+      "date": "2025-11-28T10:00:00+01:00",
+      "time": "10:00",
+      "home": "Guam",
+      "away": "Philippines",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4341.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3023.png",
+      "homeId": 4341,
+      "awayId": 3023,
+      "venue": "Calvo Field House",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485459,
+      "date": "2025-11-28T11:05:00+01:00",
+      "time": "11:05",
+      "home": "Japan",
+      "away": "Chinese Taipei",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3056.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4073.png",
+      "homeId": 3056,
+      "awayId": 4073,
+      "venue": "Glion Arena Kobe",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485460,
+      "date": "2025-11-28T12:30:00+01:00",
+      "time": "12:30",
+      "home": "China",
+      "away": "South Korea",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/278.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3030.png",
+      "homeId": 278,
+      "awayId": 3030,
+      "venue": "Wukesong Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485461,
+      "date": "2025-11-28T14:00:00+01:00",
+      "time": "14:00",
+      "home": "Cape Verde",
+      "away": "South Sudan",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4070.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4089.png",
+      "homeId": 4070,
+      "awayId": 4089,
+      "venue": "Salle Multidisciplinaire de Rades",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485462,
+      "date": "2025-11-28T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Libya",
+      "away": "Cameroon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5289.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4069.png",
+      "homeId": 5289,
+      "awayId": 4069,
+      "venue": "Salle Multidisciplinaire de Rades",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485463,
+      "date": "2025-11-28T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Slovenia",
+      "away": "Estonia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3029.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3138.png",
+      "homeId": 3029,
+      "awayId": 3138,
+      "venue": "Arena Bonifika",
+      "status": "AOT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485464,
+      "date": "2025-11-28T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Hungary",
+      "away": "Finland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3141.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3139.png",
+      "homeId": 3141,
+      "awayId": 3139,
+      "venue": "Arena Savaria",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485465,
+      "date": "2025-11-28T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Latvia",
+      "away": "Netherlands",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3145.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3148.png",
+      "homeId": 3145,
+      "awayId": 3148,
+      "venue": "Xiaomi Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485466,
+      "date": "2025-11-28T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Croatia",
+      "away": "Cyprus",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/279.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3136.png",
+      "homeId": 279,
+      "awayId": 3136,
+      "venue": "Stadion Gradski vrt",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485467,
+      "date": "2025-11-28T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Germany",
+      "away": "Israel",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3018.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3143.png",
+      "homeId": 3018,
+      "awayId": 3143,
+      "venue": "Ratiopharm Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485468,
+      "date": "2025-11-28T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Czech Republic",
+      "away": "Sweden",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3016.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3153.png",
+      "homeId": 3016,
+      "awayId": 3153,
+      "venue": "Sports Hall Kralovka",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485469,
+      "date": "2025-11-28T20:30:00+01:00",
+      "time": "20:30",
+      "home": "France",
+      "away": "Belgium",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3054.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3133.png",
+      "homeId": 3054,
+      "awayId": 3133,
+      "venue": "Kindarena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485470,
+      "date": "2025-11-28T20:45:00+01:00",
+      "time": "20:45",
+      "home": "Poland",
+      "away": "Austria",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3024.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3131.png",
+      "homeId": 3024,
+      "awayId": 3131,
+      "venue": "Polsat Plus Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485471,
+      "date": "2025-11-29T00:10:00+01:00",
+      "time": "00:10",
+      "home": "Jamaica",
+      "away": "Puerto Rico",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4100.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3025.png",
+      "homeId": 4100,
+      "awayId": 3025,
+      "venue": "Coliseo Roberto Clemente",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485472,
+      "date": "2025-11-29T02:10:00+01:00",
+      "time": "02:10",
+      "home": "Nicaragua",
+      "away": "USA",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5959.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3059.png",
+      "homeId": 5959,
+      "awayId": 3059,
+      "venue": "Polideportivo Alexis Argüello",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485473,
+      "date": "2025-11-29T02:40:00+01:00",
+      "time": "02:40",
+      "home": "Bahamas",
+      "away": "Canada",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4067.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3015.png",
+      "homeId": 4067,
+      "awayId": 3015,
+      "venue": "Sir Kendal Isaacs Gymnasium",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485474,
+      "date": "2025-11-29T03:40:00+01:00",
+      "time": "03:40",
+      "home": "Mexico",
+      "away": "Dominican Republic",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3022.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3017.png",
+      "homeId": 3022,
+      "awayId": 3017,
+      "venue": "Gimnasio Marcelino Gonzalez",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485475,
+      "date": "2025-11-29T14:00:00+01:00",
+      "time": "14:00",
+      "home": "Guinea",
+      "away": "Nigeria",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4077.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3057.png",
+      "homeId": 4077,
+      "awayId": 3057,
+      "venue": "Salle Multidisciplinaire de Rades",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485476,
+      "date": "2025-11-29T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Tunisia",
+      "away": "Rwanda",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3031.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4088.png",
+      "homeId": 3031,
+      "awayId": 4088,
+      "venue": "Salle Multidisciplinaire de Rades",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485477,
+      "date": "2025-11-30T11:00:00+01:00",
+      "time": "11:00",
+      "home": "Cameroon",
+      "away": "South Sudan",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4069.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4089.png",
+      "homeId": 4069,
+      "awayId": 4089,
+      "venue": "Salle Multidisciplinaire de Rades",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485478,
+      "date": "2025-11-30T13:30:00+01:00",
+      "time": "13:30",
+      "home": "India",
+      "away": "Saudi Arabia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4078.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3159.png",
+      "homeId": 4078,
+      "awayId": 3159,
+      "venue": "Jawaharlal Nehru Indoor Stadium",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485479,
+      "date": "2025-11-30T14:00:00+01:00",
+      "time": "14:00",
+      "home": "Libya",
+      "away": "Cape Verde",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5289.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4070.png",
+      "homeId": 5289,
+      "awayId": 4070,
+      "venue": "Salle Multidisciplinaire de Rades",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485480,
+      "date": "2025-11-30T15:00:00+01:00",
+      "time": "15:00",
+      "home": "Iraq",
+      "away": "Iran",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4095.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3055.png",
+      "homeId": 4095,
+      "awayId": 3055,
+      "venue": "Nouhad Nawfal Sports Complex",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485481,
+      "date": "2025-11-30T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Syria",
+      "away": "Jordan",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4090.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3158.png",
+      "homeId": 4090,
+      "awayId": 3158,
+      "venue": "Prince Hamza Hall",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485482,
+      "date": "2025-11-30T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Switzerland",
+      "away": "Turkey",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3154.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3032.png",
+      "homeId": 3154,
+      "awayId": 3032,
+      "venue": "Salle Saint-Lèonard",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485483,
+      "date": "2025-11-30T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Guinea",
+      "away": "Tunisia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4077.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3031.png",
+      "homeId": 4077,
+      "awayId": 3031,
+      "venue": "Salle Multidisciplinaire de Rades",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485484,
+      "date": "2025-11-30T17:30:00+01:00",
+      "time": "17:30",
+      "home": "Lithuania",
+      "away": "Italy",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3021.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3020.png",
+      "homeId": 3021,
+      "awayId": 3020,
+      "venue": "Svyturio Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485485,
+      "date": "2025-11-30T17:45:00+01:00",
+      "time": "17:45",
+      "home": "Iceland",
+      "away": "Great Britain",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3142.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3140.png",
+      "homeId": 3142,
+      "awayId": 3140,
+      "venue": "Laugardalsholl",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485486,
+      "date": "2025-11-30T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Portugal",
+      "away": "Greece",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3150.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3019.png",
+      "homeId": 3150,
+      "awayId": 3019,
+      "venue": "Centro de Desportos e Congressos",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485487,
+      "date": "2025-11-30T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Romania",
+      "away": "Montenegro",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3151.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3147.png",
+      "homeId": 3151,
+      "awayId": 3147,
+      "venue": "Pitesti Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485488,
+      "date": "2025-11-30T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Ukraine",
+      "away": "Denmark",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3155.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3137.png",
+      "homeId": 3155,
+      "awayId": 3137,
+      "venue": "Xiaomi Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485489,
+      "date": "2025-11-30T19:45:00+01:00",
+      "time": "19:45",
+      "home": "Spain",
+      "away": "Georgia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3058.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1924.png",
+      "homeId": 3058,
+      "awayId": 1924,
+      "venue": "Pabellón Insular Santiago Martín",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485490,
+      "date": "2025-11-30T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Nigeria",
+      "away": "Rwanda",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3057.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4088.png",
+      "homeId": 3057,
+      "awayId": 4088,
+      "venue": "Salle Multidisciplinaire de Rades",
+      "status": "AOT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485491,
+      "date": "2025-11-30T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Lebanon",
+      "away": "Qatar",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4083.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4098.png",
+      "homeId": 4083,
+      "awayId": 4098,
+      "venue": "Nouhad Nawfal Sports Complex",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485492,
+      "date": "2025-11-30T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Bosnia & Herzegovina",
+      "away": "Serbia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3134.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3028.png",
+      "homeId": 3134,
+      "awayId": 3028,
+      "venue": "Dvorana Mirza Delibasic",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485493,
+      "date": "2025-11-30T23:10:00+01:00",
+      "time": "23:10",
+      "home": "Brazil",
+      "away": "Chile",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3014.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4072.png",
+      "homeId": 3014,
+      "awayId": 4072,
+      "venue": "Ginasio Wlamir Marques",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485494,
+      "date": "2025-11-30T23:10:00+01:00",
+      "time": "23:10",
+      "home": "Venezuela",
+      "away": "Colombia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3034.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4074.png",
+      "homeId": 3034,
+      "awayId": 4074,
+      "venue": "Parque Miranda",
+      "status": "POST",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485495,
+      "date": "2025-12-01T01:40:00+01:00",
+      "time": "01:40",
+      "home": "Uruguay",
+      "away": "Panama",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3033.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4086.png",
+      "homeId": 3033,
+      "awayId": 4086,
+      "venue": "Antel Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485496,
+      "date": "2025-12-01T07:00:00+01:00",
+      "time": "07:00",
+      "home": "New Zealand",
+      "away": "Australia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4085.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3053.png",
+      "homeId": 4085,
+      "awayId": 3053,
+      "venue": "TSB Bank Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485497,
+      "date": "2025-12-01T11:00:00+01:00",
+      "time": "11:00",
+      "home": "South Korea",
+      "away": "China",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3030.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/278.png",
+      "homeId": 3030,
+      "awayId": 278,
+      "venue": "Wonju Gymnasium",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485498,
+      "date": "2025-12-01T12:00:00+01:00",
+      "time": "12:00",
+      "home": "Chinese Taipei",
+      "away": "Japan",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4073.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3056.png",
+      "homeId": 4073,
+      "awayId": 3056,
+      "venue": "Xinzhuang Gymnasium",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485499,
+      "date": "2025-12-01T12:30:00+01:00",
+      "time": "12:30",
+      "home": "Philippines",
+      "away": "Guam",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3023.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4341.png",
+      "homeId": 3023,
+      "awayId": 4341,
+      "venue": "Blue Eagle Gym",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485500,
+      "date": "2025-12-01T17:30:00+01:00",
+      "time": "17:30",
+      "home": "Finland",
+      "away": "France",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3139.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3054.png",
+      "homeId": 3139,
+      "awayId": 3054,
+      "venue": "Espoo Metro Areena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485501,
+      "date": "2025-12-01T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Cyprus",
+      "away": "Germany",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3136.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3018.png",
+      "homeId": 3136,
+      "awayId": 3018,
+      "venue": "Spyros Kyprianou Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485502,
+      "date": "2025-12-01T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Estonia",
+      "away": "Czech Republic",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3138.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3016.png",
+      "homeId": 3138,
+      "awayId": 3016,
+      "venue": "Unibet Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485503,
+      "date": "2025-12-01T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Sweden",
+      "away": "Slovenia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3153.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3029.png",
+      "homeId": 3153,
+      "awayId": 3029,
+      "venue": "Scandinavium",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485504,
+      "date": "2025-12-01T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Netherlands",
+      "away": "Poland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3148.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3024.png",
+      "homeId": 3148,
+      "awayId": 3024,
+      "venue": "Sportcampus Zuiderpark",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485505,
+      "date": "2025-12-01T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Israel",
+      "away": "Croatia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3143.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/279.png",
+      "homeId": 3143,
+      "awayId": 279,
+      "venue": "Xiaomi Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485506,
+      "date": "2025-12-01T20:20:00+01:00",
+      "time": "20:20",
+      "home": "Austria",
+      "away": "Latvia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3131.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3145.png",
+      "homeId": 3131,
+      "awayId": 3145,
+      "venue": "Sport Arena Wien",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485507,
+      "date": "2025-12-01T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Belgium",
+      "away": "Hungary",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3133.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3141.png",
+      "homeId": 3133,
+      "awayId": 3141,
+      "venue": "Mons.Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485508,
+      "date": "2025-12-01T23:00:00+01:00",
+      "time": "23:00",
+      "home": "Argentina",
+      "away": "Cuba",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3052.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4075.png",
+      "homeId": 3052,
+      "awayId": 4075,
+      "venue": "Estadio Obras Sanitarias",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485509,
+      "date": "2025-12-02T01:10:00+01:00",
+      "time": "01:10",
+      "home": "Canada",
+      "away": "Bahamas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3015.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4067.png",
+      "homeId": 3015,
+      "awayId": 4067,
+      "venue": "Maple Leaf Gardens",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485510,
+      "date": "2025-12-02T01:10:00+01:00",
+      "time": "01:10",
+      "home": "Dominican Republic",
+      "away": "Mexico",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3017.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3022.png",
+      "homeId": 3017,
+      "awayId": 3022,
+      "venue": "Pabellón Ricardo Gioriber Arias",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485511,
+      "date": "2025-12-02T01:10:00+01:00",
+      "time": "01:10",
+      "home": "Puerto Rico",
+      "away": "Jamaica",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3025.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4100.png",
+      "homeId": 3025,
+      "awayId": 4100,
+      "venue": "Coliseo Roberto Clemente",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485512,
+      "date": "2025-12-02T01:10:00+01:00",
+      "time": "01:10",
+      "home": "USA",
+      "away": "Nicaragua",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3059.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5959.png",
+      "homeId": 3059,
+      "awayId": 5959,
+      "venue": "Gateway Center Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485514,
+      "date": "2026-02-26T10:00:00+01:00",
+      "time": "10:00",
+      "home": "Guam",
+      "away": "Australia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4341.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3053.png",
+      "homeId": 4341,
+      "awayId": 3053,
+      "venue": "University of Guam Field House",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485513,
+      "date": "2026-02-26T11:05:00+01:00",
+      "time": "11:05",
+      "home": "Japan",
+      "away": "China",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3056.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/278.png",
+      "homeId": 3056,
+      "awayId": 278,
+      "venue": "Okinawa Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485515,
+      "date": "2026-02-26T12:00:00+01:00",
+      "time": "12:00",
+      "home": "Chinese Taipei",
+      "away": "South Korea",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4073.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3030.png",
+      "homeId": 4073,
+      "awayId": 3030,
+      "venue": "Xinzhuang Gymnasium",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485516,
+      "date": "2026-02-26T12:30:00+01:00",
+      "time": "12:30",
+      "home": "Philippines",
+      "away": "New Zealand",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3023.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4085.png",
+      "homeId": 3023,
+      "awayId": 4085,
+      "venue": "Mall of Asia Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485519,
+      "date": "2026-02-26T19:00:00+01:00",
+      "time": "19:00",
+      "home": "D.R. Congo",
+      "away": "Madagascar",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4076.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5287.png",
+      "homeId": 4076,
+      "awayId": 5287,
+      "venue": "Marius Ndiaye arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485520,
+      "date": "2026-02-26T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Angola",
+      "away": "Uganda",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3013.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4091.png",
+      "homeId": 3013,
+      "awayId": 4091,
+      "venue": "Kamal Shalaby Hall",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485517,
+      "date": "2026-02-26T22:00:00+01:00",
+      "time": "22:00",
+      "home": "Mali",
+      "away": "Egypt",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4084.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3157.png",
+      "homeId": 4084,
+      "awayId": 3157,
+      "venue": "Kamal Shalaby Hall",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485518,
+      "date": "2026-02-26T22:00:00+01:00",
+      "time": "22:00",
+      "home": "Senegal",
+      "away": "Ivory Coast",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3027.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4080.png",
+      "homeId": 3027,
+      "awayId": 4080,
+      "venue": "Marius Ndiaye arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485522,
+      "date": "2026-02-27T00:10:00+01:00",
+      "time": "00:10",
+      "home": "Jamaica",
+      "away": "Bahamas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4100.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4067.png",
+      "homeId": 4100,
+      "awayId": 4067,
+      "venue": "Independence Park",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485523,
+      "date": "2026-02-27T01:10:00+01:00",
+      "time": "01:10",
+      "home": "Puerto Rico",
+      "away": "Canada",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3025.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3015.png",
+      "homeId": 3025,
+      "awayId": 3015,
+      "venue": "Coliseo Ruben Rodriguez",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485521,
+      "date": "2026-02-27T02:10:00+01:00",
+      "time": "02:10",
+      "home": "Nicaragua",
+      "away": "Mexico",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5959.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3022.png",
+      "homeId": 5959,
+      "awayId": 3022,
+      "venue": "Polideportivo Alexis Argüello",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485524,
+      "date": "2026-02-27T04:10:00+01:00",
+      "time": "04:10",
+      "home": "USA",
+      "away": "Dominican Republic",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3059.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3017.png",
+      "homeId": 3059,
+      "awayId": 3017,
+      "venue": "Frontwave Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485527,
+      "date": "2026-02-27T14:00:00+01:00",
+      "time": "14:00",
+      "home": "Iraq",
+      "away": "Syria",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4095.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4090.png",
+      "homeId": 4095,
+      "awayId": 4090,
+      "venue": "Nouhad Nawfal Sports Complex",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485536,
+      "date": "2026-02-27T14:00:00+01:00",
+      "time": "14:00",
+      "home": "Ukraine",
+      "away": "Spain",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3155.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3058.png",
+      "homeId": 3155,
+      "awayId": 3058,
+      "venue": "Xiaomi Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485525,
+      "date": "2026-02-27T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Iran",
+      "away": "Jordan",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3055.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3158.png",
+      "homeId": 3055,
+      "awayId": 3158,
+      "venue": "Nouhad Nawfal Sports Complex",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485540,
+      "date": "2026-02-27T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Hungary",
+      "away": "France",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3141.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3054.png",
+      "homeId": 3141,
+      "awayId": 3054,
+      "venue": "Arena Savaria",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485541,
+      "date": "2026-02-27T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Greece",
+      "away": "Montenegro",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3019.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3147.png",
+      "homeId": 3019,
+      "awayId": 3147,
+      "venue": "SUNEL Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485547,
+      "date": "2026-02-27T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Austria",
+      "away": "Netherlands",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3131.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3148.png",
+      "homeId": 3131,
+      "awayId": 3148,
+      "venue": "Sport Arena Wien",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485535,
+      "date": "2026-02-27T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Slovenia",
+      "away": "Czech Republic",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3029.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3016.png",
+      "homeId": 3029,
+      "awayId": 3016,
+      "venue": "Arena Bonifika",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485538,
+      "date": "2026-02-27T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Latvia",
+      "away": "Poland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3145.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3024.png",
+      "homeId": 3145,
+      "awayId": 3024,
+      "venue": "Xiaomi Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485543,
+      "date": "2026-02-27T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Denmark",
+      "away": "Georgia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3137.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1924.png",
+      "homeId": 3137,
+      "awayId": 1924,
+      "venue": "Farum Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485537,
+      "date": "2026-02-27T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Serbia",
+      "away": "Turkey",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3028.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3032.png",
+      "homeId": 3028,
+      "awayId": 3032,
+      "venue": "Aleksandar Nikolic Hall",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485548,
+      "date": "2026-02-27T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Sweden",
+      "away": "Estonia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3153.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3138.png",
+      "homeId": 3153,
+      "awayId": 3138,
+      "venue": "Avicii Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485526,
+      "date": "2026-02-27T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Qatar",
+      "away": "India",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4098.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4078.png",
+      "homeId": 4098,
+      "awayId": 4078,
+      "venue": "Lusail Sports Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485528,
+      "date": "2026-02-27T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Lebanon",
+      "away": "Saudi Arabia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4083.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3159.png",
+      "homeId": 4083,
+      "awayId": 3159,
+      "venue": "Nouhad Nawfal Sports Complex",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485533,
+      "date": "2026-02-27T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Portugal",
+      "away": "Romania",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3150.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3151.png",
+      "homeId": 3150,
+      "awayId": 3151,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485539,
+      "date": "2026-02-27T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Israel",
+      "away": "Cyprus",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3143.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3136.png",
+      "homeId": 3143,
+      "awayId": 3136,
+      "venue": "Spyros Kyprianou Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485544,
+      "date": "2026-02-27T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Croatia",
+      "away": "Germany",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/279.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3018.png",
+      "homeId": 279,
+      "awayId": 3018,
+      "venue": "Kosarkaski centar Drazen Petrovic",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485545,
+      "date": "2026-02-27T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Bosnia & Herzegovina",
+      "away": "Switzerland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3134.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3154.png",
+      "homeId": 3134,
+      "awayId": 3154,
+      "venue": "SKPC Mejdan",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485534,
+      "date": "2026-02-27T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Iceland",
+      "away": "Lithuania",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3142.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3021.png",
+      "homeId": 3142,
+      "awayId": 3021,
+      "venue": "Laugardalsholl",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485542,
+      "date": "2026-02-27T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Great Britain",
+      "away": "Italy",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3140.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3020.png",
+      "homeId": 3140,
+      "awayId": 3020,
+      "venue": "Vertu Motors Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485546,
+      "date": "2026-02-27T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Belgium",
+      "away": "Finland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3133.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3139.png",
+      "homeId": 3133,
+      "awayId": 3139,
+      "venue": "Dome Charleroi (Spiroudome)",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485551,
+      "date": "2026-02-27T23:00:00+01:00",
+      "time": "23:00",
+      "home": "Brazil",
+      "away": "Venezuela",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3014.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3034.png",
+      "homeId": 3014,
+      "awayId": 3034,
+      "venue": "Arena Juscelino Kubitschek",
+      "status": "Q2",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485549,
+      "date": "2026-02-28T00:00:00+01:00",
+      "time": "00:00",
+      "home": "Chile",
+      "away": "Colombia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4072.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4074.png",
+      "homeId": 4072,
+      "awayId": 4074,
+      "venue": "Coliseo Municipal Antonio Azurmendy Riveros",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485550,
+      "date": "2026-02-28T01:30:00+01:00",
+      "time": "01:30",
+      "home": "Argentina",
+      "away": "Uruguay",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3052.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3033.png",
+      "homeId": 3052,
+      "awayId": 3033,
+      "venue": "Estadio Obras Sanitarias",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485552,
+      "date": "2026-02-28T02:10:00+01:00",
+      "time": "02:10",
+      "home": "Cuba",
+      "away": "Panama",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4075.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4086.png",
+      "homeId": 4075,
+      "awayId": 4086,
+      "venue": "Coliseo de la Ciudad Deportiva",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485530,
+      "date": "2026-02-28T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Ivory Coast",
+      "away": "D.R. Congo",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4080.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4076.png",
+      "homeId": 4080,
+      "awayId": 4076,
+      "venue": "Marius Ndiaye arena",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485532,
+      "date": "2026-02-28T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Uganda",
+      "away": "Mali",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4091.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4084.png",
+      "homeId": 4091,
+      "awayId": 4084,
+      "venue": "Kamal Shalaby Hall",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485529,
+      "date": "2026-02-28T22:00:00+01:00",
+      "time": "22:00",
+      "home": "Egypt",
+      "away": "Angola",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3157.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3013.png",
+      "homeId": 3157,
+      "awayId": 3013,
+      "venue": "Kamal Shalaby Hall",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485531,
+      "date": "2026-02-28T22:00:00+01:00",
+      "time": "22:00",
+      "home": "Madagascar",
+      "away": "Senegal",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5287.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3027.png",
+      "homeId": 5287,
+      "awayId": 3027,
+      "venue": "Marius Ndiaye arena",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485553,
+      "date": "2026-03-01T06:00:00+01:00",
+      "time": "06:00",
+      "home": "Japan",
+      "away": "South Korea",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3056.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3030.png",
+      "homeId": 3056,
+      "awayId": 3030,
+      "venue": "Okinawa Arena",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485555,
+      "date": "2026-03-01T08:00:00+01:00",
+      "time": "08:00",
+      "home": "Guam",
+      "away": "New Zealand",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4341.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4085.png",
+      "homeId": 4341,
+      "awayId": 4085,
+      "venue": "University of Guam Field House",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485554,
+      "date": "2026-03-01T09:00:00+01:00",
+      "time": "09:00",
+      "home": "Chinese Taipei",
+      "away": "China",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4073.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/278.png",
+      "homeId": 4073,
+      "awayId": 278,
+      "venue": "Mall of Asia Arena",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485556,
+      "date": "2026-03-01T12:30:00+01:00",
+      "time": "12:30",
+      "home": "Philippines",
+      "away": "Australia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3023.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3053.png",
+      "homeId": 3023,
+      "awayId": 3053,
+      "venue": "Mall of Asia Arena",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485560,
+      "date": "2026-03-01T14:30:00+01:00",
+      "time": "14:30",
+      "home": "Netherlands",
+      "away": "Austria",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3148.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3131.png",
+      "homeId": 3148,
+      "awayId": 3131,
+      "venue": "Sportcampus Zuiderpark",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485567,
+      "date": "2026-03-01T17:30:00+01:00",
+      "time": "17:30",
+      "home": "Finland",
+      "away": "Belgium",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3139.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3133.png",
+      "homeId": 3139,
+      "awayId": 3133,
+      "venue": "Espoo Metro Areena",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485557,
+      "date": "2026-03-01T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Germany",
+      "away": "Croatia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3018.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/279.png",
+      "homeId": 3018,
+      "awayId": 279,
+      "venue": "Telekom Dome",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485558,
+      "date": "2026-03-01T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Czech Republic",
+      "away": "Slovenia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3016.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3029.png",
+      "homeId": 3016,
+      "awayId": 3029,
+      "venue": "Horacka Arena",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485561,
+      "date": "2026-03-01T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Cyprus",
+      "away": "Israel",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3136.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3143.png",
+      "homeId": 3136,
+      "awayId": 3143,
+      "venue": "Spyros Kyprianou Arena",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485562,
+      "date": "2026-03-01T18:00:00+01:00",
+      "time": "18:00",
+      "home": "France",
+      "away": "Hungary",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3054.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3141.png",
+      "homeId": 3054,
+      "awayId": 3141,
+      "venue": "Antares",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485568,
+      "date": "2026-03-01T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Estonia",
+      "away": "Sweden",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3138.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3153.png",
+      "homeId": 3138,
+      "awayId": 3153,
+      "venue": "Unibet Arena",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485565,
+      "date": "2026-03-01T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Mali",
+      "away": "Angola",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4084.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3013.png",
+      "homeId": 4084,
+      "awayId": 3013,
+      "venue": "Kamal Shalaby Hall",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485566,
+      "date": "2026-03-01T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Madagascar",
+      "away": "Ivory Coast",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5287.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4080.png",
+      "homeId": 5287,
+      "awayId": 4080,
+      "venue": "Marius Ndiaye arena",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485559,
+      "date": "2026-03-01T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Poland",
+      "away": "Latvia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3024.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3145.png",
+      "homeId": 3024,
+      "awayId": 3145,
+      "venue": "Polsat Plus Arena Gdynia",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485563,
+      "date": "2026-03-01T22:00:00+01:00",
+      "time": "22:00",
+      "home": "Uganda",
+      "away": "Egypt",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4091.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3157.png",
+      "homeId": 4091,
+      "awayId": 3157,
+      "venue": "Kamal Shalaby Hall",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485564,
+      "date": "2026-03-01T22:00:00+01:00",
+      "time": "22:00",
+      "home": "Senegal",
+      "away": "D.R. Congo",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3027.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4076.png",
+      "homeId": 3027,
+      "awayId": 4076,
+      "venue": "Marius Ndiaye arena",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485570,
+      "date": "2026-03-01T23:00:00+01:00",
+      "time": "23:00",
+      "home": "Puerto Rico",
+      "away": "Bahamas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3025.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4067.png",
+      "homeId": 3025,
+      "awayId": 4067,
+      "venue": "Coliseo Roberto Clemente",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485572,
+      "date": "2026-03-02T00:00:00+01:00",
+      "time": "00:00",
+      "home": "Jamaica",
+      "away": "Canada",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4100.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3015.png",
+      "homeId": 4100,
+      "awayId": 3015,
+      "venue": "National Indoor Sports Centre",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485569,
+      "date": "2026-03-02T01:10:00+01:00",
+      "time": "01:10",
+      "home": "USA",
+      "away": "Mexico",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3059.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3022.png",
+      "homeId": 3059,
+      "awayId": 3022,
+      "venue": "Frontwave Arena",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485571,
+      "date": "2026-03-02T02:30:00+01:00",
+      "time": "02:30",
+      "home": "Nicaragua",
+      "away": "Dominican Republic",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5959.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3017.png",
+      "homeId": 5959,
+      "awayId": 3017,
+      "venue": "Polideportivo Alexis Argüello",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485574,
+      "date": "2026-03-02T14:00:00+01:00",
+      "time": "14:00",
+      "home": "Iraq",
+      "away": "Jordan",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4095.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3158.png",
+      "homeId": 4095,
+      "awayId": 3158,
+      "venue": "Nouhad Nawfal Sports Complex",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485573,
+      "date": "2026-03-02T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Iran",
+      "away": "Syria",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3055.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4090.png",
+      "homeId": 3055,
+      "awayId": 4090,
+      "venue": "Nouhad Nawfal Sports Complex",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485577,
+      "date": "2026-03-02T17:30:00+01:00",
+      "time": "17:30",
+      "home": "Lithuania",
+      "away": "Iceland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3021.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3142.png",
+      "homeId": 3021,
+      "awayId": 3142,
+      "venue": "Svyturio Arena",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485580,
+      "date": "2026-03-02T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Georgia",
+      "away": "Denmark",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1924.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3137.png",
+      "homeId": 1924,
+      "awayId": 3137,
+      "venue": "Tbilisi Arena",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485584,
+      "date": "2026-03-02T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Romania",
+      "away": "Portugal",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3151.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3150.png",
+      "homeId": 3151,
+      "awayId": 3150,
+      "venue": "Pitesti Arena",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485579,
+      "date": "2026-03-02T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Montenegro",
+      "away": "Greece",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3147.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3019.png",
+      "homeId": 3147,
+      "awayId": 3019,
+      "venue": "Moraca Sports Center",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485581,
+      "date": "2026-03-02T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Turkey",
+      "away": "Serbia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3032.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3028.png",
+      "homeId": 3032,
+      "awayId": 3028,
+      "venue": "Basketbol Gelisim Merkezi",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485582,
+      "date": "2026-03-02T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Switzerland",
+      "away": "Bosnia & Herzegovina",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3154.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3134.png",
+      "homeId": 3154,
+      "awayId": 3134,
+      "venue": "Pilatus Arena",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485578,
+      "date": "2026-03-02T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Italy",
+      "away": "Great Britain",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3020.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3140.png",
+      "homeId": 3020,
+      "awayId": 3140,
+      "venue": "Modigliani Forum",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485575,
+      "date": "2026-03-02T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Qatar",
+      "away": "Saudi Arabia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4098.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3159.png",
+      "homeId": 4098,
+      "awayId": 3159,
+      "venue": "Lusail Sports Arena",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485576,
+      "date": "2026-03-02T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Lebanon",
+      "away": "India",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4083.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4078.png",
+      "homeId": 4083,
+      "awayId": 4078,
+      "venue": "Nouhad Nawfal Sports Complex",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485583,
+      "date": "2026-03-02T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Spain",
+      "away": "Ukraine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3058.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3155.png",
+      "homeId": 3058,
+      "awayId": 3155,
+      "venue": "Palacio de los Deportes de Oviedo",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485585,
+      "date": "2026-03-02T22:30:00+01:00",
+      "time": "22:30",
+      "home": "Argentina",
+      "away": "Panama",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3052.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4086.png",
+      "homeId": 3052,
+      "awayId": 4086,
+      "venue": "Estadio Obras Sanitarias",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485588,
+      "date": "2026-03-02T23:00:00+01:00",
+      "time": "23:00",
+      "home": "Brazil",
+      "away": "Colombia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3014.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4074.png",
+      "homeId": 3014,
+      "awayId": 4074,
+      "venue": "Arena UniBH",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485586,
+      "date": "2026-03-03T00:00:00+01:00",
+      "time": "00:00",
+      "home": "Chile",
+      "away": "Venezuela",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4072.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3034.png",
+      "homeId": 4072,
+      "awayId": 3034,
+      "venue": "Coliseo Municipal Antonio Azurmendy Riveros",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485587,
+      "date": "2026-03-03T01:00:00+01:00",
+      "time": "01:00",
+      "home": "Cuba",
+      "away": "Uruguay",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4075.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3033.png",
+      "homeId": 4075,
+      "awayId": 3033,
+      "venue": "Coliseo de la Ciudad Deportiva",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485589,
+      "date": "2026-07-02T12:00:00+02:00",
+      "time": "12:00",
+      "home": "Syria",
+      "away": "Iraq",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4090.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4095.png",
+      "homeId": 4090,
+      "awayId": 4095,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485590,
+      "date": "2026-07-02T12:00:00+02:00",
+      "time": "12:00",
+      "home": "India",
+      "away": "Qatar",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4078.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4098.png",
+      "homeId": 4078,
+      "awayId": 4098,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485591,
+      "date": "2026-07-02T12:00:00+02:00",
+      "time": "12:00",
+      "home": "Jordan",
+      "away": "Iran",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3158.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3055.png",
+      "homeId": 3158,
+      "awayId": 3055,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485592,
+      "date": "2026-07-02T12:00:00+02:00",
+      "time": "12:00",
+      "home": "Saudi Arabia",
+      "away": "Lebanon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3159.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4083.png",
+      "homeId": 3159,
+      "awayId": 4083,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485593,
+      "date": "2026-07-02T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Bosnia & Herzegovina",
+      "away": "Turkey",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3134.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3032.png",
+      "homeId": 3134,
+      "awayId": 3032,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485594,
+      "date": "2026-07-02T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Romania",
+      "away": "Greece",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3151.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3019.png",
+      "homeId": 3151,
+      "awayId": 3019,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485595,
+      "date": "2026-07-02T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Cape Verde",
+      "away": "Cameroon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4070.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4069.png",
+      "homeId": 4070,
+      "awayId": 4069,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485596,
+      "date": "2026-07-02T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Egypt",
+      "away": "Mali",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3157.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4084.png",
+      "homeId": 3157,
+      "awayId": 4084,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485597,
+      "date": "2026-07-02T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Guinea",
+      "away": "Rwanda",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4077.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4088.png",
+      "homeId": 4077,
+      "awayId": 4088,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485598,
+      "date": "2026-07-02T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Ivory Coast",
+      "away": "Senegal",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4080.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3027.png",
+      "homeId": 4080,
+      "awayId": 3027,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485599,
+      "date": "2026-07-02T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Libya",
+      "away": "South Sudan",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5289.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4089.png",
+      "homeId": 5289,
+      "awayId": 4089,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485600,
+      "date": "2026-07-02T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Madagascar",
+      "away": "D.R. Congo",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5287.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4076.png",
+      "homeId": 5287,
+      "awayId": 4076,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485601,
+      "date": "2026-07-02T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Switzerland",
+      "away": "Serbia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3154.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3028.png",
+      "homeId": 3154,
+      "awayId": 3028,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485602,
+      "date": "2026-07-02T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Spain",
+      "away": "Denmark",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3058.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3137.png",
+      "homeId": 3058,
+      "awayId": 3137,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485603,
+      "date": "2026-07-02T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Ukraine",
+      "away": "Georgia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3155.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1924.png",
+      "homeId": 3155,
+      "awayId": 1924,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485604,
+      "date": "2026-07-02T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Portugal",
+      "away": "Montenegro",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3150.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3147.png",
+      "homeId": 3150,
+      "awayId": 3147,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485605,
+      "date": "2026-07-02T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Tunisia",
+      "away": "Nigeria",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3031.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3057.png",
+      "homeId": 3031,
+      "awayId": 3057,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485606,
+      "date": "2026-07-02T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Iceland",
+      "away": "Italy",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3142.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3020.png",
+      "homeId": 3142,
+      "awayId": 3020,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485607,
+      "date": "2026-07-02T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Lithuania",
+      "away": "Great Britain",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3021.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3140.png",
+      "homeId": 3021,
+      "awayId": 3140,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485608,
+      "date": "2026-07-02T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Uganda",
+      "away": "Angola",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4091.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3013.png",
+      "homeId": 4091,
+      "awayId": 3013,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485609,
+      "date": "2026-07-02T22:00:00+02:00",
+      "time": "22:00",
+      "home": "Colombia",
+      "away": "Chile",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4074.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4072.png",
+      "homeId": 4074,
+      "awayId": 4072,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485610,
+      "date": "2026-07-02T22:00:00+02:00",
+      "time": "22:00",
+      "home": "Venezuela",
+      "away": "Brazil",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3034.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3014.png",
+      "homeId": 3034,
+      "awayId": 3014,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485611,
+      "date": "2026-07-02T22:00:00+02:00",
+      "time": "22:00",
+      "home": "Panama",
+      "away": "Cuba",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4086.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4075.png",
+      "homeId": 4086,
+      "awayId": 4075,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485612,
+      "date": "2026-07-02T22:00:00+02:00",
+      "time": "22:00",
+      "home": "Uruguay",
+      "away": "Argentina",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3033.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3052.png",
+      "homeId": 3033,
+      "awayId": 3052,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485613,
+      "date": "2026-07-03T12:00:00+02:00",
+      "time": "12:00",
+      "home": "South Korea",
+      "away": "Chinese Taipei",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3030.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4073.png",
+      "homeId": 3030,
+      "awayId": 4073,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485614,
+      "date": "2026-07-03T12:00:00+02:00",
+      "time": "12:00",
+      "home": "New Zealand",
+      "away": "Philippines",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4085.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3023.png",
+      "homeId": 4085,
+      "awayId": 3023,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485615,
+      "date": "2026-07-03T12:00:00+02:00",
+      "time": "12:00",
+      "home": "China",
+      "away": "Japan",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/278.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3056.png",
+      "homeId": 278,
+      "awayId": 3056,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485616,
+      "date": "2026-07-03T12:00:00+02:00",
+      "time": "12:00",
+      "home": "Australia",
+      "away": "Guam",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3053.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4341.png",
+      "homeId": 3053,
+      "awayId": 4341,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485617,
+      "date": "2026-07-03T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Angola",
+      "away": "Egypt",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3013.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3157.png",
+      "homeId": 3013,
+      "awayId": 3157,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485618,
+      "date": "2026-07-03T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Mali",
+      "away": "Uganda",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4084.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4091.png",
+      "homeId": 4084,
+      "awayId": 4091,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485619,
+      "date": "2026-07-03T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Cameroon",
+      "away": "Libya",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4069.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5289.png",
+      "homeId": 4069,
+      "awayId": 5289,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485620,
+      "date": "2026-07-03T18:00:00+02:00",
+      "time": "18:00",
+      "home": "D.R. Congo",
+      "away": "Ivory Coast",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4076.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4080.png",
+      "homeId": 4076,
+      "awayId": 4080,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485621,
+      "date": "2026-07-03T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Rwanda",
+      "away": "Tunisia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4088.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3031.png",
+      "homeId": 4088,
+      "awayId": 3031,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485622,
+      "date": "2026-07-03T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Nigeria",
+      "away": "Guinea",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3057.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4077.png",
+      "homeId": 3057,
+      "awayId": 4077,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485623,
+      "date": "2026-07-03T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Austria",
+      "away": "Poland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3131.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3024.png",
+      "homeId": 3131,
+      "awayId": 3024,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485624,
+      "date": "2026-07-03T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Sweden",
+      "away": "Czech Republic",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3153.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3016.png",
+      "homeId": 3153,
+      "awayId": 3016,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485625,
+      "date": "2026-07-03T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Netherlands",
+      "away": "Latvia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3148.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3145.png",
+      "homeId": 3148,
+      "awayId": 3145,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485626,
+      "date": "2026-07-03T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Israel",
+      "away": "Germany",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3143.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3018.png",
+      "homeId": 3143,
+      "awayId": 3018,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485627,
+      "date": "2026-07-03T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Finland",
+      "away": "Hungary",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3139.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3141.png",
+      "homeId": 3139,
+      "awayId": 3141,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485628,
+      "date": "2026-07-03T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Estonia",
+      "away": "Slovenia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3138.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3029.png",
+      "homeId": 3138,
+      "awayId": 3029,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485629,
+      "date": "2026-07-03T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Cyprus",
+      "away": "Croatia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3136.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/279.png",
+      "homeId": 3136,
+      "awayId": 279,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485630,
+      "date": "2026-07-03T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Belgium",
+      "away": "France",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3133.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3054.png",
+      "homeId": 3133,
+      "awayId": 3054,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485631,
+      "date": "2026-07-03T18:00:00+02:00",
+      "time": "18:00",
+      "home": "South Sudan",
+      "away": "Cape Verde",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4089.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4070.png",
+      "homeId": 4089,
+      "awayId": 4070,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485632,
+      "date": "2026-07-03T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Senegal",
+      "away": "Madagascar",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3027.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5287.png",
+      "homeId": 3027,
+      "awayId": 5287,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485633,
+      "date": "2026-07-03T22:00:00+02:00",
+      "time": "22:00",
+      "home": "Mexico",
+      "away": "Nicaragua",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3022.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5959.png",
+      "homeId": 3022,
+      "awayId": 5959,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485634,
+      "date": "2026-07-03T22:00:00+02:00",
+      "time": "22:00",
+      "home": "Dominican Republic",
+      "away": "USA",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3017.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3059.png",
+      "homeId": 3017,
+      "awayId": 3059,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485635,
+      "date": "2026-07-03T22:00:00+02:00",
+      "time": "22:00",
+      "home": "Canada",
+      "away": "Puerto Rico",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3015.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3025.png",
+      "homeId": 3015,
+      "awayId": 3025,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485636,
+      "date": "2026-07-03T22:00:00+02:00",
+      "time": "22:00",
+      "home": "Bahamas",
+      "away": "Jamaica",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4067.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4100.png",
+      "homeId": 4067,
+      "awayId": 4100,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485637,
+      "date": "2026-07-05T12:00:00+02:00",
+      "time": "12:00",
+      "home": "India",
+      "away": "Lebanon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4078.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4083.png",
+      "homeId": 4078,
+      "awayId": 4083,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485638,
+      "date": "2026-07-05T12:00:00+02:00",
+      "time": "12:00",
+      "home": "Jordan",
+      "away": "Iraq",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3158.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4095.png",
+      "homeId": 3158,
+      "awayId": 4095,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485639,
+      "date": "2026-07-05T12:00:00+02:00",
+      "time": "12:00",
+      "home": "Saudi Arabia",
+      "away": "Qatar",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3159.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4098.png",
+      "homeId": 3159,
+      "awayId": 4098,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485640,
+      "date": "2026-07-05T12:00:00+02:00",
+      "time": "12:00",
+      "home": "Syria",
+      "away": "Iran",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4090.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3055.png",
+      "homeId": 4090,
+      "awayId": 3055,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485641,
+      "date": "2026-07-05T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Angola",
+      "away": "Mali",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3013.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4084.png",
+      "homeId": 3013,
+      "awayId": 4084,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485642,
+      "date": "2026-07-05T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Serbia",
+      "away": "Bosnia & Herzegovina",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3028.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3134.png",
+      "homeId": 3028,
+      "awayId": 3134,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485643,
+      "date": "2026-07-05T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Denmark",
+      "away": "Ukraine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3137.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3155.png",
+      "homeId": 3137,
+      "awayId": 3155,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485644,
+      "date": "2026-07-05T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Georgia",
+      "away": "Spain",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1924.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3058.png",
+      "homeId": 1924,
+      "awayId": 3058,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485645,
+      "date": "2026-07-05T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Great Britain",
+      "away": "Iceland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3140.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3142.png",
+      "homeId": 3140,
+      "awayId": 3142,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485646,
+      "date": "2026-07-05T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Greece",
+      "away": "Portugal",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3019.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3150.png",
+      "homeId": 3019,
+      "awayId": 3150,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485647,
+      "date": "2026-07-05T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Italy",
+      "away": "Lithuania",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3020.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3021.png",
+      "homeId": 3020,
+      "awayId": 3021,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485648,
+      "date": "2026-07-05T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Cape Verde",
+      "away": "Libya",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4070.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5289.png",
+      "homeId": 4070,
+      "awayId": 5289,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485649,
+      "date": "2026-07-05T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Montenegro",
+      "away": "Romania",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3147.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3151.png",
+      "homeId": 3147,
+      "awayId": 3151,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485650,
+      "date": "2026-07-05T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Turkey",
+      "away": "Switzerland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3032.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3154.png",
+      "homeId": 3032,
+      "awayId": 3154,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485651,
+      "date": "2026-07-05T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Tunisia",
+      "away": "Guinea",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3031.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4077.png",
+      "homeId": 3031,
+      "awayId": 4077,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485652,
+      "date": "2026-07-05T18:00:00+02:00",
+      "time": "18:00",
+      "home": "South Sudan",
+      "away": "Cameroon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4089.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4069.png",
+      "homeId": 4089,
+      "awayId": 4069,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485653,
+      "date": "2026-07-05T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Rwanda",
+      "away": "Nigeria",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4088.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3057.png",
+      "homeId": 4088,
+      "awayId": 3057,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485654,
+      "date": "2026-07-05T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Ivory Coast",
+      "away": "Madagascar",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4080.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5287.png",
+      "homeId": 4080,
+      "awayId": 5287,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485655,
+      "date": "2026-07-05T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Egypt",
+      "away": "Uganda",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3157.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4091.png",
+      "homeId": 3157,
+      "awayId": 4091,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485656,
+      "date": "2026-07-05T18:00:00+02:00",
+      "time": "18:00",
+      "home": "D.R. Congo",
+      "away": "Senegal",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4076.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3027.png",
+      "homeId": 4076,
+      "awayId": 3027,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485657,
+      "date": "2026-07-05T22:00:00+02:00",
+      "time": "22:00",
+      "home": "Venezuela",
+      "away": "Chile",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3034.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4072.png",
+      "homeId": 3034,
+      "awayId": 4072,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485658,
+      "date": "2026-07-05T22:00:00+02:00",
+      "time": "22:00",
+      "home": "Uruguay",
+      "away": "Cuba",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3033.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4075.png",
+      "homeId": 3033,
+      "awayId": 4075,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485659,
+      "date": "2026-07-05T22:00:00+02:00",
+      "time": "22:00",
+      "home": "Panama",
+      "away": "Argentina",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4086.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3052.png",
+      "homeId": 4086,
+      "awayId": 3052,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485660,
+      "date": "2026-07-05T22:00:00+02:00",
+      "time": "22:00",
+      "home": "Colombia",
+      "away": "Brazil",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4074.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3014.png",
+      "homeId": 4074,
+      "awayId": 3014,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485683,
+      "date": "2026-07-06T12:00:00+02:00",
+      "time": "12:00",
+      "home": "New Zealand",
+      "away": "Guam",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4085.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4341.png",
+      "homeId": 4085,
+      "awayId": 4341,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485684,
+      "date": "2026-07-06T12:00:00+02:00",
+      "time": "12:00",
+      "home": "China",
+      "away": "Chinese Taipei",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/278.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4073.png",
+      "homeId": 278,
+      "awayId": 4073,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485685,
+      "date": "2026-07-06T12:00:00+02:00",
+      "time": "12:00",
+      "home": "Australia",
+      "away": "Philippines",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3053.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3023.png",
+      "homeId": 3053,
+      "awayId": 3023,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485686,
+      "date": "2026-07-06T12:00:00+02:00",
+      "time": "12:00",
+      "home": "South Korea",
+      "away": "Japan",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3030.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3056.png",
+      "homeId": 3030,
+      "awayId": 3056,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485687,
+      "date": "2026-07-06T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Slovenia",
+      "away": "Sweden",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3029.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3153.png",
+      "homeId": 3029,
+      "awayId": 3153,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485688,
+      "date": "2026-07-06T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Poland",
+      "away": "Netherlands",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3024.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3148.png",
+      "homeId": 3024,
+      "awayId": 3148,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485689,
+      "date": "2026-07-06T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Hungary",
+      "away": "Belgium",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3141.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3133.png",
+      "homeId": 3141,
+      "awayId": 3133,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485690,
+      "date": "2026-07-06T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Germany",
+      "away": "Cyprus",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3018.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3136.png",
+      "homeId": 3018,
+      "awayId": 3136,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485691,
+      "date": "2026-07-06T18:00:00+02:00",
+      "time": "18:00",
+      "home": "France",
+      "away": "Finland",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3054.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3139.png",
+      "homeId": 3054,
+      "awayId": 3139,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485692,
+      "date": "2026-07-06T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Czech Republic",
+      "away": "Estonia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3016.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3138.png",
+      "homeId": 3016,
+      "awayId": 3138,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485693,
+      "date": "2026-07-06T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Croatia",
+      "away": "Israel",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/279.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3143.png",
+      "homeId": 279,
+      "awayId": 3143,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485694,
+      "date": "2026-07-06T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Latvia",
+      "away": "Austria",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3145.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3131.png",
+      "homeId": 3145,
+      "awayId": 3131,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485695,
+      "date": "2026-07-06T22:00:00+02:00",
+      "time": "22:00",
+      "home": "Mexico",
+      "away": "USA",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3022.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3059.png",
+      "homeId": 3022,
+      "awayId": 3059,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485696,
+      "date": "2026-07-06T22:00:00+02:00",
+      "time": "22:00",
+      "home": "Dominican Republic",
+      "away": "Nicaragua",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3017.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5959.png",
+      "homeId": 3017,
+      "awayId": 5959,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485697,
+      "date": "2026-07-06T22:00:00+02:00",
+      "time": "22:00",
+      "home": "Canada",
+      "away": "Jamaica",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3015.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/4100.png",
+      "homeId": 3015,
+      "awayId": 4100,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    },
+    {
+      "id": 485698,
+      "date": "2026-07-06T22:00:00+02:00",
+      "time": "22:00",
+      "home": "Bahamas",
+      "away": "Puerto Rico",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/4067.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3025.png",
+      "homeId": 4067,
+      "awayId": 3025,
+      "venue": "",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max",
+        "fiba-plus"
+      ]
+    }
+  ]
+}

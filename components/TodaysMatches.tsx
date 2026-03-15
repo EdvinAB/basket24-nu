@@ -14,6 +14,11 @@ import legaAData from '@/lib/data/lega-a-2025-2026.json';
 import lklData from '@/lib/data/lkl-2025-2026.json';
 import klsData from '@/lib/data/kls-2025-2026.json';
 import serbianSuperLeagueData from '@/lib/data/serbian-super-league-2025-2026.json';
+import eurocupData from '@/lib/data/eurocup-2025-2026.json';
+import championsLeagueData from '@/lib/data/champions-league-2025-2026.json';
+import fibaEuropeCupData from '@/lib/data/fiba-europe-cup-2025-2026.json';
+import lnbData from '@/lib/data/lnb-2025-2026.json';
+import worldCupData from '@/lib/data/world-cup-2027.json';
 
 interface Match {
   id: number | string;
@@ -40,35 +45,47 @@ interface TodaysMatchesProps {
 function getBroadcastersForMatch(matchId: number | string, league: string, apiBroadcaster: string): string[] {
   const lower = league.toLowerCase();
 
-  // Mapping för alla ligor (både API-namn och URL-slugs)
   const leagueMap: Record<string, any> = {
     'nba': nbaData,
     'sbl': sblData,
     'basketligan': sblData,
     'euroleague': euroleagueData,
     'acb': acbData,
-    '117': acbData,  // ACB league ID från API
+    '117': acbData,
     'turkish-bsl': turkishBslData,
     'turkish bsl': turkishBslData,
-    '104': turkishBslData,  // Turkish BSL league ID från API
+    '104': turkishBslData,
     'aba-liga': abaLigaData,
     'aba liga': abaLigaData,
-    '198': abaLigaData,  // ABA Liga league ID från API
+    '198': abaLigaData,
     'bbl': bblData,
-    '40': bblData,  // BBL league ID från API
+    '40': bblData,
     'greek-cup': greekCupData,
     'greek cup': greekCupData,
-    '136': greekCupData,  // Greek Cup league ID från API
+    '136': greekCupData,
     'lega-a': legaAData,
     'lega a': legaAData,
-    '52': legaAData,  // Lega A league ID från API
+    '52': legaAData,
     'lkl': lklData,
-    '60': lklData,  // LKL league ID från API
+    '60': lklData,
     'kls': klsData,
-    '85': klsData,  // KLS league ID från API
+    '85': klsData,
     'serbian-super-league': serbianSuperLeagueData,
     'serbian super league': serbianSuperLeagueData,
-    '86': serbianSuperLeagueData,  // Serbian Super League league ID från API
+    '86': serbianSuperLeagueData,
+    'eurocup': eurocupData,
+    '194': eurocupData,
+    'champions-league': championsLeagueData,
+    'champions league': championsLeagueData,
+    '202': championsLeagueData,
+    'fiba-europe-cup': fibaEuropeCupData,
+    'fiba europe cup': fibaEuropeCupData,
+    '201': fibaEuropeCupData,
+    'lnb': lnbData,
+    '2': lnbData,
+    'world-cup': worldCupData,
+    'world cup': worldCupData,
+    '281': worldCupData,
   };
 
   const leagueData = leagueMap[lower];
@@ -78,12 +95,10 @@ function getBroadcastersForMatch(matchId: number | string, league: string, apiBr
     if (localMatch?.broadcasters) return localMatch.broadcasters;
   }
 
-  // NBA fallback
   if (lower === 'nba') {
     return ['nba-league-pass'];
   }
 
-  // Fallback: använd API:ets broadcaster-string
   if (apiBroadcaster) {
     return apiBroadcaster.split(',').map(b => b.trim()).filter(Boolean);
   }
@@ -104,7 +119,6 @@ export default function TodaysMatches({ selectedLeague, selectedDate }: TodaysMa
         setLoading(true);
         setError(null);
 
-        // Mapping för alla ligor
         const allLeagueData: Record<string, any> = {
           'nba': nbaData,
           'sbl': sblData,
@@ -127,14 +141,27 @@ export default function TodaysMatches({ selectedLeague, selectedDate }: TodaysMa
           '85': klsData,
           'serbian-super-league': serbianSuperLeagueData,
           '86': serbianSuperLeagueData,
+          'eurocup': eurocupData,
+          '194': eurocupData,
+          'champions-league': championsLeagueData,
+          '202': championsLeagueData,
+          'fiba-europe-cup': fibaEuropeCupData,
+          '201': fibaEuropeCupData,
+          'lnb': lnbData,
+          '2': lnbData,
+          'world-cup': worldCupData,
+          '281': worldCupData,
         };
 
         let allMatches: Match[] = [];
 
         if (selectedLeague === 'all') {
-          // Hämta matcher från alla ligor
-          const leagues = ['nba', 'sbl', 'euroleague', 'acb', 'turkish-bsl', 'aba-liga', 'bbl', 'greek-cup', 'lega-a', 'lkl', 'kls', 'serbian-super-league'];
-          
+          const leagues = [
+            'nba', 'sbl', 'euroleague', 'acb', 'turkish-bsl', 'aba-liga',
+            'bbl', 'greek-cup', 'lega-a', 'lkl', 'kls', 'serbian-super-league',
+            'eurocup', 'champions-league', 'fiba-europe-cup', 'lnb', 'world-cup',
+          ];
+
           leagues.forEach(leagueName => {
             const leagueData = allLeagueData[leagueName];
             if (leagueData && (leagueData as any).matches) {
@@ -147,13 +174,12 @@ export default function TodaysMatches({ selectedLeague, selectedDate }: TodaysMa
                 date: m.date,
                 status: m.status || 'Scheduled',
                 venue: m.venue,
-                broadcaster: '', // Kommer från getBroadcastersForMatch
+                broadcaster: '',
               }));
               allMatches.push(...leagueMatches);
             }
           });
         } else {
-          // Hämta matcher från specifik liga
           const leagueData = allLeagueData[selectedLeague.toLowerCase()];
           if (leagueData && (leagueData as any).matches) {
             allMatches = (leagueData as any).matches.map((m: any) => ({
@@ -165,7 +191,7 @@ export default function TodaysMatches({ selectedLeague, selectedDate }: TodaysMa
               date: m.date,
               status: m.status || 'Scheduled',
               venue: m.venue,
-              broadcaster: '', // Kommer från getBroadcastersForMatch
+              broadcaster: '',
             }));
           }
         }
@@ -186,38 +212,19 @@ export default function TodaysMatches({ selectedLeague, selectedDate }: TodaysMa
 
   // Filter matches by date
   const filteredMatches = matches.filter((match) => {
-    console.log('🔍 Checking match:', {
-      id: match.id,
-      league: match.league,
-      home: match.home,
-      away: match.away,
-    });
-
-    // League filter
     if (selectedLeague !== 'all' && match.league.toLowerCase() !== selectedLeague.toLowerCase()) {
       return false;
     }
-
-    // Date filter
     const matchDate = match.date.split('T')[0];
-    console.log('🔍 Date comparison:', {
-      matchDate,
-      selectedDate,
-      match: matchDate === selectedDate
-    });
-
     if (matchDate !== selectedDate) {
       return false;
     }
-
-    console.log('✅ Match passed filters!');
     return true;
   });
 
   console.log('🎯 Filtered matches:', filteredMatches.length);
 
-  // Sort by time
-  const sortedMatches = [...filteredMatches].sort((a, b) => 
+  const sortedMatches = [...filteredMatches].sort((a, b) =>
     a.time.localeCompare(b.time)
   );
 

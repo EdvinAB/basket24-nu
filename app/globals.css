@@ -3,25 +3,39 @@
 @tailwind utilities;
 
 :root {
-  /* basket24 Brand Colors */
-  --basket-orange: #F57C00;
-  --broadcast-charcoal: #1F1F1F;
+  /* basket24 NYA Brand Colors (från färgpalett) */
+  --primary-red: #E84A3F;
+  --secondary-orange: #F9A26C;
+  --accent-yellow: #F5E56B;
+  --dark-blue: #20295b;
   --court-gray: #6B7280;
-  --live-green: #16A34A;
 }
 
+/* MÖRK BAKGRUND på body (mörkare som TVsporten) */
 body {
   color: #1F1F1F;
-  background: #F9FAFB;
+  background: #20295b;  /* Mörkare blå bakgrund */
   font-family: 'Inter', system-ui, sans-serif;
+  min-height: 100vh;
 }
 
-/* Flat design - NO gradients, hard edges */
-* {
-  box-sizing: border-box;
+/* Container med LJUS bakgrund (spotlight-effekt) */
+.content-container {
+  background: #FFFFFF;  /* Vit container */
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  min-height: calc(100vh - 200px);  /* Täcker hela sidan minus header/footer */
 }
 
-/* Container */
+/* Mobil: mindre padding */
+@media (max-width: 640px) {
+  .content-container {
+    padding: 1rem 0.75rem;
+  }
+}
+
+/* Container-custom (för header/footer) */
 .container-custom {
   max-width: 1200px;
   margin: 0 auto;
@@ -40,19 +54,24 @@ body {
   border-radius: 0; /* Hard edges */
 }
 
-/* Flat color blocks - TV broadcast feel */
-.flat-orange {
-  background-color: var(--basket-orange);
+/* Flat color blocks */
+.flat-primary {
+  background-color: var(--primary-red);
+  border-radius: 0;
+}
+
+.flat-secondary {
+  background-color: var(--secondary-orange);
+  border-radius: 0;
+}
+
+.flat-accent {
+  background-color: var(--accent-yellow);
   border-radius: 0;
 }
 
 .flat-dark {
-  background-color: var(--broadcast-charcoal);
-  border-radius: 0;
-}
-
-.flat-gray {
-  background-color: var(--court-gray);
+  background-color: var(--dark-blue);
   border-radius: 0;
 }
 
@@ -66,6 +85,7 @@ select,
 textarea {
   border-radius: 0 !important;
 }
+
 /* Prevent horizontal scroll on mobile */
 html, body {
   overflow-x: hidden;
@@ -82,4 +102,11 @@ html, body {
 /* Force word break for long words */
 h1, h2, h3, p {
   word-break: break-word;
+}
+
+/* Smooth transitions */
+* {
+  transition-property: background-color, border-color, color, box-shadow;
+  transition-duration: 200ms;
+  transition-timing-function: ease-in-out;
 }

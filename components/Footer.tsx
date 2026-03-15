@@ -1,60 +1,152 @@
+import Link from 'next/link';
+
 export default function Footer() {
   const currentYear = new Date().getFullYear();
-  
+
   return (
-    <footer className="bg-gray-900 text-gray-300 mt-12">
+    <footer className="bg-dark text-gray-200 mt-16">
       <div className="container-custom py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-          
+
           {/* Om Basket24.nu */}
           <div>
-            <h4 className="text-white font-bold mb-4">Om Basket24.nu</h4>
-            <p className="text-sm mb-4">
-              Sveriges ledande basketsajt med live-resultat, statistik och nyheter från NBA, EuroLeague och svensk basket.
+            <h4 className="text-white font-bold mb-4 text-lg">Om Basket24.nu</h4>
+            <p className="text-sm leading-relaxed mb-4">
+              Sveriges basketsajt med TV-tider och streaminginfo för NBA, EuroLeague, SBL och alla stora basketligor i Europa.
             </p>
           </div>
 
           {/* Snabblänkar */}
           <div>
-            <h4 className="text-white font-bold mb-4">Snabblänkar</h4>
-            <ul className="space-y-2 text-sm">
-              <li><a href="/" className="hover:text-primary">Matcher Idag</a></li>
-              <li><a href="/ligor" className="hover:text-primary">Ligor</a></li>
-              <li><a href="/lag" className="hover:text-primary">Lag</a></li>
-              <li><a href="/tv" className="hover:text-primary">TV-Guide</a></li>
+            <h4 className="text-white font-bold mb-4 text-lg">Snabblänkar</h4>
+            <ul className="space-y-2.5 text-sm">
+              <li>
+                <Link href="/" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> Matcher Idag
+                </Link>
+              </li>
+              <li>
+                <Link href="/om-oss" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> Om oss
+                </Link>
+              </li>
+              <li>
+                <Link href="/kontakt" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> Kontakt
+                </Link>
+              </li>
             </ul>
           </div>
 
-          {/* Populära Ligor */}
+          {/* Ligor – Nordamerika & Sverige */}
           <div>
-            <h4 className="text-white font-bold mb-4">Populära Ligor</h4>
-            <ul className="space-y-2 text-sm">
-              <li><a href="/nba" className="hover:text-primary">NBA</a></li>
-              <li><a href="/euroleague" className="hover:text-primary">EuroLeague</a></li>
-              <li><a href="/basketligan" className="hover:text-primary">Basketligan</a></li>
-              <li><a href="/ncaa" className="hover:text-primary">NCAA</a></li>
+            <h4 className="text-white font-bold mb-4 text-lg">Ligor</h4>
+            <ul className="space-y-2.5 text-sm">
+              <li>
+                <Link href="/nba" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> NBA
+                </Link>
+              </li>
+              <li>
+                <Link href="/sbl" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> Svenska Basketligan
+                </Link>
+              </li>
+              <li>
+                <Link href="/euroleague" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> EuroLeague
+                </Link>
+              </li>
+              <li>
+                <Link href="/eurocup" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> EuroCup
+                </Link>
+              </li>
+              <li>
+                <Link href="/champions-league" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> Champions League
+                </Link>
+              </li>
+              <li>
+                <Link href="/fiba-europe-cup" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> FIBA Europe Cup
+                </Link>
+              </li>
+              <li>
+                <Link href="/world-cup" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> World Cup 2027
+                </Link>
+              </li>
             </ul>
           </div>
 
-          {/* Info */}
+          {/* Ligor – Europa */}
           <div>
-            <h4 className="text-white font-bold mb-4">Information</h4>
-            <ul className="space-y-2 text-sm">
-              <li><a href="/om-oss" className="hover:text-primary">Om oss</a></li>
-              <li><a href="/kontakt" className="hover:text-primary">Kontakt</a></li>
-              <li><a href="/integritetspolicy" className="hover:text-primary">Integritetspolicy</a></li>
-              <li><a href="/cookies" className="hover:text-primary">Cookies</a></li>
+            <h4 className="text-white font-bold mb-4 text-lg">Europeiska Ligor</h4>
+            <ul className="space-y-2.5 text-sm">
+              <li>
+                <Link href="/acb" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> ACB (Spanien)
+                </Link>
+              </li>
+              <li>
+                <Link href="/lega-a" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> Lega A (Italien)
+                </Link>
+              </li>
+              <li>
+                <Link href="/bbl" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> BBL (Tyskland)
+                </Link>
+              </li>
+              <li>
+                <Link href="/turkish-bsl" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> Turkish BSL
+                </Link>
+              </li>
+              <li>
+                <Link href="/lnb" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> LNB (Frankrike)
+                </Link>
+              </li>
+              <li>
+                <Link href="/aba-liga" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> ABA Liga
+                </Link>
+              </li>
+              <li>
+                <Link href="/lkl" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> LKL (Litauen)
+                </Link>
+              </li>
+              <li>
+                <Link href="/greek-cup" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> Greek Cup
+                </Link>
+              </li>
+              <li>
+                <Link href="/kls" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> KLS (Serbien)
+                </Link>
+              </li>
+              <li>
+                <Link href="/serbian-super-league" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> Serbian Super League
+                </Link>
+              </li>
             </ul>
           </div>
 
         </div>
 
         {/* Bottom Bar */}
-        <div className="border-t border-gray-800 mt-8 pt-8 text-sm text-center">
-          <p>&copy; {currentYear} Basket.se. Alla rättigheter förbehållna.</p>
-          <p className="mt-2 text-gray-500">
-            18+ | Spela ansvarsfullt | <a href="https://stodlinjen.se" className="hover:text-primary" target="_blank" rel="noopener">Stödlinjen.se</a>
-          </p>
+        <div className="border-t border-dark-light mt-10 pt-8 text-sm">
+          <div className="flex flex-col md:flex-row justify-between items-center gap-4">
+            <p>&copy; {currentYear} Basket24.nu. Alla rättigheter förbehållna.</p>
+            <p className="text-gray-400">
+              18+ | Spela ansvarsfullt | <a href="https://stodlinjen.se" className="hover:text-accent transition-colors" target="_blank" rel="noopener">Stödlinjen.se</a>
+            </p>
+          </div>
         </div>
       </div>
     </footer>

@@ -6,16 +6,16 @@ export default function Header() {
   return (
     <header className="bg-white border-b sticky top-0 z-50 shadow-sm">
       
-      {/* Top Bar */}
-      <div className="bg-gray-100 border-b">
+      {/* Top Bar - MÖRKBLÅ MED NYA FÄRGER */}
+      <div className="bg-dark border-b border-dark-light">
         <div className="container-custom py-2">
           <div className="flex justify-between items-center text-sm">
             <div className="flex gap-4">
-              <span className="text-gray-600">Stockholm, Sverige</span>
+              <span className="text-gray-200">Stockholm, Sverige</span>
             </div>
             <div className="flex gap-4">
-              <a href="/om-oss" className="text-gray-600 hover:text-primary">Om oss</a>
-              <a href="/kontakt" className="text-gray-600 hover:text-primary">Kontakt</a>
+              <a href="/om-oss" className="text-gray-200 hover:text-accent transition-colors">Om oss</a>
+              <a href="/kontakt" className="text-gray-200 hover:text-accent transition-colors">Kontakt</a>
             </div>
           </div>
         </div>
@@ -45,16 +45,25 @@ export default function Header() {
             </div>
           </a>
 
-          {/* Dropdown Menu - Precis som "Sport på TV" */}
-          <LeagueDropdown />
+          {/* Navigation Links */}
+          <div className="flex items-center gap-3">
+            {/* Matcher Link */}
+            <a 
+              href="/" 
+              className="px-4 py-2 text-sm font-bold text-dark hover:text-primary transition-colors uppercase hidden sm:block"
+            >
+              Matcher
+            </a>
+            
+            {/* Dropdown Menu */}
+            <LeagueDropdown />
+          </div>
 
         </div>
       </nav>
 
-      {/* Tabs Navigation */}
-      <div className="border-t bg-gray-50">
-        <div className="container-custom"></div>
-      </div>
+      {/* ACCENT LINE (som TVsportens gröna linje) */}
+      <div className="h-2 bg-secondary w-full shadow-md"></div>
 
     </header>
   );

@@ -13,7 +13,13 @@ import legaAData from '@/lib/data/lega-a-2025-2026.json';
 import lklData from '@/lib/data/lkl-2025-2026.json';
 import klsData from '@/lib/data/kls-2025-2026.json';
 import serbianSuperLeagueData from '@/lib/data/serbian-super-league-2025-2026.json';
+import eurocupData from '@/lib/data/eurocup-2025-2026.json';
+import championsLeagueData from '@/lib/data/champions-league-2025-2026.json';
+import fibaEuropeCupData from '@/lib/data/fiba-europe-cup-2025-2026.json';
+import lnbData from '@/lib/data/lnb-2025-2026.json';
+import worldCupData from '@/lib/data/world-cup-2027.json';
 import { getBroadcasterById } from '@/lib/broadcasters';
+import SportsEventSchema from '@/components/SportsEventSchema';
 
 interface Props {
   params: Promise<{
@@ -56,6 +62,11 @@ function getLeagueName(leagueParam: string): string {
     'lkl': 'LKL',
     'kls': 'KLS',
     'serbian-super-league': 'Serbian Super League',
+    'eurocup': 'EuroCup',
+    'champions-league': 'Champions League',
+    'fiba-europe-cup': 'FIBA Europe Cup',
+    'lnb': 'LNB',
+    'world-cup': 'World Cup',
   };
   return names[leagueParam.toLowerCase()] || leagueParam.toUpperCase();
 }
@@ -63,34 +74,30 @@ function getLeagueName(leagueParam: string): string {
 function getLocalMatch(matchId: string, league: string): LocalMatch | null {
   const lowerLeague = league.toLowerCase();
 
-  let matches: LocalMatch[] = [];
-  if (lowerLeague === 'nba') {
-    matches = (nbaData as any).matches;
-  } else if (lowerLeague === 'sbl') {
-    matches = (sblData as any).matches;
-  } else if (lowerLeague === 'euroleague') {
-    matches = (euroleagueData as any).matches;
-  } else if (lowerLeague === 'acb') {
-    matches = (acbData as any).matches;
-  } else if (lowerLeague === 'turkish-bsl') {
-    matches = (turkishBslData as any).matches;
-  } else if (lowerLeague === 'aba-liga') {
-    matches = (abaLigaData as any).matches;
-  } else if (lowerLeague === 'bbl') {
-    matches = (bblData as any).matches;
-  } else if (lowerLeague === 'greek-cup') {
-    matches = (greekCupData as any).matches;
-  } else if (lowerLeague === 'lega-a') {
-    matches = (legaAData as any).matches;
-  } else if (lowerLeague === 'lkl') {
-    matches = (lklData as any).matches;
-  } else if (lowerLeague === 'kls') {
-    matches = (klsData as any).matches;
-  } else if (lowerLeague === 'serbian-super-league') {
-    matches = (serbianSuperLeagueData as any).matches;
-  }
+  const leagueDataMap: Record<string, any> = {
+    'nba': nbaData,
+    'sbl': sblData,
+    'euroleague': euroleagueData,
+    'acb': acbData,
+    'turkish-bsl': turkishBslData,
+    'aba-liga': abaLigaData,
+    'bbl': bblData,
+    'greek-cup': greekCupData,
+    'lega-a': legaAData,
+    'lkl': lklData,
+    'kls': klsData,
+    'serbian-super-league': serbianSuperLeagueData,
+    'eurocup': eurocupData,
+    'champions-league': championsLeagueData,
+    'fiba-europe-cup': fibaEuropeCupData,
+    'lnb': lnbData,
+    'world-cup': worldCupData,
+  };
 
-  if (!matches.length) return null;
+  const data = leagueDataMap[lowerLeague];
+  if (!data) return null;
+
+  const matches = (data as any).matches as LocalMatch[];
   return matches.find(m => String(m.id) === String(matchId)) || null;
 }
 
@@ -115,9 +122,19 @@ export default async function MatchPage({ params }: Props) {
   });
 
   const leagueName = getLeagueName(league);
+  const matchUrl = `/${league}/${slug}`;
 
   return (
     <div className="min-h-screen bg-gray-50">
+      <SportsEventSchema
+        homeTeam={match.home}
+        awayTeam={match.away}
+        date={match.date}
+        venue={match.venue}
+        league={league}
+        broadcasters={match.broadcasters}
+        matchUrl={matchUrl}
+      />
       <div className="max-w-[1092px] mx-auto px-4 py-6">
 
         <Link

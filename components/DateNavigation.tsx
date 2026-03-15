@@ -30,7 +30,7 @@ export default function DateNavigation({ selectedDate, onDateChange }: DateNavig
   const generateDates = () => {
     const dates = [];
     const today = new Date();
-    const selected = getSafeDate(selectedDate); // SAFE VERSION!
+    const selected = getSafeDate(selectedDate);
     
     // Börja från 2 dagar före selected date
     const startDate = new Date(selected);
@@ -82,48 +82,60 @@ export default function DateNavigation({ selectedDate, onDateChange }: DateNavig
   };
 
   return (
-    <div className="py-4 px-4">
-      <div className="bg-dark text-white py-3 px-4 max-w-4xl mx-auto relative">
-        <div className="flex items-center gap-2">
+    <div className="sticky top-0 z-10 bg-dark shadow-md">
+      <div className="max-w-7xl mx-auto">
+        <div className="flex items-center justify-between gap-2 py-2 px-2">
           
-          {/* Datum-knappar */}
-          <div className="flex-1 flex items-center gap-2 overflow-x-auto scrollbar-hide">
+          {/* Datum-knappar - scrollbar */}
+          <div className="flex-1 flex items-center gap-1 overflow-x-auto scrollbar-hide">
             {dates.map((date) => (
               <button
                 key={date.dateString}
                 onClick={() => handleClick(date.dateString)}
                 className={`
                   flex flex-col items-center justify-center
-                  min-w-[60px] px-4 py-2
+                  min-w-[64px] px-3 py-2
                   transition-all duration-200
+                  border-2
                   ${
                     selectedDate === date.dateString
-                      ? 'bg-primary text-white shadow-lg scale-105'
-                      : 'bg-dark-light text-gray-300 hover:bg-dark-lighter'
+                      ? 'bg-accent text-dark border-accent shadow-lg font-bold'
+                      : 'bg-dark text-white border-gray-700 hover:border-secondary hover:bg-dark-light'
                   }
                 `}
                 style={{ borderRadius: 0 }}
               >
-                <span className="text-xl font-bold">{date.dayNumber}</span>
-                <span className="text-xs font-semibold mt-1">{date.dayName}</span>
-                {date.isToday && (
-                  <span className="text-[10px] text-live mt-0.5">IDAG</span>
-                )}
+                <span className="text-2xl font-bold leading-none">{date.dayNumber}</span>
+                <span className="text-[11px] font-semibold uppercase tracking-wide mt-1">
+                  {date.dayName}
+                </span>
               </button>
             ))}
           </div>
 
-          {/* Kalenderikon */}
-          <div className="relative flex-shrink-0">
+          {/* Kalenderikon + Sortering */}
+          <div className="flex items-center gap-2 flex-shrink-0">
+            {/* Sortering-knapp (optional) */}
+            <button
+              className="flex items-center gap-1 px-3 py-2 bg-dark-light border-2 border-gray-700 hover:border-secondary transition-colors text-white text-xs font-semibold uppercase"
+              title="Sortering"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                <path d="M2.25 3.75A.75.75 0 013 3h10a.75.75 0 010 1.5H3a.75.75 0 01-.75-.75zM3 6a.75.75 0 000 1.5h6A.75.75 0 009 6H3zM11.963 13.943a.747.747 0 00.817-.163l3-3a.75.75 0 10-1.06-1.06L13 11.44V6.75a.75.75 0 00-1.5 0v4.69L9.78 9.72a.75.75 0 00-1.06 1.06l3 3a.748.748 0 00.243.163zM3 9a.75.75 0 000 1.5h3A.75.75 0 006 9H3zM2.25 12.75A.75.75 0 013 12h3a.75.75 0 010 1.5H3a.75.75 0 01-.75-.75z"></path>
+              </svg>
+              <span className="hidden sm:inline">Sort</span>
+            </button>
+            
+            {/* Kalenderikon */}
             <button
               onClick={handleCalendarClick}
-              className="flex items-center justify-center w-12 h-12 bg-dark-light hover:bg-dark-lighter transition-colors"
+              className="flex items-center justify-center w-10 h-10 bg-dark-light border-2 border-gray-700 hover:border-secondary transition-colors"
               title="Välj datum"
             >
               <svg 
                 xmlns="http://www.w3.org/2000/svg" 
-                width="24" 
-                height="24" 
+                width="20" 
+                height="20" 
                 viewBox="0 0 24 24" 
                 fill="none" 
                 stroke="currentColor" 

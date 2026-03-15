@@ -18,48 +18,54 @@ const LEAGUES = [
   { id: '60', name: 'LKL', url: '/lkl' },
   { id: '85', name: 'KLS', url: '/kls' },
   { id: '86', name: 'Serbian Super League', url: '/serbian-super-league' },
+  { id: '194', name: 'EuroCup', url: '/eurocup' },
+  { id: '202', name: 'Champions League', url: '/champions-league' },
+  { id: '201', name: 'FIBA Europe Cup', url: '/fiba-europe-cup' },
+  { id: '2', name: 'LNB (Frankrike)', url: '/lnb' },
+  { id: '281', name: 'World Cup 2027', url: '/world-cup' },
 ];
 
 export default function LeagueDropdown() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <div 
+    <div
       className="relative"
       onMouseEnter={() => setIsOpen(true)}
       onMouseLeave={() => setIsOpen(false)}
     >
-      {/* Button - Precis som "Sport på TV" */}
-      <button className="bg-primary text-white px-6 py-3 font-bold text-sm uppercase flex items-center gap-2 hover:bg-opacity-90 transition-colors">
+      <button className="bg-primary text-white px-6 py-3 font-bold text-sm uppercase flex items-center gap-2 hover:bg-opacity-90 active:scale-95 transition-all duration-200 shadow-sm">
         LIGOR
-        <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <svg className="w-4 h-4 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24" style={{ transform: isOpen ? 'rotate(180deg)' : 'rotate(0deg)' }}>
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
         </svg>
       </button>
 
-      {/* Dropdown Menu */}
       {isOpen && (
-        <div className="absolute top-full left-0 bg-white shadow-xl border border-gray-200 min-w-[280px] z-50">
+        <div className="absolute top-full right-0 bg-white shadow-dropdown border border-gray-200 min-w-[300px] z-50 mt-1">
           {LEAGUES.map((league) => {
             const info = getLeagueInfo(league.id);
             return (
               <Link
                 key={league.id}
                 href={league.url}
-                className="flex items-center gap-3 px-5 py-3 hover:bg-gray-50 border-b border-gray-100 last:border-b-0 transition-colors"
+                className="flex items-center gap-3 px-5 py-3.5 hover:bg-accent hover:bg-opacity-20 border-b border-gray-100 last:border-b-0 transition-all duration-200 group hover:translate-x-1"
               >
-                {/* Flag */}
-                <div className="w-6 h-6 relative rounded overflow-hidden flex-shrink-0">
+                <div className="w-7 h-7 relative rounded overflow-hidden flex-shrink-0">
                   <Image src={info.flag} alt="" fill className="object-cover" />
                 </div>
 
-                {/* Logo */}
-                <div className="w-7 h-7 relative flex-shrink-0">
+                <div className="w-8 h-8 relative flex-shrink-0">
                   <Image src={info.logo} alt="" fill className="object-contain" />
                 </div>
 
-                {/* Name */}
-                <span className="text-gray-800 text-sm font-medium uppercase">{league.name}</span>
+                <span className="text-dark text-sm font-semibold uppercase flex-1 group-hover:text-primary transition-colors">
+                  {league.name}
+                </span>
+
+                <svg className="w-4 h-4 text-gray-400 group-hover:text-primary transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                </svg>
               </Link>
             );
           })}

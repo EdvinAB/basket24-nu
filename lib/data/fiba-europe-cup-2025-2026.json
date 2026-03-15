@@ -1,0 +1,3048 @@
+{
+  "league": "FIBA Europe Cup",
+  "season": "2025-2026",
+  "updated": "2026-03-01",
+  "total": 190,
+  "matches": [
+    {
+      "id": 471764,
+      "date": "2025-09-24T17:00:00+02:00",
+      "time": "17:00",
+      "home": "Corona Brasov",
+      "away": "BC Dnipro",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/6097.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1309.png",
+      "homeId": 6097,
+      "awayId": 1309,
+      "venue": "Kounelles I.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471765,
+      "date": "2025-09-24T17:00:00+02:00",
+      "time": "17:00",
+      "home": "Absheron Lions",
+      "away": "Anorthosis",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/7523.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3124.png",
+      "homeId": 7523,
+      "awayId": 3124,
+      "venue": "Baloun J.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471766,
+      "date": "2025-09-24T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Cibona",
+      "away": "BC Prievidza",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/410.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1069.png",
+      "homeId": 410,
+      "awayId": 1069,
+      "venue": "Ciulin M.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471767,
+      "date": "2025-09-24T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Brno",
+      "away": "Parnu",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/441.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/481.png",
+      "homeId": 441,
+      "awayId": 481,
+      "venue": "Anaya J.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471768,
+      "date": "2025-09-24T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Bashkimi",
+      "away": "Anwil Wloclawek",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/778.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/904.png",
+      "homeId": 778,
+      "awayId": 904,
+      "venue": "Jurcevic J.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471769,
+      "date": "2025-09-24T19:30:00+02:00",
+      "time": "19:30",
+      "home": "Vechta",
+      "away": "Balkan",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/534.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1369.png",
+      "homeId": 534,
+      "awayId": 1369,
+      "venue": "Aunkrogers A.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471770,
+      "date": "2025-09-24T19:30:00+02:00",
+      "time": "19:30",
+      "home": "KK Bosna",
+      "away": "Mechelen",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2544.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/306.png",
+      "homeId": 2544,
+      "awayId": 306,
+      "venue": "Yilmaz Z.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471771,
+      "date": "2025-09-27T18:00:00+02:00",
+      "time": "18:00",
+      "home": "BC Dnipro",
+      "away": "Corona Brasov",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1309.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/6097.png",
+      "homeId": 1309,
+      "awayId": 6097,
+      "venue": "Zupancic B.",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471772,
+      "date": "2025-10-01T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Parnu",
+      "away": "Brno",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/481.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/441.png",
+      "homeId": 481,
+      "awayId": 441,
+      "venue": "Parnu Spordihall",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471773,
+      "date": "2025-10-01T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Balkan",
+      "away": "Vechta",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1369.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/534.png",
+      "homeId": 1369,
+      "awayId": 534,
+      "venue": "Arena Botevgrad",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471774,
+      "date": "2025-10-01T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Anorthosis",
+      "away": "Absheron Lions",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3124.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/7523.png",
+      "homeId": 3124,
+      "awayId": 7523,
+      "venue": "B Technical School Limassol",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471775,
+      "date": "2025-10-01T18:30:00+02:00",
+      "time": "18:30",
+      "home": "Anwil Wloclawek",
+      "away": "Bashkimi",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/904.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/778.png",
+      "homeId": 904,
+      "awayId": 778,
+      "venue": "Hala Mistrzow",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471776,
+      "date": "2025-10-01T19:00:00+02:00",
+      "time": "19:00",
+      "home": "BC Prievidza",
+      "away": "Cibona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1069.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/410.png",
+      "homeId": 1069,
+      "awayId": 410,
+      "venue": "Sportova hala",
+      "status": "AOT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471777,
+      "date": "2025-10-01T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Mechelen",
+      "away": "KK Bosna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/306.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2544.png",
+      "homeId": 306,
+      "awayId": 2544,
+      "venue": "Stedelijke Sporthal Winketkaai",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471778,
+      "date": "2025-10-14T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Rostock",
+      "away": "Tartu Ulikool",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/561.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/485.png",
+      "homeId": 561,
+      "awayId": 485,
+      "venue": "Stadthalle Rostock",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471779,
+      "date": "2025-10-14T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Bilbao",
+      "away": "Peristeri",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1695.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/616.png",
+      "homeId": 1695,
+      "awayId": 616,
+      "venue": "Bilbao Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471780,
+      "date": "2025-10-14T21:00:00+02:00",
+      "time": "21:00",
+      "home": "FC Porto",
+      "away": "Antwerp Giants",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/936.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/300.png",
+      "homeId": 936,
+      "awayId": 300,
+      "venue": "Pavilhão Dragão Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471883,
+      "date": "2025-10-15T17:00:00+02:00",
+      "time": "17:00",
+      "home": "Petkim Spor",
+      "away": "Corona Brasov",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2264.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/6097.png",
+      "homeId": 2264,
+      "awayId": 6097,
+      "venue": "Enka Spor Salonu",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472476,
+      "date": "2025-10-15T17:00:00+02:00",
+      "time": "17:00",
+      "home": "Kutaisi",
+      "away": "Brno",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/511.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/441.png",
+      "homeId": 511,
+      "awayId": 441,
+      "venue": "Sports Palace",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471783,
+      "date": "2025-10-15T18:00:00+02:00",
+      "time": "18:00",
+      "home": "CSM Oradea",
+      "away": "AEK Larnaca",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/975.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1389.png",
+      "homeId": 975,
+      "awayId": 1389,
+      "venue": "Oradea Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472477,
+      "date": "2025-10-15T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Valcea",
+      "away": "Vechta",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/6098.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/534.png",
+      "homeId": 6098,
+      "awayId": 534,
+      "venue": "Traian Sports Hall",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472478,
+      "date": "2025-10-15T18:30:00+02:00",
+      "time": "18:30",
+      "home": "Bakken Bears",
+      "away": "Anorthosis",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/464.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3124.png",
+      "homeId": 464,
+      "awayId": 3124,
+      "venue": "Vejlby-Risskov Hallen",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472479,
+      "date": "2025-10-15T18:30:00+02:00",
+      "time": "18:30",
+      "home": "Basketball Braunschweig",
+      "away": "Anwil Wloclawek",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/521.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/904.png",
+      "homeId": 521,
+      "awayId": 904,
+      "venue": "Volkswagen Halle",
+      "status": "AOT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472480,
+      "date": "2025-10-15T18:30:00+02:00",
+      "time": "18:30",
+      "home": "Lublin",
+      "away": "KK Bosna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/911.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2544.png",
+      "homeId": 911,
+      "awayId": 2544,
+      "venue": "Globus",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471784,
+      "date": "2025-10-15T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Cedevita Junior",
+      "away": "Pelister",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2582.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/869.png",
+      "homeId": 2582,
+      "awayId": 869,
+      "venue": "Dom Sportova",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472481,
+      "date": "2025-10-15T19:00:00+02:00",
+      "time": "19:00",
+      "home": "BC Prievidza",
+      "away": "Keravnos",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1069.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1395.png",
+      "homeId": 1069,
+      "awayId": 1395,
+      "venue": "Sportova hala",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471785,
+      "date": "2025-10-15T19:15:00+02:00",
+      "time": "19:15",
+      "home": "Trefl Sopot",
+      "away": "Neftchi IK",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/918.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/7524.png",
+      "homeId": 918,
+      "awayId": 7524,
+      "venue": "Ergo Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471786,
+      "date": "2025-10-15T19:15:00+02:00",
+      "time": "19:15",
+      "home": "PAOK",
+      "away": "Trepca",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/613.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/785.png",
+      "homeId": 613,
+      "awayId": 785,
+      "venue": "P.A.O.K. Sports Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471781,
+      "date": "2025-10-15T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Dijon",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 10,
+      "awayId": 725,
+      "venue": "Palais des Sports Jean-Michel Geoffroy",
+      "status": "AOT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471787,
+      "date": "2025-10-15T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Basket Zaragoza",
+      "away": "Szombathely",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2330.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/631.png",
+      "homeId": 2330,
+      "awayId": 631,
+      "venue": "Pabellon Principe Felipe",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471782,
+      "date": "2025-10-15T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Murcia",
+      "away": "Rilski Sportist",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2336.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1374.png",
+      "homeId": 2336,
+      "awayId": 1374,
+      "venue": "Palacio de Deportes de Murcia",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471788,
+      "date": "2025-10-15T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Sporting CP",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/943.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 943,
+      "awayId": 726,
+      "venue": "Pavilhão João Rocha",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472482,
+      "date": "2025-10-16T17:00:00+02:00",
+      "time": "17:00",
+      "home": "Absheron Lions",
+      "away": "BC Kalev/Cramo",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/7523.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/480.png",
+      "homeId": 7523,
+      "awayId": 480,
+      "venue": "Baku Sports Palace",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472483,
+      "date": "2025-10-16T18:30:00+02:00",
+      "time": "18:30",
+      "home": "Cibona",
+      "away": "Bashkimi",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/410.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/778.png",
+      "homeId": 410,
+      "awayId": 778,
+      "venue": "Kosarkaski centar Drazen Petrovic",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471790,
+      "date": "2025-10-21T16:30:00+02:00",
+      "time": "16:30",
+      "home": "Neftchi IK",
+      "away": "BC Kalev/Cramo",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/7524.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/480.png",
+      "homeId": 7524,
+      "awayId": 480,
+      "venue": "Baku Sports Palace",
+      "status": "AOT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472484,
+      "date": "2025-10-21T17:00:00+02:00",
+      "time": "17:00",
+      "home": "Brno",
+      "away": "Bilbao",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/441.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1695.png",
+      "homeId": 441,
+      "awayId": 1695,
+      "venue": "Starez Aréna Vodova",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471789,
+      "date": "2025-10-21T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Rostock",
+      "away": "Antwerp Giants",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/561.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/300.png",
+      "homeId": 561,
+      "awayId": 300,
+      "venue": "Stadthalle Rostock",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472485,
+      "date": "2025-10-21T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Cibona",
+      "away": "Dijon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/410.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "homeId": 410,
+      "awayId": 10,
+      "venue": "Kosarkaski centar Drazen Petrovic",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472486,
+      "date": "2025-10-21T19:30:00+02:00",
+      "time": "19:30",
+      "home": "KK Bosna",
+      "away": "Murcia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2544.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2336.png",
+      "homeId": 2544,
+      "awayId": 2336,
+      "venue": "Dvorana Mirza Delibasic",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472487,
+      "date": "2025-10-22T17:00:00+02:00",
+      "time": "17:00",
+      "home": "Absheron Lions",
+      "away": "Trefl Sopot",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/7523.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/918.png",
+      "homeId": 7523,
+      "awayId": 918,
+      "venue": "Baku Sports Palace",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471794,
+      "date": "2025-10-22T17:30:00+02:00",
+      "time": "17:30",
+      "home": "Rilski Sportist",
+      "away": "Lublin",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1374.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/911.png",
+      "homeId": 1374,
+      "awayId": 911,
+      "venue": "Arena Samokov",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471791,
+      "date": "2025-10-22T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Szombathely",
+      "away": "Bakken Bears",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/631.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/464.png",
+      "homeId": 631,
+      "awayId": 464,
+      "venue": "Arena Savaria",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471795,
+      "date": "2025-10-22T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Keravnos",
+      "away": "Cedevita Junior",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1395.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2582.png",
+      "homeId": 1395,
+      "awayId": 2582,
+      "venue": "Costas Papaellinas Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471796,
+      "date": "2025-10-22T18:00:00+02:00",
+      "time": "18:00",
+      "home": "AEK Larnaca",
+      "away": "Petkim Spor",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1389.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2264.png",
+      "homeId": 1389,
+      "awayId": 2264,
+      "venue": "Kition Athletic Center",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471797,
+      "date": "2025-10-22T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Tartu Ulikool",
+      "away": "FC Porto",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/485.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/936.png",
+      "homeId": 485,
+      "awayId": 936,
+      "venue": "Tartu Ulikooli spordihoone",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471884,
+      "date": "2025-10-22T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Corona Brasov",
+      "away": "CSM Oradea",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/6097.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/975.png",
+      "homeId": 6097,
+      "awayId": 975,
+      "venue": "Sala Sporturilor Dumitru Popescu Colibasi",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472489,
+      "date": "2025-10-22T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Anorthosis",
+      "away": "Basket Zaragoza",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3124.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2330.png",
+      "homeId": 3124,
+      "awayId": 2330,
+      "venue": "B Technical School Limassol",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471793,
+      "date": "2025-10-22T18:30:00+02:00",
+      "time": "18:30",
+      "home": "Peristeri",
+      "away": "Kutaisi",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/616.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/511.png",
+      "homeId": 616,
+      "awayId": 511,
+      "venue": "Andreas Papandreoy",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471798,
+      "date": "2025-10-22T18:30:00+02:00",
+      "time": "18:30",
+      "home": "Trepca",
+      "away": "Basketball Braunschweig",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/785.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/521.png",
+      "homeId": 785,
+      "awayId": 521,
+      "venue": "Minatori Sports Hall",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472488,
+      "date": "2025-10-22T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Pelister",
+      "away": "BC Prievidza",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/869.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1069.png",
+      "homeId": 869,
+      "awayId": 1069,
+      "venue": "Boro Curlevski Sports Hall",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472490,
+      "date": "2025-10-22T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Vechta",
+      "away": "Sporting CP",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/534.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/943.png",
+      "homeId": 534,
+      "awayId": 943,
+      "venue": "RASTA Dome",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472491,
+      "date": "2025-10-22T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Reggiana",
+      "away": "Bashkimi",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/778.png",
+      "homeId": 725,
+      "awayId": 778,
+      "venue": "PalaBigi",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471792,
+      "date": "2025-10-22T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Sassari",
+      "away": "Valcea",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/6098.png",
+      "homeId": 726,
+      "awayId": 6098,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472492,
+      "date": "2025-10-22T20:45:00+02:00",
+      "time": "20:45",
+      "home": "Anwil Wloclawek",
+      "away": "PAOK",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/904.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/613.png",
+      "homeId": 904,
+      "awayId": 613,
+      "venue": "Hala Mistrzow",
+      "status": "AOT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471799,
+      "date": "2025-10-28T21:00:00+01:00",
+      "time": "21:00",
+      "home": "FC Porto",
+      "away": "Rostock",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/936.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/561.png",
+      "homeId": 936,
+      "awayId": 561,
+      "venue": "Pavilhão Dragão Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471800,
+      "date": "2025-10-29T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Petkim Spor",
+      "away": "CSM Oradea",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2264.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/975.png",
+      "homeId": 2264,
+      "awayId": 975,
+      "venue": "Enka Spor Salonu",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471802,
+      "date": "2025-10-29T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Kutaisi",
+      "away": "Bilbao",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/511.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1695.png",
+      "homeId": 511,
+      "awayId": 1695,
+      "venue": "Sports Palace",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472493,
+      "date": "2025-10-29T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Absheron Lions",
+      "away": "Neftchi IK",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/7523.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/7524.png",
+      "homeId": 7523,
+      "awayId": 7524,
+      "venue": "Baku Sports Palace",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472496,
+      "date": "2025-10-29T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Peristeri",
+      "away": "Brno",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/616.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/441.png",
+      "homeId": 616,
+      "awayId": 441,
+      "venue": "Andreas Papandreoy",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472494,
+      "date": "2025-10-29T17:30:00+01:00",
+      "time": "17:30",
+      "home": "Rilski Sportist",
+      "away": "KK Bosna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1374.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2544.png",
+      "homeId": 1374,
+      "awayId": 2544,
+      "venue": "Arena Samokov",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471803,
+      "date": "2025-10-29T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Keravnos",
+      "away": "Pelister",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1395.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/869.png",
+      "homeId": 1395,
+      "awayId": 869,
+      "venue": "Costas Papaellinas Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471805,
+      "date": "2025-10-29T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Valcea",
+      "away": "Sporting CP",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/6098.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/943.png",
+      "homeId": 6098,
+      "awayId": 943,
+      "venue": "Traian Sports Hall",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471885,
+      "date": "2025-10-29T18:00:00+01:00",
+      "time": "18:00",
+      "home": "AEK Larnaca",
+      "away": "Corona Brasov",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1389.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/6097.png",
+      "homeId": 1389,
+      "awayId": 6097,
+      "venue": "Kition Athletic Center",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472495,
+      "date": "2025-10-29T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Szombathely",
+      "away": "Anorthosis",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/631.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3124.png",
+      "homeId": 631,
+      "awayId": 3124,
+      "venue": "Arena Savaria",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471801,
+      "date": "2025-10-29T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Lublin",
+      "away": "Murcia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/911.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2336.png",
+      "homeId": 911,
+      "awayId": 2336,
+      "venue": "Globus",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471804,
+      "date": "2025-10-29T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Bakken Bears",
+      "away": "Basket Zaragoza",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/464.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2330.png",
+      "homeId": 464,
+      "awayId": 2330,
+      "venue": "Vejlby-Risskov Hallen",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471806,
+      "date": "2025-10-29T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Basketball Braunschweig",
+      "away": "PAOK",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/521.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/613.png",
+      "homeId": 521,
+      "awayId": 613,
+      "venue": "Volkswagen Halle",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472497,
+      "date": "2025-10-29T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Trepca",
+      "away": "Anwil Wloclawek",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/785.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/904.png",
+      "homeId": 785,
+      "awayId": 904,
+      "venue": "Minatori Sports Hall",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472498,
+      "date": "2025-10-29T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Bashkimi",
+      "away": "Dijon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/778.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "homeId": 778,
+      "awayId": 10,
+      "venue": "Palestra sportive Sezai Surroi",
+      "status": "AOT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472499,
+      "date": "2025-10-29T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Cedevita Junior",
+      "away": "BC Prievidza",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2582.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1069.png",
+      "homeId": 2582,
+      "awayId": 1069,
+      "venue": "Dom Sportova",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471807,
+      "date": "2025-10-29T19:15:00+01:00",
+      "time": "19:15",
+      "home": "Trefl Sopot",
+      "away": "BC Kalev/Cramo",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/918.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/480.png",
+      "homeId": 918,
+      "awayId": 480,
+      "venue": "Ergo Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471808,
+      "date": "2025-10-29T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Antwerp Giants",
+      "away": "Tartu Ulikool",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/300.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/485.png",
+      "homeId": 300,
+      "awayId": 485,
+      "venue": "Lotto Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472500,
+      "date": "2025-10-29T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Reggiana",
+      "away": "Cibona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/410.png",
+      "homeId": 725,
+      "awayId": 410,
+      "venue": "PalaBigi",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472501,
+      "date": "2025-10-29T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Sassari",
+      "away": "Vechta",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/534.png",
+      "homeId": 726,
+      "awayId": 534,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472502,
+      "date": "2025-11-04T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Brno",
+      "away": "Kutaisi",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/441.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/511.png",
+      "homeId": 441,
+      "awayId": 511,
+      "venue": "Starez Aréna Vodova",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471812,
+      "date": "2025-11-04T17:30:00+01:00",
+      "time": "17:30",
+      "home": "Rilski Sportist",
+      "away": "Murcia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1374.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2336.png",
+      "homeId": 1374,
+      "awayId": 2336,
+      "venue": "Arena Samokov",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472503,
+      "date": "2025-11-04T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Anwil Wloclawek",
+      "away": "Basketball Braunschweig",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/904.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/521.png",
+      "homeId": 904,
+      "awayId": 521,
+      "venue": "Hala Mistrzow",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472504,
+      "date": "2025-11-04T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Bashkimi",
+      "away": "Cibona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/778.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/410.png",
+      "homeId": 778,
+      "awayId": 410,
+      "venue": "Palestra sportive Sezai Surroi",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471809,
+      "date": "2025-11-04T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Reggiana",
+      "away": "Dijon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "homeId": 725,
+      "awayId": 10,
+      "venue": "PalaBigi",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471810,
+      "date": "2025-11-04T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Sassari",
+      "away": "Sporting CP",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/943.png",
+      "homeId": 726,
+      "awayId": 943,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471811,
+      "date": "2025-11-05T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Neftchi IK",
+      "away": "Trefl Sopot",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/7524.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/918.png",
+      "homeId": 7524,
+      "awayId": 918,
+      "venue": "Baku Sports Palace",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471813,
+      "date": "2025-11-05T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Szombathely",
+      "away": "Basket Zaragoza",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/631.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2330.png",
+      "homeId": 631,
+      "awayId": 2330,
+      "venue": "Arena Savaria",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471815,
+      "date": "2025-11-05T18:00:00+01:00",
+      "time": "18:00",
+      "home": "AEK Larnaca",
+      "away": "CSM Oradea",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1389.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/975.png",
+      "homeId": 1389,
+      "awayId": 975,
+      "venue": "Kition Athletic Center",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471817,
+      "date": "2025-11-05T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Tartu Ulikool",
+      "away": "Rostock",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/485.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/561.png",
+      "homeId": 485,
+      "awayId": 561,
+      "venue": "Tartu Ulikooli spordihoone",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471886,
+      "date": "2025-11-05T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Corona Brasov",
+      "away": "Petkim Spor",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/6097.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2264.png",
+      "homeId": 6097,
+      "awayId": 2264,
+      "venue": "Sala Sporturilor Dumitru Popescu Colibasi",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472506,
+      "date": "2025-11-05T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Keravnos",
+      "away": "BC Prievidza",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1395.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1069.png",
+      "homeId": 1395,
+      "awayId": 1069,
+      "venue": "Costas Papaellinas Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472507,
+      "date": "2025-11-05T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Anorthosis",
+      "away": "Bakken Bears",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3124.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/464.png",
+      "homeId": 3124,
+      "awayId": 464,
+      "venue": "B Technical School Limassol",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471816,
+      "date": "2025-11-05T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Peristeri",
+      "away": "Bilbao",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/616.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1695.png",
+      "homeId": 616,
+      "awayId": 1695,
+      "venue": "Andreas Papandreoy",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471818,
+      "date": "2025-11-05T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Trepca",
+      "away": "PAOK",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/785.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/613.png",
+      "homeId": 785,
+      "awayId": 613,
+      "venue": "Minatori Sports Hall",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472505,
+      "date": "2025-11-05T18:30:00+01:00",
+      "time": "18:30",
+      "home": "BC Kalev/Cramo",
+      "away": "Absheron Lions",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/480.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/7523.png",
+      "homeId": 480,
+      "awayId": 7523,
+      "venue": "Unibet Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472508,
+      "date": "2025-11-05T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Vechta",
+      "away": "Valcea",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/534.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/6098.png",
+      "homeId": 534,
+      "awayId": 6098,
+      "venue": "RASTA Dome",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472509,
+      "date": "2025-11-05T19:30:00+01:00",
+      "time": "19:30",
+      "home": "KK Bosna",
+      "away": "Lublin",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2544.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/911.png",
+      "homeId": 2544,
+      "awayId": 911,
+      "venue": "Dvorana Mirza Delibasic",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471814,
+      "date": "2025-11-05T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Pelister",
+      "away": "Cedevita Junior",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/869.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2582.png",
+      "homeId": 869,
+      "awayId": 2582,
+      "venue": "Boro Curlevski Sports Hall",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471819,
+      "date": "2025-11-05T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Antwerp Giants",
+      "away": "FC Porto",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/300.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/936.png",
+      "homeId": 300,
+      "awayId": 936,
+      "venue": "Lotto Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471820,
+      "date": "2025-11-11T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Bakken Bears",
+      "away": "Szombathely",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/464.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/631.png",
+      "homeId": 464,
+      "awayId": 631,
+      "venue": "Vejlby-Risskov Hallen",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471828,
+      "date": "2025-11-11T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Antwerp Giants",
+      "away": "Rostock",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/300.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/561.png",
+      "homeId": 300,
+      "awayId": 561,
+      "venue": "Lotto Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472510,
+      "date": "2025-11-11T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Dijon",
+      "away": "Cibona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/410.png",
+      "homeId": 10,
+      "awayId": 410,
+      "venue": "Palais des Sports Jean-Michel Geoffroy",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472511,
+      "date": "2025-11-11T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Bilbao",
+      "away": "Brno",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1695.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/441.png",
+      "homeId": 1695,
+      "awayId": 441,
+      "venue": "Bilbao Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472512,
+      "date": "2025-11-11T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Murcia",
+      "away": "KK Bosna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2336.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2544.png",
+      "homeId": 2336,
+      "awayId": 2544,
+      "venue": "Palacio de Deportes de Murcia",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471821,
+      "date": "2025-11-12T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Petkim Spor",
+      "away": "AEK Larnaca",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2264.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1389.png",
+      "homeId": 2264,
+      "awayId": 1389,
+      "venue": "Enka Spor Salonu",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471824,
+      "date": "2025-11-12T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Kutaisi",
+      "away": "Peristeri",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/511.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/616.png",
+      "homeId": 511,
+      "awayId": 616,
+      "venue": "Sports Palace",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471825,
+      "date": "2025-11-12T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Valcea",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/6098.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 6098,
+      "awayId": 726,
+      "venue": "Traian Sports Hall",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471887,
+      "date": "2025-11-12T18:00:00+01:00",
+      "time": "18:00",
+      "home": "CSM Oradea",
+      "away": "Corona Brasov",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/975.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/6097.png",
+      "homeId": 975,
+      "awayId": 6097,
+      "venue": "Oradea Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471822,
+      "date": "2025-11-12T18:30:00+01:00",
+      "time": "18:30",
+      "home": "BC Kalev/Cramo",
+      "away": "Neftchi IK",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/480.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/7524.png",
+      "homeId": 480,
+      "awayId": 7524,
+      "venue": "Unibet Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471823,
+      "date": "2025-11-12T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Lublin",
+      "away": "Rilski Sportist",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/911.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1374.png",
+      "homeId": 911,
+      "awayId": 1374,
+      "venue": "Globus",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471826,
+      "date": "2025-11-12T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Basketball Braunschweig",
+      "away": "Trepca",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/521.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/785.png",
+      "homeId": 521,
+      "awayId": 785,
+      "venue": "Volkswagen Halle",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471827,
+      "date": "2025-11-12T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Cedevita Junior",
+      "away": "Keravnos",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2582.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1395.png",
+      "homeId": 2582,
+      "awayId": 1395,
+      "venue": "Dom Sportova",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472513,
+      "date": "2025-11-12T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Bashkimi",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/778.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 778,
+      "awayId": 725,
+      "venue": "Palestra sportive Sezai Surroi",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472514,
+      "date": "2025-11-12T19:00:00+01:00",
+      "time": "19:00",
+      "home": "BC Prievidza",
+      "away": "Pelister",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1069.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/869.png",
+      "homeId": 1069,
+      "awayId": 869,
+      "venue": "Sportova hala",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472515,
+      "date": "2025-11-12T19:15:00+01:00",
+      "time": "19:15",
+      "home": "PAOK",
+      "away": "Anwil Wloclawek",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/613.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/904.png",
+      "homeId": 613,
+      "awayId": 904,
+      "venue": "P.A.O.K. Sports Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472516,
+      "date": "2025-11-12T19:15:00+01:00",
+      "time": "19:15",
+      "home": "Trefl Sopot",
+      "away": "Absheron Lions",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/918.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/7523.png",
+      "homeId": 918,
+      "awayId": 7523,
+      "venue": "Ergo Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472517,
+      "date": "2025-11-12T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Basket Zaragoza",
+      "away": "Anorthosis",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2330.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3124.png",
+      "homeId": 2330,
+      "awayId": 3124,
+      "venue": "Pabellon Principe Felipe",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472518,
+      "date": "2025-11-12T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Sporting CP",
+      "away": "Vechta",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/943.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/534.png",
+      "homeId": 943,
+      "awayId": 534,
+      "venue": "Pavilhão João Rocha",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471829,
+      "date": "2025-11-12T21:00:00+01:00",
+      "time": "21:00",
+      "home": "FC Porto",
+      "away": "Tartu Ulikool",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/936.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/485.png",
+      "homeId": 936,
+      "awayId": 485,
+      "venue": "Pavilhão Dragão Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472519,
+      "date": "2025-11-18T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Dijon",
+      "away": "Bashkimi",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/10.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/778.png",
+      "homeId": 10,
+      "awayId": 778,
+      "venue": "Palais des Sports Jean-Michel Geoffroy",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472521,
+      "date": "2025-11-19T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Neftchi IK",
+      "away": "Absheron Lions",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/7524.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/7523.png",
+      "homeId": 7524,
+      "awayId": 7523,
+      "venue": "Baku Sports Palace",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471833,
+      "date": "2025-11-19T18:00:00+01:00",
+      "time": "18:00",
+      "home": "CSM Oradea",
+      "away": "Petkim Spor",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/975.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2264.png",
+      "homeId": 975,
+      "awayId": 2264,
+      "venue": "Oradea Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471834,
+      "date": "2025-11-19T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Rostock",
+      "away": "FC Porto",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/561.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/936.png",
+      "homeId": 561,
+      "awayId": 936,
+      "venue": "Stadthalle Rostock",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471835,
+      "date": "2025-11-19T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Tartu Ulikool",
+      "away": "Antwerp Giants",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/485.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/300.png",
+      "homeId": 485,
+      "awayId": 300,
+      "venue": "Tartu Ulikooli spordihoone",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471888,
+      "date": "2025-11-19T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Corona Brasov",
+      "away": "AEK Larnaca",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/6097.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1389.png",
+      "homeId": 6097,
+      "awayId": 1389,
+      "venue": "Sala Sporturilor Dumitru Popescu Colibasi",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472522,
+      "date": "2025-11-19T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Brno",
+      "away": "Peristeri",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/441.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/616.png",
+      "homeId": 441,
+      "awayId": 616,
+      "venue": "Starez Aréna Vodova",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472523,
+      "date": "2025-11-19T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Anorthosis",
+      "away": "Szombathely",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3124.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/631.png",
+      "homeId": 3124,
+      "awayId": 631,
+      "venue": "B Technical School Limassol",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471832,
+      "date": "2025-11-19T18:30:00+01:00",
+      "time": "18:30",
+      "home": "BC Kalev/Cramo",
+      "away": "Trefl Sopot",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/480.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/918.png",
+      "homeId": 480,
+      "awayId": 918,
+      "venue": "Unibet Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472520,
+      "date": "2025-11-19T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Cibona",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/410.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 410,
+      "awayId": 725,
+      "venue": "Kosarkaski centar Drazen Petrovic",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472524,
+      "date": "2025-11-19T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Anwil Wloclawek",
+      "away": "Trepca",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/904.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/785.png",
+      "homeId": 904,
+      "awayId": 785,
+      "venue": "Hala Mistrzow",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471830,
+      "date": "2025-11-19T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Pelister",
+      "away": "Keravnos",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/869.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1395.png",
+      "homeId": 869,
+      "awayId": 1395,
+      "venue": "Boro Curlevski Sports Hall",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472525,
+      "date": "2025-11-19T19:00:00+01:00",
+      "time": "19:00",
+      "home": "BC Prievidza",
+      "away": "Cedevita Junior",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1069.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2582.png",
+      "homeId": 1069,
+      "awayId": 2582,
+      "venue": "Sportova hala",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472526,
+      "date": "2025-11-19T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Vechta",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/534.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 534,
+      "awayId": 726,
+      "venue": "RASTA Dome",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471836,
+      "date": "2025-11-19T19:15:00+01:00",
+      "time": "19:15",
+      "home": "PAOK",
+      "away": "Basketball Braunschweig",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/613.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/521.png",
+      "homeId": 613,
+      "awayId": 521,
+      "venue": "P.A.O.K. Sports Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 472527,
+      "date": "2025-11-19T19:30:00+01:00",
+      "time": "19:30",
+      "home": "KK Bosna",
+      "away": "Rilski Sportist",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2544.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1374.png",
+      "homeId": 2544,
+      "awayId": 1374,
+      "venue": "Dvorana Mirza Delibasic",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471837,
+      "date": "2025-11-19T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Basket Zaragoza",
+      "away": "Bakken Bears",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2330.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/464.png",
+      "homeId": 2330,
+      "awayId": 464,
+      "venue": "Pabellon Principe Felipe",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471838,
+      "date": "2025-11-19T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Bilbao",
+      "away": "Kutaisi",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1695.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/511.png",
+      "homeId": 1695,
+      "awayId": 511,
+      "venue": "Bilbao Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471831,
+      "date": "2025-11-19T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Murcia",
+      "away": "Lublin",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2336.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/911.png",
+      "homeId": 2336,
+      "awayId": 911,
+      "venue": "Palacio de Deportes de Murcia",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 471839,
+      "date": "2025-11-19T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Sporting CP",
+      "away": "Valcea",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/943.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/6098.png",
+      "homeId": 943,
+      "awayId": 6098,
+      "venue": "Pavilhão João Rocha",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484726,
+      "date": "2025-12-10T18:00:00+01:00",
+      "time": "18:00",
+      "home": "CSM Oradea",
+      "away": "KK Bosna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/975.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2544.png",
+      "homeId": 975,
+      "awayId": 2544,
+      "venue": "Oradea Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484727,
+      "date": "2025-12-10T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Bilbao",
+      "away": "Sporting CP",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1695.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/943.png",
+      "homeId": 1695,
+      "awayId": 943,
+      "venue": "Bilbao Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484721,
+      "date": "2025-12-10T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Rostock",
+      "away": "Trefl Sopot",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/561.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/918.png",
+      "homeId": 561,
+      "awayId": 918,
+      "venue": "Stadthalle Rostock",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484722,
+      "date": "2025-12-10T19:15:00+01:00",
+      "time": "19:15",
+      "home": "PAOK",
+      "away": "BC Prievidza",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/613.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1069.png",
+      "homeId": 613,
+      "awayId": 1069,
+      "venue": "P.A.O.K. Sports Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484724,
+      "date": "2025-12-10T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Cedevita Junior",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2582.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 2582,
+      "awayId": 725,
+      "venue": "Dom Sportova",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484725,
+      "date": "2025-12-10T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Basket Zaragoza",
+      "away": "Peristeri",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2330.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/616.png",
+      "homeId": 2330,
+      "awayId": 616,
+      "venue": "Pabellon Principe Felipe",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484720,
+      "date": "2025-12-10T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Sassari",
+      "away": "Petkim Spor",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2264.png",
+      "homeId": 726,
+      "awayId": 2264,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484723,
+      "date": "2025-12-10T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Murcia",
+      "away": "Szombathely",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2336.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/631.png",
+      "homeId": 2336,
+      "awayId": 631,
+      "venue": "Palacio de Deportes de Murcia",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484731,
+      "date": "2025-12-17T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Petkim Spor",
+      "away": "Basket Zaragoza",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2264.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2330.png",
+      "homeId": 2264,
+      "awayId": 2330,
+      "venue": "Enka Spor Salonu",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484733,
+      "date": "2025-12-17T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Szombathely",
+      "away": "Rostock",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/631.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/561.png",
+      "homeId": 631,
+      "awayId": 561,
+      "venue": "Pavilhão João Rocha",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484728,
+      "date": "2025-12-17T19:00:00+01:00",
+      "time": "19:00",
+      "home": "BC Prievidza",
+      "away": "Bilbao",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1069.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1695.png",
+      "homeId": 1069,
+      "awayId": 1695,
+      "venue": "Sportova hala",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484730,
+      "date": "2025-12-17T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Peristeri",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/616.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 616,
+      "awayId": 726,
+      "venue": "Sportova hala",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484734,
+      "date": "2025-12-17T19:15:00+01:00",
+      "time": "19:15",
+      "home": "Trefl Sopot",
+      "away": "Murcia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/918.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2336.png",
+      "homeId": 918,
+      "awayId": 2336,
+      "venue": "Ergo Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484729,
+      "date": "2025-12-17T19:30:00+01:00",
+      "time": "19:30",
+      "home": "KK Bosna",
+      "away": "Cedevita Junior",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2544.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2582.png",
+      "homeId": 2544,
+      "awayId": 2582,
+      "venue": "Volkswagen Halle",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484732,
+      "date": "2025-12-17T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Reggiana",
+      "away": "CSM Oradea",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/975.png",
+      "homeId": 725,
+      "awayId": 975,
+      "venue": "PalaBigi",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484735,
+      "date": "2025-12-17T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Sporting CP",
+      "away": "PAOK",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/943.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/613.png",
+      "homeId": 943,
+      "awayId": 613,
+      "venue": "Arena Savaria",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484743,
+      "date": "2026-01-13T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Bilbao",
+      "away": "PAOK",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1695.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/613.png",
+      "homeId": 1695,
+      "awayId": 613,
+      "venue": "Bilbao Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484741,
+      "date": "2026-01-14T18:00:00+01:00",
+      "time": "18:00",
+      "home": "CSM Oradea",
+      "away": "Cedevita Junior",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/975.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2582.png",
+      "homeId": 975,
+      "awayId": 2582,
+      "venue": "Oradea Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484736,
+      "date": "2026-01-14T19:00:00+01:00",
+      "time": "19:00",
+      "home": "BC Prievidza",
+      "away": "Sporting CP",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1069.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/943.png",
+      "homeId": 1069,
+      "awayId": 943,
+      "venue": "Sportova hala",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484738,
+      "date": "2026-01-14T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Peristeri",
+      "away": "Petkim Spor",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/616.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2264.png",
+      "homeId": 616,
+      "awayId": 2264,
+      "venue": "Sportova hala",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484742,
+      "date": "2026-01-14T19:15:00+01:00",
+      "time": "19:15",
+      "home": "Trefl Sopot",
+      "away": "Szombathely",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/918.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/631.png",
+      "homeId": 918,
+      "awayId": 631,
+      "venue": "Ergo Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484739,
+      "date": "2026-01-14T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Reggiana",
+      "away": "KK Bosna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2544.png",
+      "homeId": 725,
+      "awayId": 2544,
+      "venue": "PalaBigi",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484737,
+      "date": "2026-01-14T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Murcia",
+      "away": "Rostock",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2336.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/561.png",
+      "homeId": 2336,
+      "awayId": 561,
+      "venue": "Palacio de Deportes de Murcia",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484740,
+      "date": "2026-01-14T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Sassari",
+      "away": "Basket Zaragoza",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2330.png",
+      "homeId": 726,
+      "awayId": 2330,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484745,
+      "date": "2026-01-20T19:15:00+01:00",
+      "time": "19:15",
+      "home": "Trefl Sopot",
+      "away": "Rostock",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/918.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/561.png",
+      "homeId": 918,
+      "awayId": 561,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484747,
+      "date": "2026-01-21T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Petkim Spor",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2264.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 2264,
+      "awayId": 726,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484750,
+      "date": "2026-01-21T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Szombathely",
+      "away": "Murcia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/631.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2336.png",
+      "homeId": 631,
+      "awayId": 2336,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484748,
+      "date": "2026-01-21T19:00:00+01:00",
+      "time": "19:00",
+      "home": "BC Prievidza",
+      "away": "PAOK",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1069.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/613.png",
+      "homeId": 1069,
+      "awayId": 613,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484746,
+      "date": "2026-01-21T19:30:00+01:00",
+      "time": "19:30",
+      "home": "KK Bosna",
+      "away": "CSM Oradea",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2544.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/975.png",
+      "homeId": 2544,
+      "awayId": 975,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484744,
+      "date": "2026-01-21T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Reggiana",
+      "away": "Cedevita Junior",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2582.png",
+      "homeId": 725,
+      "awayId": 2582,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484751,
+      "date": "2026-01-21T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Sporting CP",
+      "away": "Bilbao",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/943.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1695.png",
+      "homeId": 943,
+      "awayId": 1695,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484749,
+      "date": "2026-01-28T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Peristeri",
+      "away": "Basket Zaragoza",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/616.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2330.png",
+      "homeId": 616,
+      "awayId": 2330,
+      "venue": "Sportova hala",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484759,
+      "date": "2026-02-03T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Bilbao",
+      "away": "BC Prievidza",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1695.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1069.png",
+      "homeId": 1695,
+      "awayId": 1069,
+      "venue": "Bilbao Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484755,
+      "date": "2026-02-03T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Murcia",
+      "away": "Trefl Sopot",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2336.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/918.png",
+      "homeId": 2336,
+      "awayId": 918,
+      "venue": "Palacio de Deportes de Murcia",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484752,
+      "date": "2026-02-04T16:30:00+01:00",
+      "time": "16:30",
+      "home": "PAOK",
+      "away": "Sporting CP",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/613.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/943.png",
+      "homeId": 613,
+      "awayId": 943,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484758,
+      "date": "2026-02-04T18:00:00+01:00",
+      "time": "18:00",
+      "home": "CSM Oradea",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/975.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 975,
+      "awayId": 725,
+      "venue": "Oradea Arena",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484753,
+      "date": "2026-02-04T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Rostock",
+      "away": "Szombathely",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/561.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/631.png",
+      "homeId": 561,
+      "awayId": 631,
+      "venue": "Stadthalle Rostock",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484756,
+      "date": "2026-02-04T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Cedevita Junior",
+      "away": "KK Bosna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2582.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2544.png",
+      "homeId": 2582,
+      "awayId": 2544,
+      "venue": "Dom Sportova",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484754,
+      "date": "2026-02-04T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Sassari",
+      "away": "Peristeri",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/616.png",
+      "homeId": 726,
+      "awayId": 616,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484757,
+      "date": "2026-02-05T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Basket Zaragoza",
+      "away": "Petkim Spor",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2330.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2264.png",
+      "homeId": 2330,
+      "awayId": 2264,
+      "venue": "Pabellon Principe Felipe",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484767,
+      "date": "2026-02-10T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Basket Zaragoza",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2330.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 2330,
+      "awayId": 726,
+      "venue": "Pabellon Principe Felipe",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484763,
+      "date": "2026-02-11T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Petkim Spor",
+      "away": "Peristeri",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2264.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/616.png",
+      "homeId": 2264,
+      "awayId": 616,
+      "venue": "Enka Spor Salonu",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484762,
+      "date": "2026-02-11T16:30:00+01:00",
+      "time": "16:30",
+      "home": "PAOK",
+      "away": "Bilbao",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/613.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1695.png",
+      "homeId": 613,
+      "awayId": 1695,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484764,
+      "date": "2026-02-11T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Rostock",
+      "away": "Murcia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/561.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2336.png",
+      "homeId": 561,
+      "awayId": 2336,
+      "venue": "Stadthalle Rostock",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484765,
+      "date": "2026-02-11T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Szombathely",
+      "away": "Trefl Sopot",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/631.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/918.png",
+      "homeId": 631,
+      "awayId": 918,
+      "venue": "Arena Savaria",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484760,
+      "date": "2026-02-11T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Cedevita Junior",
+      "away": "CSM Oradea",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2582.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/975.png",
+      "homeId": 2582,
+      "awayId": 975,
+      "venue": "Dom Sportova",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484761,
+      "date": "2026-02-11T19:30:00+01:00",
+      "time": "19:30",
+      "home": "KK Bosna",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2544.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 2544,
+      "awayId": 725,
+      "venue": "Volkswagen Halle",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 484766,
+      "date": "2026-02-11T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Sporting CP",
+      "away": "BC Prievidza",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/943.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1069.png",
+      "homeId": 943,
+      "awayId": 1069,
+      "venue": "Arena Savaria",
+      "status": "FT",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 492559,
+      "date": "2026-03-11T16:00:00+01:00",
+      "time": "16:00",
+      "home": "PAOK",
+      "away": "Peristeri",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/613.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/616.png",
+      "homeId": 613,
+      "awayId": 616,
+      "venue": "P.A.O.K. Sports Arena",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 492560,
+      "date": "2026-03-11T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Petkim Spor",
+      "away": "Bilbao",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2264.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1695.png",
+      "homeId": 2264,
+      "awayId": 1695,
+      "venue": "Enka Spor Salonu",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 492561,
+      "date": "2026-03-11T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Reggiana",
+      "away": "Murcia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2336.png",
+      "homeId": 725,
+      "awayId": 2336,
+      "venue": "PalaBigi",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 492562,
+      "date": "2026-03-11T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Szombathely",
+      "away": "KK Bosna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/631.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2544.png",
+      "homeId": 631,
+      "awayId": 2544,
+      "venue": "Arena Savaria",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 492563,
+      "date": "2026-03-18T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Bilbao",
+      "away": "Petkim Spor",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1695.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2264.png",
+      "homeId": 1695,
+      "awayId": 2264,
+      "venue": "Bilbao Arena",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 492564,
+      "date": "2026-03-18T16:00:00+01:00",
+      "time": "16:00",
+      "home": "KK Bosna",
+      "away": "Szombathely",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2544.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/631.png",
+      "homeId": 2544,
+      "awayId": 631,
+      "venue": "Dvorana Mirza Delibasic",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 492565,
+      "date": "2026-03-18T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Murcia",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/2336.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 2336,
+      "awayId": 725,
+      "venue": "Palacio de Deportes de Murcia",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    },
+    {
+      "id": 492566,
+      "date": "2026-03-18T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Peristeri",
+      "away": "PAOK",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/616.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/613.png",
+      "homeId": 616,
+      "awayId": 613,
+      "venue": "Andreas Papandreoy",
+      "status": "NS",
+      "broadcasters": [
+        "courtside1891-max"
+      ]
+    }
+  ]
+}

@@ -33,7 +33,7 @@ export default function DateBar({ selectedDate, onDateChange }: DateBarProps) {
 
   return (
     <div className="bg-gray-100 border-t border-b border-gray-200 py-3 px-4">
-      <div className="flex items-center justify-between max-w-[1092px] mx-auto">
+      <div className="flex items-center justify-center max-w-[1092px] mx-auto">
         <div className="flex items-center gap-2">
           <span className="text-lg font-semibold capitalize">{dayName}</span>
           <span className="text-lg font-bold">{dayNumber}</span>

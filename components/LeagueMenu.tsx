@@ -18,12 +18,16 @@ const LEAGUES = [
   { id: '60', name: 'LKL (Litauen)', url: '/lkl' },
   { id: '85', name: 'KLS (Serbien)', url: '/kls' },
   { id: '86', name: 'Serbian Super League', url: '/serbian-super-league' },
+  { id: '194', name: 'EuroCup', url: '/eurocup' },
+  { id: '202', name: 'Champions League', url: '/champions-league' },
+  { id: '201', name: 'FIBA Europe Cup', url: '/fiba-europe-cup' },
+  { id: '2', name: 'LNB (Frankrike)', url: '/lnb' },
+  { id: '281', name: 'World Cup 2027', url: '/world-cup' },
 ];
 
 export default function LeagueMenu() {
   const [isOpen, setIsOpen] = useState(false);
 
-  // Prevent scroll when menu open
   useEffect(() => {
     if (isOpen) {
       document.body.style.overflow = 'hidden';
@@ -37,7 +41,6 @@ export default function LeagueMenu() {
 
   return (
     <>
-      {/* Hamburger Button */}
       <button
         onClick={openMenu}
         className="flex items-center gap-2 px-4 py-2 border border-gray-300 rounded hover:border-primary transition-colors"
@@ -48,7 +51,6 @@ export default function LeagueMenu() {
         </svg>
       </button>
 
-      {/* Overlay - ENDAST SYNLIG NÄR isOpen=true */}
       {isOpen && (
         <div
           className="fixed inset-0 bg-black bg-opacity-50 z-[100]"
@@ -56,10 +58,8 @@ export default function LeagueMenu() {
         />
       )}
 
-      {/* Menu Sidebar - ENDAST SYNLIG NÄR isOpen=true */}
       {isOpen && (
         <div className="fixed top-0 right-0 h-full w-[90%] sm:w-[400px] bg-white z-[110] shadow-2xl">
-          {/* Header */}
           <div className="bg-dark text-white px-6 py-4 flex items-center justify-between">
             <h2 className="text-xl font-bold">LIGOR</h2>
             <button
@@ -72,7 +72,6 @@ export default function LeagueMenu() {
             </button>
           </div>
 
-          {/* League List */}
           <div className="overflow-y-auto h-[calc(100%-64px)]">
             {LEAGUES.map((league) => {
               const info = getLeagueInfo(league.id);
@@ -83,20 +82,16 @@ export default function LeagueMenu() {
                   onClick={closeMenu}
                   className="flex items-center gap-4 px-6 py-4 border-b border-gray-200 hover:bg-gray-50"
                 >
-                  {/* Flag */}
                   <div className="w-8 h-8 relative rounded overflow-hidden flex-shrink-0">
                     <Image src={info.flag} alt="" fill className="object-cover" />
                   </div>
 
-                  {/* Logo */}
                   <div className="w-10 h-10 relative flex-shrink-0">
                     <Image src={info.logo} alt="" fill className="object-contain" />
                   </div>
 
-                  {/* Name */}
                   <span className="text-dark font-semibold flex-1">{league.name}</span>
 
-                  {/* Chevron */}
                   <svg className="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                   </svg>

@@ -1,0 +1,2952 @@
+{
+  "league": "EuroCup",
+  "season": "2025-2026",
+  "updated": "2026-03-01",
+  "total": 184,
+  "matches": [
+    {
+      "id": 453100,
+      "date": "2025-09-30T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Turk Telekom",
+      "away": "Ulm",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/533.png",
+      "homeId": 1277,
+      "awayId": 533,
+      "venue": "Ankara Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453098,
+      "date": "2025-09-30T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Slask Wroclaw",
+      "away": "Neptunas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/914.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/791.png",
+      "homeId": 914,
+      "awayId": 791,
+      "venue": "Hala Stulecia",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453094,
+      "date": "2025-09-30T19:30:00+02:00",
+      "time": "19:30",
+      "home": "Hamburg",
+      "away": "Hapoel Jerusalem",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/529.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1792.png",
+      "homeId": 529,
+      "awayId": 1792,
+      "venue": "Edel-optics.de Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453101,
+      "date": "2025-09-30T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Venezia",
+      "away": "Aris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "homeId": 731,
+      "awayId": 606,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453095,
+      "date": "2025-10-01T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Lietkabelis",
+      "away": "Besiktas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/790.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1266.png",
+      "homeId": 790,
+      "awayId": 1266,
+      "venue": "Kalnapilio arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453102,
+      "date": "2025-10-01T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Cluj-Napoca",
+      "away": "Bahcesehir Kol.",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1264.png",
+      "homeId": 3419,
+      "awayId": 1264,
+      "venue": "BT Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453093,
+      "date": "2025-10-01T18:30:00+02:00",
+      "time": "18:30",
+      "home": "Cedevita Olimpija",
+      "away": "Manresa",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1698.png",
+      "homeId": 1800,
+      "awayId": 1698,
+      "venue": "Arena Sto",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453097,
+      "date": "2025-10-01T18:30:00+02:00",
+      "time": "18:30",
+      "home": "Panionios",
+      "away": "Chemnitz",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/615.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/550.png",
+      "homeId": 615,
+      "awayId": 550,
+      "venue": "DAK Glyfada M. Liugas",
+      "status": "AOT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453099,
+      "date": "2025-10-01T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Trento",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 727,
+      "awayId": 24,
+      "venue": "BLM Group Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453096,
+      "date": "2025-10-02T20:30:00+02:00",
+      "time": "20:30",
+      "home": "London Lions",
+      "away": "Buducnost",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1329.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "homeId": 1329,
+      "awayId": 1615,
+      "venue": "Copper Box Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453105,
+      "date": "2025-10-07T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Neptunas",
+      "away": "Cluj-Napoca",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/791.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "homeId": 791,
+      "awayId": 3419,
+      "venue": "Svyturio Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453104,
+      "date": "2025-10-07T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Ulm",
+      "away": "Panionios",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/533.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/615.png",
+      "homeId": 533,
+      "awayId": 615,
+      "venue": "Ratiopharm Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453107,
+      "date": "2025-10-07T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Besiktas",
+      "away": "London Lions",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1266.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1329.png",
+      "homeId": 1266,
+      "awayId": 1329,
+      "venue": "BJK Akatlar Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453111,
+      "date": "2025-10-08T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Bahcesehir Kol.",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1264.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 1264,
+      "awayId": 731,
+      "venue": "Ülker Sports Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453109,
+      "date": "2025-10-08T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Chemnitz",
+      "away": "Lietkabelis",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/550.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/790.png",
+      "homeId": 550,
+      "awayId": 790,
+      "venue": "Messe Chemnitz",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453112,
+      "date": "2025-10-08T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Aris",
+      "away": "Hamburg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/529.png",
+      "homeId": 606,
+      "awayId": 529,
+      "venue": "Alexandreio Mellathron",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453103,
+      "date": "2025-10-08T19:30:00+02:00",
+      "time": "19:30",
+      "home": "JL Bourg",
+      "away": "Turk Telekom",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "homeId": 24,
+      "awayId": 1277,
+      "venue": "Ekinox",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453108,
+      "date": "2025-10-08T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Hapoel Jerusalem",
+      "away": "Cedevita Olimpija",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1792.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "homeId": 1792,
+      "awayId": 1800,
+      "venue": "Pais Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453110,
+      "date": "2025-10-08T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Buducnost",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 1615,
+      "awayId": 727,
+      "venue": "Moraca Sports Center",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453106,
+      "date": "2025-10-08T20:45:00+02:00",
+      "time": "20:45",
+      "home": "Manresa",
+      "away": "Slask Wroclaw",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1698.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/914.png",
+      "homeId": 1698,
+      "awayId": 914,
+      "venue": "Pavelló Nou Congost",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453115,
+      "date": "2025-10-14T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Turk Telekom",
+      "away": "Buducnost",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "homeId": 1277,
+      "awayId": 1615,
+      "venue": "Ankara Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453122,
+      "date": "2025-10-14T18:30:00+02:00",
+      "time": "18:30",
+      "home": "Cedevita Olimpija",
+      "away": "Aris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "homeId": 1800,
+      "awayId": 606,
+      "venue": "Arena Sto",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453117,
+      "date": "2025-10-14T19:30:00+02:00",
+      "time": "19:30",
+      "home": "Hamburg",
+      "away": "Bahcesehir Kol.",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/529.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1264.png",
+      "homeId": 529,
+      "awayId": 1264,
+      "venue": "Edel-optics.de Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453120,
+      "date": "2025-10-15T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Lietkabelis",
+      "away": "Ulm",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/790.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/533.png",
+      "homeId": 790,
+      "awayId": 533,
+      "venue": "Kalnapilio arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453113,
+      "date": "2025-10-15T18:30:00+02:00",
+      "time": "18:30",
+      "home": "Panionios",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/615.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 615,
+      "awayId": 24,
+      "venue": "DAK Glyfada M. Liugas",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453116,
+      "date": "2025-10-15T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Slask Wroclaw",
+      "away": "Cluj-Napoca",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/914.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "homeId": 914,
+      "awayId": 3419,
+      "venue": "Hala Stulecia",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453121,
+      "date": "2025-10-15T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Besiktas",
+      "away": "Chemnitz",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1266.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/550.png",
+      "homeId": 1266,
+      "awayId": 550,
+      "venue": "BJK Akatlar Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453114,
+      "date": "2025-10-15T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Venezia",
+      "away": "Neptunas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/791.png",
+      "homeId": 731,
+      "awayId": 791,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453118,
+      "date": "2025-10-15T20:45:00+02:00",
+      "time": "20:45",
+      "home": "Manresa",
+      "away": "Hapoel Jerusalem",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1698.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1792.png",
+      "homeId": 1698,
+      "awayId": 1792,
+      "venue": "Pavelló Nou Congost",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453119,
+      "date": "2025-10-16T20:30:00+02:00",
+      "time": "20:30",
+      "home": "London Lions",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1329.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 1329,
+      "awayId": 727,
+      "venue": "Copper Box Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453125,
+      "date": "2025-10-21T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Neptunas",
+      "away": "Hamburg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/791.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/529.png",
+      "homeId": 791,
+      "awayId": 529,
+      "venue": "Svyturio Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453123,
+      "date": "2025-10-21T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Ulm",
+      "away": "Besiktas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/533.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1266.png",
+      "homeId": 533,
+      "awayId": 1266,
+      "venue": "Ratiopharm Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453132,
+      "date": "2025-10-21T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Aris",
+      "away": "Manresa",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1698.png",
+      "homeId": 606,
+      "awayId": 1698,
+      "venue": "Alexandreio Mellathron",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453128,
+      "date": "2025-10-21T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Hapoel Jerusalem",
+      "away": "Slask Wroclaw",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1792.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/914.png",
+      "homeId": 1792,
+      "awayId": 914,
+      "venue": "Hala sportova Ranko",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453127,
+      "date": "2025-10-22T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Cluj-Napoca",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 3419,
+      "awayId": 731,
+      "venue": "BT Arena",
+      "status": "AOT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453131,
+      "date": "2025-10-22T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Bahcesehir Kol.",
+      "away": "Cedevita Olimpija",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1264.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "homeId": 1264,
+      "awayId": 1800,
+      "venue": "Ülker Sports Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453129,
+      "date": "2025-10-22T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Chemnitz",
+      "away": "London Lions",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/550.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1329.png",
+      "homeId": 550,
+      "awayId": 1329,
+      "venue": "Messe Chemnitz",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453130,
+      "date": "2025-10-22T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Buducnost",
+      "away": "Panionios",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/615.png",
+      "homeId": 1615,
+      "awayId": 615,
+      "venue": "Moraca Sports Center",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453126,
+      "date": "2025-10-22T19:30:00+02:00",
+      "time": "19:30",
+      "home": "JL Bourg",
+      "away": "Lietkabelis",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/790.png",
+      "homeId": 24,
+      "awayId": 790,
+      "venue": "Ekinox",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453124,
+      "date": "2025-10-22T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Trento",
+      "away": "Turk Telekom",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "homeId": 727,
+      "awayId": 1277,
+      "venue": "BLM Group Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453135,
+      "date": "2025-10-28T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Panionios",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/615.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 615,
+      "awayId": 727,
+      "venue": "DAK Glyfada M. Liugas",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453142,
+      "date": "2025-10-28T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Hamburg",
+      "away": "Cluj-Napoca",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/529.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "homeId": 529,
+      "awayId": 3419,
+      "venue": "Edel-optics.de Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453138,
+      "date": "2025-10-28T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Hapoel Jerusalem",
+      "away": "Aris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1792.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "homeId": 1792,
+      "awayId": 606,
+      "venue": "Hala sportova Ranko",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453139,
+      "date": "2025-10-29T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Besiktas",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1266.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 1266,
+      "awayId": 24,
+      "venue": "BJK Akatlar Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453133,
+      "date": "2025-10-29T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Lietkabelis",
+      "away": "Buducnost",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/790.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "homeId": 790,
+      "awayId": 1615,
+      "venue": "Kalnapilio arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453134,
+      "date": "2025-10-29T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Slask Wroclaw",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/914.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 914,
+      "awayId": 731,
+      "venue": "Hala Stulecia",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453140,
+      "date": "2025-10-29T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Chemnitz",
+      "away": "Ulm",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/550.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/533.png",
+      "homeId": 550,
+      "awayId": 533,
+      "venue": "Messe Chemnitz",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453141,
+      "date": "2025-10-29T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Cedevita Olimpija",
+      "away": "Neptunas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/791.png",
+      "homeId": 1800,
+      "awayId": 791,
+      "venue": "Arena Sto",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453136,
+      "date": "2025-10-29T20:30:00+01:00",
+      "time": "20:30",
+      "home": "London Lions",
+      "away": "Turk Telekom",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1329.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "homeId": 1329,
+      "awayId": 1277,
+      "venue": "Copper Box Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453137,
+      "date": "2025-10-29T20:45:00+01:00",
+      "time": "20:45",
+      "home": "Manresa",
+      "away": "Bahcesehir Kol.",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1698.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1264.png",
+      "homeId": 1698,
+      "awayId": 1264,
+      "venue": "Pavelló Nou Congost",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453146,
+      "date": "2025-11-04T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Turk Telekom",
+      "away": "Panionios",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/615.png",
+      "homeId": 1277,
+      "awayId": 615,
+      "venue": "Ankara Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453150,
+      "date": "2025-11-04T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Buducnost",
+      "away": "Besiktas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1266.png",
+      "homeId": 1615,
+      "awayId": 1266,
+      "venue": "Moraca Sports Center",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453147,
+      "date": "2025-11-04T19:30:00+01:00",
+      "time": "19:30",
+      "home": "JL Bourg",
+      "away": "Chemnitz",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/550.png",
+      "homeId": 24,
+      "awayId": 550,
+      "venue": "Ekinox",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453143,
+      "date": "2025-11-04T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Trento",
+      "away": "Lietkabelis",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/790.png",
+      "homeId": 727,
+      "awayId": 790,
+      "venue": "BLM Group Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453148,
+      "date": "2025-11-05T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Neptunas",
+      "away": "Manresa",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/791.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1698.png",
+      "homeId": 791,
+      "awayId": 1698,
+      "venue": "Svyturio Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453149,
+      "date": "2025-11-05T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Cluj-Napoca",
+      "away": "Cedevita Olimpija",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "homeId": 3419,
+      "awayId": 1800,
+      "venue": "BT Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453151,
+      "date": "2025-11-05T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Bahcesehir Kol.",
+      "away": "Hapoel Jerusalem",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1264.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1792.png",
+      "homeId": 1264,
+      "awayId": 1792,
+      "venue": "Ülker Sports Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453145,
+      "date": "2025-11-05T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Ulm",
+      "away": "London Lions",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/533.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1329.png",
+      "homeId": 533,
+      "awayId": 1329,
+      "venue": "Ratiopharm Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453152,
+      "date": "2025-11-05T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Aris",
+      "away": "Slask Wroclaw",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/914.png",
+      "homeId": 606,
+      "awayId": 914,
+      "venue": "Alexandreio Mellathron",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453144,
+      "date": "2025-11-05T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Venezia",
+      "away": "Hamburg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/529.png",
+      "homeId": 731,
+      "awayId": 529,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453154,
+      "date": "2025-11-11T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Slask Wroclaw",
+      "away": "Hamburg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/914.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/529.png",
+      "homeId": 914,
+      "awayId": 529,
+      "venue": "Hala Stulecia",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453157,
+      "date": "2025-11-11T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Ulm",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/533.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 533,
+      "awayId": 24,
+      "venue": "Ratiopharm Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453161,
+      "date": "2025-11-11T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Aris",
+      "away": "Bahcesehir Kol.",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1264.png",
+      "homeId": 606,
+      "awayId": 1264,
+      "venue": "Alexandreio Mellathron",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453153,
+      "date": "2025-11-11T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Hapoel Jerusalem",
+      "away": "Neptunas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1792.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/791.png",
+      "homeId": 1792,
+      "awayId": 791,
+      "venue": "Hala sportova Ranko",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453158,
+      "date": "2025-11-12T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Cluj-Napoca",
+      "away": "Manresa",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1698.png",
+      "homeId": 3419,
+      "awayId": 1698,
+      "venue": "BT Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453160,
+      "date": "2025-11-12T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Besiktas",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1266.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 1266,
+      "awayId": 727,
+      "venue": "BJK Akatlar Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453159,
+      "date": "2025-11-12T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Cedevita Olimpija",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 1800,
+      "awayId": 731,
+      "venue": "Arena Sto",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453156,
+      "date": "2025-11-12T18:45:00+01:00",
+      "time": "18:45",
+      "home": "Lietkabelis",
+      "away": "Turk Telekom",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/790.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "homeId": 790,
+      "awayId": 1277,
+      "venue": "Kalnapilio arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453162,
+      "date": "2025-11-12T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Chemnitz",
+      "away": "Buducnost",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/550.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "homeId": 550,
+      "awayId": 1615,
+      "venue": "Messe Chemnitz",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453155,
+      "date": "2025-11-12T20:30:00+01:00",
+      "time": "20:30",
+      "home": "London Lions",
+      "away": "Panionios",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1329.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/615.png",
+      "homeId": 1329,
+      "awayId": 615,
+      "venue": "Copper Box Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453168,
+      "date": "2025-11-18T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Neptunas",
+      "away": "Aris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/791.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "homeId": 791,
+      "awayId": 606,
+      "venue": "Svyturio Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453170,
+      "date": "2025-11-18T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Cluj-Napoca",
+      "away": "Hapoel Jerusalem",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1792.png",
+      "homeId": 3419,
+      "awayId": 1792,
+      "venue": "BT Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453166,
+      "date": "2025-11-18T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Slask Wroclaw",
+      "away": "Bahcesehir Kol.",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/914.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1264.png",
+      "homeId": 914,
+      "awayId": 1264,
+      "venue": "Hala Stulecia",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453172,
+      "date": "2025-11-18T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Buducnost",
+      "away": "Ulm",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/533.png",
+      "homeId": 1615,
+      "awayId": 533,
+      "venue": "Moraca Sports Center",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453165,
+      "date": "2025-11-18T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Trento",
+      "away": "Chemnitz",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/550.png",
+      "homeId": 727,
+      "awayId": 550,
+      "venue": "BLM Group Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453164,
+      "date": "2025-11-19T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Turk Telekom",
+      "away": "Besiktas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1266.png",
+      "homeId": 1277,
+      "awayId": 1266,
+      "venue": "Ankara Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453163,
+      "date": "2025-11-19T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Panionios",
+      "away": "Lietkabelis",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/615.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/790.png",
+      "homeId": 615,
+      "awayId": 790,
+      "venue": "DAK Glyfada M. Liugas",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453171,
+      "date": "2025-11-19T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Cedevita Olimpija",
+      "away": "Hamburg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/529.png",
+      "homeId": 1800,
+      "awayId": 529,
+      "venue": "Arena Sto",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453167,
+      "date": "2025-11-19T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Venezia",
+      "away": "Manresa",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1698.png",
+      "homeId": 731,
+      "awayId": 1698,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453169,
+      "date": "2025-11-19T20:30:00+01:00",
+      "time": "20:30",
+      "home": "London Lions",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1329.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 1329,
+      "awayId": 24,
+      "venue": "Copper Box Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453181,
+      "date": "2025-12-04T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Bahcesehir Kol.",
+      "away": "Neptunas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1264.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/791.png",
+      "homeId": 1264,
+      "awayId": 791,
+      "venue": "Ülker Sports Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453179,
+      "date": "2025-12-04T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Cedevita Olimpija",
+      "away": "Slask Wroclaw",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/914.png",
+      "homeId": 1800,
+      "awayId": 914,
+      "venue": "Arena Sto",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453173,
+      "date": "2025-12-04T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Ulm",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/533.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 533,
+      "awayId": 727,
+      "venue": "Ratiopharm Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453175,
+      "date": "2025-12-04T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Lietkabelis",
+      "away": "London Lions",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/790.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1329.png",
+      "homeId": 790,
+      "awayId": 1329,
+      "venue": "Kalnapilio arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453177,
+      "date": "2025-12-04T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Chemnitz",
+      "away": "Turk Telekom",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/550.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "homeId": 550,
+      "awayId": 1277,
+      "venue": "Messe Chemnitz",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453182,
+      "date": "2025-12-04T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Aris",
+      "away": "Cluj-Napoca",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "homeId": 606,
+      "awayId": 3419,
+      "venue": "Alexandreio Mellathron",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453178,
+      "date": "2025-12-04T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Hapoel Jerusalem",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1792.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 1792,
+      "awayId": 731,
+      "venue": "Hala sportova Ranko",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453180,
+      "date": "2025-12-05T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Besiktas",
+      "away": "Panionios",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1266.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/615.png",
+      "homeId": 1266,
+      "awayId": 615,
+      "venue": "BJK Akatlar Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453176,
+      "date": "2025-12-05T19:30:00+01:00",
+      "time": "19:30",
+      "home": "JL Bourg",
+      "away": "Buducnost",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "homeId": 24,
+      "awayId": 1615,
+      "venue": "Ekinox",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453174,
+      "date": "2025-12-05T20:45:00+01:00",
+      "time": "20:45",
+      "home": "Manresa",
+      "away": "Hamburg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1698.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/529.png",
+      "homeId": 1698,
+      "awayId": 529,
+      "venue": "Pavelló Nou Congost",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453190,
+      "date": "2025-12-09T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Besiktas",
+      "away": "Lietkabelis",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1266.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/790.png",
+      "homeId": 1266,
+      "awayId": 790,
+      "venue": "BJK Akatlar Arena",
+      "status": "AOT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453188,
+      "date": "2025-12-09T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Hapoel Jerusalem",
+      "away": "Hamburg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1792.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/529.png",
+      "homeId": 1792,
+      "awayId": 529,
+      "venue": "Hala sportova Ranko",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453192,
+      "date": "2025-12-09T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Chemnitz",
+      "away": "Panionios",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/550.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/615.png",
+      "homeId": 550,
+      "awayId": 615,
+      "venue": "Messe Chemnitz",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453183,
+      "date": "2025-12-09T19:30:00+01:00",
+      "time": "19:30",
+      "home": "JL Bourg",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 24,
+      "awayId": 727,
+      "venue": "Ekinox",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453191,
+      "date": "2025-12-10T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Bahcesehir Kol.",
+      "away": "Cluj-Napoca",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1264.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "homeId": 1264,
+      "awayId": 3419,
+      "venue": "Ülker Sports Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453185,
+      "date": "2025-12-10T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Neptunas",
+      "away": "Slask Wroclaw",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/791.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/914.png",
+      "homeId": 791,
+      "awayId": 914,
+      "venue": "Svyturio Arena",
+      "status": "AOT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453184,
+      "date": "2025-12-10T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Ulm",
+      "away": "Turk Telekom",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/533.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "homeId": 533,
+      "awayId": 1277,
+      "venue": "Ratiopharm Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453187,
+      "date": "2025-12-10T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Aris",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 606,
+      "awayId": 731,
+      "venue": "Alexandreio Mellathron",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453189,
+      "date": "2025-12-10T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Buducnost",
+      "away": "London Lions",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1329.png",
+      "homeId": 1615,
+      "awayId": 1329,
+      "venue": "Moraca Sports Center",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453186,
+      "date": "2025-12-10T20:45:00+01:00",
+      "time": "20:45",
+      "home": "Manresa",
+      "away": "Cedevita Olimpija",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1698.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "homeId": 1698,
+      "awayId": 1800,
+      "venue": "Pavelló Nou Congost",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453199,
+      "date": "2025-12-16T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Lietkabelis",
+      "away": "Chemnitz",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/790.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/550.png",
+      "homeId": 790,
+      "awayId": 550,
+      "venue": "Kalnapilio arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453202,
+      "date": "2025-12-16T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Cedevita Olimpija",
+      "away": "Hapoel Jerusalem",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1792.png",
+      "homeId": 1800,
+      "awayId": 1792,
+      "venue": "Arena Sto",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453196,
+      "date": "2025-12-16T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Trento",
+      "away": "Buducnost",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "homeId": 727,
+      "awayId": 1615,
+      "venue": "BLM Group Arena",
+      "status": "AOT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453195,
+      "date": "2025-12-17T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Turk Telekom",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 1277,
+      "awayId": 24,
+      "venue": "Ankara Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453201,
+      "date": "2025-12-17T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Cluj-Napoca",
+      "away": "Neptunas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/791.png",
+      "homeId": 3419,
+      "awayId": 791,
+      "venue": "BT Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453198,
+      "date": "2025-12-17T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Panionios",
+      "away": "Ulm",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/615.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/533.png",
+      "homeId": 615,
+      "awayId": 533,
+      "venue": "DAK Glyfada M. Liugas",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453193,
+      "date": "2025-12-17T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Slask Wroclaw",
+      "away": "Manresa",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/914.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1698.png",
+      "homeId": 914,
+      "awayId": 1698,
+      "venue": "Hala Stulecia",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453200,
+      "date": "2025-12-17T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Hamburg",
+      "away": "Aris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/529.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "homeId": 529,
+      "awayId": 606,
+      "venue": "Edel-optics.de Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453194,
+      "date": "2025-12-17T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Venezia",
+      "away": "Bahcesehir Kol.",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1264.png",
+      "homeId": 731,
+      "awayId": 1264,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453197,
+      "date": "2025-12-17T20:30:00+01:00",
+      "time": "20:30",
+      "home": "London Lions",
+      "away": "Besiktas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1329.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1266.png",
+      "homeId": 1329,
+      "awayId": 1266,
+      "venue": "Copper Box Arena",
+      "status": "AOT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453209,
+      "date": "2025-12-23T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Chemnitz",
+      "away": "Besiktas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/550.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1266.png",
+      "homeId": 550,
+      "awayId": 1266,
+      "venue": "Messe Chemnitz",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453211,
+      "date": "2025-12-30T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Bahcesehir Kol.",
+      "away": "Hamburg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1264.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/529.png",
+      "homeId": 1264,
+      "awayId": 529,
+      "venue": "Ülker Sports Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453207,
+      "date": "2025-12-30T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Cluj-Napoca",
+      "away": "Slask Wroclaw",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/914.png",
+      "homeId": 3419,
+      "awayId": 914,
+      "venue": "BT Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453203,
+      "date": "2025-12-30T18:15:00+01:00",
+      "time": "18:15",
+      "home": "JL Bourg",
+      "away": "Panionios",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/615.png",
+      "homeId": 24,
+      "awayId": 615,
+      "venue": "Ekinox",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453208,
+      "date": "2025-12-30T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Hapoel Jerusalem",
+      "away": "Manresa",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1792.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1698.png",
+      "homeId": 1792,
+      "awayId": 1698,
+      "venue": "Hala sportova Ranko",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453210,
+      "date": "2025-12-30T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Buducnost",
+      "away": "Turk Telekom",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "homeId": 1615,
+      "awayId": 1277,
+      "venue": "Moraca Sports Center",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453212,
+      "date": "2025-12-30T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Aris",
+      "away": "Cedevita Olimpija",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "homeId": 606,
+      "awayId": 1800,
+      "venue": "Alexandreio Mellathron",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453205,
+      "date": "2025-12-30T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Trento",
+      "away": "London Lions",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1329.png",
+      "homeId": 727,
+      "awayId": 1329,
+      "venue": "BLM Group Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453206,
+      "date": "2026-01-02T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Neptunas",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/791.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 791,
+      "awayId": 731,
+      "venue": "Svyturio Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453204,
+      "date": "2026-01-02T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Ulm",
+      "away": "Lietkabelis",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/533.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/790.png",
+      "homeId": 533,
+      "awayId": 790,
+      "venue": "Ratiopharm Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453222,
+      "date": "2026-01-06T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Besiktas",
+      "away": "Ulm",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1266.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/533.png",
+      "homeId": 1266,
+      "awayId": 533,
+      "venue": "BJK Akatlar Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453218,
+      "date": "2026-01-06T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Manresa",
+      "away": "Aris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1698.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "homeId": 1698,
+      "awayId": 606,
+      "venue": "Pavelló Nou Congost",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453221,
+      "date": "2026-01-06T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Cedevita Olimpija",
+      "away": "Bahcesehir Kol.",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1264.png",
+      "homeId": 1800,
+      "awayId": 1264,
+      "venue": "Arena Sto",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453215,
+      "date": "2026-01-07T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Turk Telekom",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 1277,
+      "awayId": 727,
+      "venue": "Ankara Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453219,
+      "date": "2026-01-07T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Lietkabelis",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/790.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 790,
+      "awayId": 24,
+      "venue": "Kalnapilio arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453213,
+      "date": "2026-01-07T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Panionios",
+      "away": "Buducnost",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/615.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "homeId": 615,
+      "awayId": 1615,
+      "venue": "DAK Glyfada M. Liugas",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453216,
+      "date": "2026-01-07T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Slask Wroclaw",
+      "away": "Hapoel Jerusalem",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/914.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1792.png",
+      "homeId": 914,
+      "awayId": 1792,
+      "venue": "Hala Stulecia",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453220,
+      "date": "2026-01-07T19:45:00+01:00",
+      "time": "19:45",
+      "home": "Hamburg",
+      "away": "Neptunas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/529.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/791.png",
+      "homeId": 529,
+      "awayId": 791,
+      "venue": "Edel-optics.de Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453214,
+      "date": "2026-01-07T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Venezia",
+      "away": "Cluj-Napoca",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "homeId": 731,
+      "awayId": 3419,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453217,
+      "date": "2026-01-07T20:30:00+01:00",
+      "time": "20:30",
+      "home": "London Lions",
+      "away": "Chemnitz",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1329.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/550.png",
+      "homeId": 1329,
+      "awayId": 550,
+      "venue": "Copper Box Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453230,
+      "date": "2026-01-13T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Bahcesehir Kol.",
+      "away": "Manresa",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1264.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1698.png",
+      "homeId": 1264,
+      "awayId": 1698,
+      "venue": "Ülker Sports Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453223,
+      "date": "2026-01-13T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Neptunas",
+      "away": "Cedevita Olimpija",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/791.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "homeId": 791,
+      "awayId": 1800,
+      "venue": "Svyturio Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453232,
+      "date": "2026-01-13T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Cluj-Napoca",
+      "away": "Hamburg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/529.png",
+      "homeId": 3419,
+      "awayId": 529,
+      "venue": "BT Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453226,
+      "date": "2026-01-13T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Trento",
+      "away": "Panionios",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/615.png",
+      "homeId": 727,
+      "awayId": 615,
+      "venue": "BLM Group Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453227,
+      "date": "2026-01-14T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Turk Telekom",
+      "away": "London Lions",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1329.png",
+      "homeId": 1277,
+      "awayId": 1329,
+      "venue": "Ankara Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453225,
+      "date": "2026-01-14T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Ulm",
+      "away": "Chemnitz",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/533.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/550.png",
+      "homeId": 533,
+      "awayId": 550,
+      "venue": "Ratiopharm Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453229,
+      "date": "2026-01-14T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Buducnost",
+      "away": "Lietkabelis",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/790.png",
+      "homeId": 1615,
+      "awayId": 790,
+      "venue": "Moraca Sports Center",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453231,
+      "date": "2026-01-14T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Aris",
+      "away": "Hapoel Jerusalem",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1792.png",
+      "homeId": 606,
+      "awayId": 1792,
+      "venue": "Alexandreio Mellathron",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453228,
+      "date": "2026-01-14T19:30:00+01:00",
+      "time": "19:30",
+      "home": "JL Bourg",
+      "away": "Besiktas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1266.png",
+      "homeId": 24,
+      "awayId": 1266,
+      "venue": "Ekinox",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453224,
+      "date": "2026-01-14T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Venezia",
+      "away": "Slask Wroclaw",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/914.png",
+      "homeId": 731,
+      "awayId": 914,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453241,
+      "date": "2026-01-20T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Cedevita Olimpija",
+      "away": "Cluj-Napoca",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "homeId": 1800,
+      "awayId": 3419,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453234,
+      "date": "2026-01-20T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Slask Wroclaw",
+      "away": "Aris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/914.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "homeId": 914,
+      "awayId": 606,
+      "venue": "",
+      "status": "AOT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453237,
+      "date": "2026-01-20T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Hapoel Jerusalem",
+      "away": "Bahcesehir Kol.",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1792.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1264.png",
+      "homeId": 1792,
+      "awayId": 1264,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453240,
+      "date": "2026-01-20T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Chemnitz",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/550.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 550,
+      "awayId": 24,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453238,
+      "date": "2026-01-21T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Lietkabelis",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/790.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 790,
+      "awayId": 727,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453242,
+      "date": "2026-01-21T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Besiktas",
+      "away": "Buducnost",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1266.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "homeId": 1266,
+      "awayId": 1615,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453235,
+      "date": "2026-01-21T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Panionios",
+      "away": "Turk Telekom",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/615.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "homeId": 615,
+      "awayId": 1277,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453239,
+      "date": "2026-01-21T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Hamburg",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/529.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 529,
+      "awayId": 731,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453233,
+      "date": "2026-01-21T20:30:00+01:00",
+      "time": "20:30",
+      "home": "London Lions",
+      "away": "Ulm",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1329.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/533.png",
+      "homeId": 1329,
+      "awayId": 533,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453236,
+      "date": "2026-01-21T20:45:00+01:00",
+      "time": "20:45",
+      "home": "Manresa",
+      "away": "Neptunas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1698.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/791.png",
+      "homeId": 1698,
+      "awayId": 791,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453245,
+      "date": "2026-01-27T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Turk Telekom",
+      "away": "Lietkabelis",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/790.png",
+      "homeId": 1277,
+      "awayId": 790,
+      "venue": "Ankara Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453250,
+      "date": "2026-01-27T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Buducnost",
+      "away": "Chemnitz",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/550.png",
+      "homeId": 1615,
+      "awayId": 550,
+      "venue": "Moraca Sports Center",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453247,
+      "date": "2026-01-27T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Trento",
+      "away": "Besiktas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1266.png",
+      "homeId": 727,
+      "awayId": 1266,
+      "venue": "BLM Group Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453251,
+      "date": "2026-01-28T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Bahcesehir Kol.",
+      "away": "Aris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1264.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "homeId": 1264,
+      "awayId": 606,
+      "venue": "Ülker Sports Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453243,
+      "date": "2026-01-28T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Neptunas",
+      "away": "Hapoel Jerusalem",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/791.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1792.png",
+      "homeId": 791,
+      "awayId": 1792,
+      "venue": "Svyturio Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453246,
+      "date": "2026-01-28T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Panionios",
+      "away": "London Lions",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/615.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1329.png",
+      "homeId": 615,
+      "awayId": 1329,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453249,
+      "date": "2026-01-28T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Hamburg",
+      "away": "Slask Wroclaw",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/529.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/914.png",
+      "homeId": 529,
+      "awayId": 914,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453252,
+      "date": "2026-01-28T19:30:00+01:00",
+      "time": "19:30",
+      "home": "JL Bourg",
+      "away": "Ulm",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/533.png",
+      "homeId": 24,
+      "awayId": 533,
+      "venue": "Ekinox",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453244,
+      "date": "2026-01-28T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Venezia",
+      "away": "Cedevita Olimpija",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "homeId": 731,
+      "awayId": 1800,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453248,
+      "date": "2026-01-28T20:45:00+01:00",
+      "time": "20:45",
+      "home": "Manresa",
+      "away": "Cluj-Napoca",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1698.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "homeId": 1698,
+      "awayId": 3419,
+      "venue": "Pavelló Nou Congost",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453261,
+      "date": "2026-02-03T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Bahcesehir Kol.",
+      "away": "Slask Wroclaw",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1264.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/914.png",
+      "homeId": 1264,
+      "awayId": 914,
+      "venue": "Ülker Sports Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453254,
+      "date": "2026-02-03T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Ulm",
+      "away": "Buducnost",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/533.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "homeId": 533,
+      "awayId": 1615,
+      "venue": "Ratiopharm Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453257,
+      "date": "2026-02-04T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Lietkabelis",
+      "away": "Panionios",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/790.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/615.png",
+      "homeId": 790,
+      "awayId": 615,
+      "venue": "Kalnapilio arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453260,
+      "date": "2026-02-04T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Besiktas",
+      "away": "Turk Telekom",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1266.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "homeId": 1266,
+      "awayId": 1277,
+      "venue": "BJK Akatlar Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453253,
+      "date": "2026-02-04T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Hapoel Jerusalem",
+      "away": "Cluj-Napoca",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1792.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "homeId": 1792,
+      "awayId": 3419,
+      "venue": "Hala sportova Ranko",
+      "status": "AOT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453259,
+      "date": "2026-02-04T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Chemnitz",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/550.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 550,
+      "awayId": 727,
+      "venue": "Messe Chemnitz",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453256,
+      "date": "2026-02-04T19:30:00+01:00",
+      "time": "19:30",
+      "home": "JL Bourg",
+      "away": "London Lions",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1329.png",
+      "homeId": 24,
+      "awayId": 1329,
+      "venue": "Ekinox",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453262,
+      "date": "2026-02-04T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Aris",
+      "away": "Neptunas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/791.png",
+      "homeId": 606,
+      "awayId": 791,
+      "venue": "Alexandreio Mellathron",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453255,
+      "date": "2026-02-04T20:45:00+01:00",
+      "time": "20:45",
+      "home": "Manresa",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1698.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 1698,
+      "awayId": 731,
+      "venue": "Pavelló Nou Congost",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453258,
+      "date": "2026-02-05T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Hamburg",
+      "away": "Cedevita Olimpija",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/529.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "homeId": 529,
+      "awayId": 1800,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453268,
+      "date": "2026-02-10T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Panionios",
+      "away": "Besiktas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/615.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1266.png",
+      "homeId": 615,
+      "awayId": 1266,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453269,
+      "date": "2026-02-10T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Slask Wroclaw",
+      "away": "Cedevita Olimpija",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/914.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "homeId": 914,
+      "awayId": 1800,
+      "venue": "Hala Stulecia",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453270,
+      "date": "2026-02-10T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Trento",
+      "away": "Ulm",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/533.png",
+      "homeId": 727,
+      "awayId": 533,
+      "venue": "BLM Group Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453264,
+      "date": "2026-02-11T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Cluj-Napoca",
+      "away": "Aris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "homeId": 3419,
+      "awayId": 606,
+      "venue": "BT Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453271,
+      "date": "2026-02-11T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Turk Telekom",
+      "away": "Chemnitz",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/550.png",
+      "homeId": 1277,
+      "awayId": 550,
+      "venue": "Ankara Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453263,
+      "date": "2026-02-11T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Buducnost",
+      "away": "JL Bourg",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/24.png",
+      "homeId": 1615,
+      "awayId": 24,
+      "venue": "Moraca Sports Center",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453267,
+      "date": "2026-02-11T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Neptunas",
+      "away": "Bahcesehir Kol.",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/791.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1264.png",
+      "homeId": 791,
+      "awayId": 1264,
+      "venue": "Svyturio Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453265,
+      "date": "2026-02-11T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Hamburg",
+      "away": "Manresa",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/529.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1698.png",
+      "homeId": 529,
+      "awayId": 1698,
+      "venue": "",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453272,
+      "date": "2026-02-11T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Venezia",
+      "away": "Hapoel Jerusalem",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1792.png",
+      "homeId": 731,
+      "awayId": 1792,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 453266,
+      "date": "2026-02-11T20:30:00+01:00",
+      "time": "20:30",
+      "home": "London Lions",
+      "away": "Lietkabelis",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1329.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/790.png",
+      "homeId": 1329,
+      "awayId": 790,
+      "venue": "Copper Box Arena",
+      "status": "FT",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 492906,
+      "date": "2026-03-11T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Turk Telekom",
+      "away": "Manresa",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1698.png",
+      "homeId": 1277,
+      "awayId": 1698,
+      "venue": "Ankara Arena",
+      "status": "NS",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 492907,
+      "date": "2026-03-11T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Buducnost",
+      "away": "Cluj-Napoca",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "homeId": 1615,
+      "awayId": 3419,
+      "venue": "Moraca Sports Center",
+      "status": "NS",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 492908,
+      "date": "2026-03-11T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Cedevita Olimpija",
+      "away": "Chemnitz",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/550.png",
+      "homeId": 1800,
+      "awayId": 550,
+      "venue": "Arena Sto",
+      "status": "NS",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 492909,
+      "date": "2026-03-11T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Venezia",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 731,
+      "awayId": 727,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "NS",
+      "broadcasters": [
+        "eurocup-tv"
+      ]
+    }
+  ]
+}

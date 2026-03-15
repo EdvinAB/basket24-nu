@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import './globals.css';
 import Header from '@/components/Header';
+import Footer from '@/components/Footer';
 import OrganizationSchema from '@/components/OrganizationSchema';
 
 const inter = Inter({ subsets: ['latin'] });
@@ -70,11 +71,9 @@ export const metadata: Metadata = {
     },
   },
   
-  // Verification (add your codes later)
+  // Verification
   verification: {
-    google: 'your-google-verification-code', // Replace with actual code
-    // yandex: 'your-yandex-verification-code',
-    // bing: 'your-bing-verification-code',
+    google: 'your-google-verification-code',
   },
   
   // Additional
@@ -96,49 +95,16 @@ export default function RootLayout({
         <OrganizationSchema />
       </head>
       <body className={inter.className}>
+        {/* Header - Mörkblå */}
         <Header />
-        <main>{children}</main>
         
-        {/* Footer */}
-        <footer className="bg-dark text-white py-8 mt-12">
-          <div className="max-w-7xl mx-auto px-4">
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-              
-              {/* About */}
-              <div>
-                <h3 className="text-lg font-bold mb-4">Om basket24.nu</h3>
-                <p className="text-sm text-gray-400">
-                  Din kompletta TV-guide för basket. Hitta alla NBA, EuroLeague 
-                  och SBL matcher på TV och stream.
-                </p>
-              </div>
-              
-              {/* Links */}
-              <div>
-                <h3 className="text-lg font-bold mb-4">Snabblänkar</h3>
-                <ul className="space-y-2 text-sm">
-                  <li><a href="/nba" className="text-gray-400 hover:text-primary">NBA</a></li>
-                  <li><a href="/euroleague" className="text-gray-400 hover:text-primary">EuroLeague</a></li>
-                  <li><a href="/sbl" className="text-gray-400 hover:text-primary">SBL</a></li>
-                </ul>
-              </div>
-              
-              {/* Contact */}
-              <div>
-                <h3 className="text-lg font-bold mb-4">Kontakt</h3>
-                <p className="text-sm text-gray-400">
-                  DataMarketing AB<br />
-                  edvin.rtech@gmail.com
-                </p>
-              </div>
-              
-            </div>
-            
-            <div className="border-t border-gray-700 mt-8 pt-6 text-center text-sm text-gray-400">
-              <p>&copy; {new Date().getFullYear()} basket24.nu - DataMarketing AB. Alla rättigheter förbehållna.</p>
-            </div>
-          </div>
-        </footer>
+        {/* Main Content - LJUS CONTAINER (spotlight-effekt) */}
+        <main className="content-container">
+          {children}
+        </main>
+        
+        {/* Footer - Mörkblå */}
+        <Footer />
       </body>
     </html>
   );
