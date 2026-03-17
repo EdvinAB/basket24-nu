@@ -35,6 +35,11 @@ export default function Footer() {
                   <span>→</span> Kontakt
                 </Link>
               </li>
+              <li>
+                <Link href="/integritetspolicy" className="hover:text-accent transition-colors flex items-center gap-2">
+                  <span>→</span> Integritetspolicy
+                </Link>
+</li>
             </ul>
           </div>
 
