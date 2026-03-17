@@ -91,18 +91,31 @@ export default function RootLayout({
   return (
     <html lang="sv">
       <head>
+            {/* Google Analytics */}
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-18PW1MN9V8"
+    />
+    <script
+      dangerouslySetInnerHTML={{
+        __html: `
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-18PW1MN9V8');
+        `,
+      }}
+    />
         {/* Organization Structured Data */}
         <OrganizationSchema />
       </head>
       <body className={inter.className}>
         {/* Header - Mörkblå */}
         <Header />
-        
         {/* Main Content - LJUS CONTAINER (spotlight-effekt) */}
         <main className="content-container">
           {children}
         </main>
-        
         {/* Footer - Mörkblå */}
         <Footer />
       </body>
