@@ -33,17 +33,19 @@ export default function DateNavigation({ selectedDate, onDateChange }: DateNavig
     const selected = getSafeDate(selectedDate);
     
     // Börja från 2 dagar före selected date
-    const startDate = new Date(selected);
-    startDate.setDate(selected.getDate() - 2);
+    //const startDate = new Date(selected);
+    //startDate.setDate(selected.getDate() - 2);
     
     for (let i = 0; i < 10; i++) {
-      const date = new Date(startDate);
-      date.setDate(startDate.getDate() + i);
+      const baseDate = new Date(selected);
+      const date = new Date(baseDate);
+      date.setDate(baseDate.getDate() - 2 + i);
       
       const dayNames = ['SÖN', 'MÅN', 'TIS', 'ONS', 'TOR', 'FRE', 'LÖR'];
       const dayName = dayNames[date.getDay()];
       const dayNumber = date.getDate();
-      const dateString = date.toISOString().split('T')[0];
+      const dateString = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`;
+      console.log(date);
       
       // Kolla om det är idag
       const todayString = today.toISOString().split('T')[0];
@@ -56,7 +58,6 @@ export default function DateNavigation({ selectedDate, onDateChange }: DateNavig
         isToday
       });
     }
-    
     return dates;
   };
 
@@ -80,6 +81,9 @@ export default function DateNavigation({ selectedDate, onDateChange }: DateNavig
       onDateChange(e.target.value);
     }
   };
+
+  console.log('selectedDate raw:', selectedDate);
+console.log('dates:', dates.map(d => d.dateString));
 
   return (
     <div className="sticky top-0 z-10 bg-dark shadow-md">

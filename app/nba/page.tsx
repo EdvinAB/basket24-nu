@@ -5,6 +5,7 @@ import LeagueHero from '@/components/LeagueHero';
 import DateNavigation from '@/components/DateNavigation';
 import MatchCard from '@/components/MatchCard';
 import DayNavigation from '@/components/DayNavigation';
+import LeagueStandings from '@/components/LeagueStandings';
 import nbaData from '@/lib/data/nba-2025-2026.json';
 
 interface LocalMatch {
@@ -18,6 +19,7 @@ interface LocalMatch {
 }
 
 export default function NBAPage() {
+  const [activeTab, setActiveTab] = useState<'spelschema' | 'tabell'>('spelschema');
   const [selectedDate, setSelectedDate] = useState<string>(() => {
     return new Date().toISOString().split('T')[0];
   });
@@ -53,35 +55,76 @@ export default function NBAPage() {
       <LeagueHero league="NBA" />
 
       <div className="max-w-[1092px] mx-auto px-4">
-        <DateNavigation selectedDate={selectedDate} onDateChange={setSelectedDate} />
 
-        <div className="bg-primary text-white px-4 py-3 mt-6 mb-0">
-          <h2 className="text-lg font-bold uppercase">NBA SPELSCHEMA</h2>
+        {/* Tab-knappar */}
+        <div className="flex border-b border-gray-200 mt-6">
+          <button
+            onClick={() => setActiveTab('spelschema')}
+            className={`px-6 py-3 text-sm font-bold uppercase transition-colors ${
+              activeTab === 'spelschema'
+                ? 'border-b-2 border-primary text-primary'
+                : 'text-gray-500 hover:text-dark'
+            }`}
+          >
+            Spelschema
+          </button>
+          <button
+            onClick={() => setActiveTab('tabell')}
+            className={`px-6 py-3 text-sm font-bold uppercase transition-colors ${
+              activeTab === 'tabell'
+                ? 'border-b-2 border-primary text-primary'
+                : 'text-gray-500 hover:text-dark'
+            }`}
+          >
+            Tabell
+          </button>
         </div>
 
-        {sortedMatches.length === 0 ? (
-          <div className="text-center py-8 bg-white">
-            <div className="text-gray-500">Inga matcher hittades för valt datum</div>
-          </div>
-        ) : (
-          <div className="bg-white">
-            {sortedMatches.map((match) => (
-              <MatchCard
-                key={match.id}
-                id={match.id}
-                league="NBA"
-                home={match.home}
-                away={match.away}
-                time={match.time}
-                date={match.date}
-                venue={match.venue}
-                broadcasters={match.broadcasters}
-              />
-            ))}
+        {/* Spelschema-fliken */}
+        {activeTab === 'spelschema' && (
+          <>
+            <DateNavigation selectedDate={selectedDate} onDateChange={setSelectedDate} />
+
+            <div className="bg-primary text-white px-4 py-3 mt-6 mb-0">
+              <h2 className="text-lg font-bold uppercase">NBA SPELSCHEMA</h2>
+            </div>
+
+            {sortedMatches.length === 0 ? (
+              <div className="text-center py-8 bg-white">
+                <div className="text-gray-500">Inga matcher hittades för valt datum</div>
+              </div>
+            ) : (
+              <div className="bg-white">
+                {sortedMatches.map((match) => (
+                  <MatchCard
+                    key={match.id}
+                    id={match.id}
+                    league="NBA"
+                    home={match.home}
+                    away={match.away}
+                    time={match.time}
+                    date={match.date}
+                    venue={match.venue}
+                    broadcasters={match.broadcasters}
+                  />
+                ))}
+              </div>
+            )}
+
+            <DayNavigation onPrevDay={handlePrevDay} onNextDay={handleNextDay} />
+          </>
+        )}
+
+        {/* Tabell-fliken */}
+        {activeTab === 'tabell' && (
+          <div className="mt-6">
+            <div className="bg-primary text-white px-4 py-3 mb-0">
+              <h2 className="text-lg font-bold uppercase">NBA TABELL 2025/26</h2>
+            </div>
+            <LeagueStandings league="nba" />
           </div>
         )}
 
-        <DayNavigation onPrevDay={handlePrevDay} onNextDay={handleNextDay} />
       </div>
     </div>
   );
