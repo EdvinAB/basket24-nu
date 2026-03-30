@@ -99,6 +99,7 @@ allEntries.forEach((entry) => {
 // Filtrera vilka grupper vi vill visa
 const allowedGroups: Record<string, string[]> = {
   nba: ['Eastern Conference', 'Western Conference'],
+  'aba-liga': ['Group A', 'Group B'],
 };
 
 const filteredGroups = Array.from(groupMap.entries())
