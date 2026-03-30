@@ -1,8 +1,5 @@
-# 🏀 Basket Matcher - Next.js Project
-
-## ✅ PROJEKT SKAPAT AV CLAUDE!
-
-Detta projekt är en replika av fotboll.com för basket, byggt med Next.js 14, TypeScript och Tailwind CSS.
+# 🏀 Sveriges enda Basketsajt med live data och TV & Stream-tablå - Next.js Project. 
+Byggt med Next.js 14, TypeScript och Tailwind CSS.
 
 ## 📦 Vad finns i projektet?
 
@@ -114,4 +111,4 @@ Vi bygger Sveriges bästa basket-sajt, inspirerad av fotboll.com!
 
 ---
 
-**Skapat med ❤️ av Claude & Edvin**
+**Skapat med ❤️ av Claude Code & Edvin Bukvic**
