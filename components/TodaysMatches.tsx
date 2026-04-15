@@ -18,6 +18,7 @@ import championsLeagueData from '@/lib/data/champions-league-2025-2026.json';
 import fibaEuropeCupData from '@/lib/data/fiba-europe-cup-2025-2026.json';
 import lnbData from '@/lib/data/lnb-2025-2026.json';
 import worldCupData from '@/lib/data/world-cup-2027.json';
+import { LEAGUE_BROADCASTERS } from '@/lib/broadcasters';
 
 interface Match {
   id: number | string;
@@ -93,15 +94,7 @@ function getBroadcastersForMatch(matchId: number | string, league: string, apiBr
     if (localMatch?.broadcasters) return localMatch.broadcasters;
   }
 
-  if (lower === 'nba') {
-    return ['nba-league-pass'];
-  }
-
-  if (apiBroadcaster) {
-    return apiBroadcaster.split(',').map(b => b.trim()).filter(Boolean);
-  }
-
-  return [];
+  return LEAGUE_BROADCASTERS[lower] || [];
 }
 
 export default function TodaysMatches({ selectedLeague, selectedDate }: TodaysMatchesProps) {

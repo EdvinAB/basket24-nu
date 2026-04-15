@@ -70,15 +70,7 @@ function getCurrentSeason(date: string, league: string): string {
   }
 }
 
-// Mappa TV-kanaler per liga
-function getBroadcasters(league: string): string {
-  const broadcasters: Record<string, string> = {
-    'nba': 'NBA League Pass, Viaplay, TV4 Play',
-    'euroleague': 'Viaplay, TV4 Play',
-    'sbl': 'Expressen TV',
-  };
-  return broadcasters[league] || 'TV information saknas';
-}
+import { LEAGUE_BROADCASTERS } from '@/lib/broadcasters';
 
 export async function GET(request: NextRequest) {
   try {
@@ -126,7 +118,7 @@ export async function GET(request: NextRequest) {
           date: game.date,
           status: game.status?.long || 'Unknown',
           venue: game.venue || 'Unknown',
-          broadcasters: ['nba-league-pass', 'hbo-max', 'allente'],
+          broadcasters: LEAGUE_BROADCASTERS[leagueName] || [],
         })) || [];
 
         allMatches.push(...mappedMatches);
@@ -173,7 +165,7 @@ export async function GET(request: NextRequest) {
           date: game.date,
           status: game.status?.long || 'Unknown',
           venue: game.venue || 'Unknown',
-          broadcaster: getBroadcasters(leagueName),
+          broadcasters: LEAGUE_BROADCASTERS[leagueName] || [],
         }));
 
         allMatches.push(...mappedMatches);

@@ -18,7 +18,7 @@ import championsLeagueData from '@/lib/data/champions-league-2025-2026.json';
 import fibaEuropeCupData from '@/lib/data/fiba-europe-cup-2025-2026.json';
 import lnbData from '@/lib/data/lnb-2025-2026.json';
 import worldCupData from '@/lib/data/world-cup-2027.json';
-import { getBroadcasterById } from '@/lib/broadcasters';
+import { getBroadcasterById, LEAGUE_BROADCASTERS } from '@/lib/broadcasters';
 import SportsEventSchema from '@/components/SportsEventSchema';
 
 interface Props {
@@ -132,7 +132,7 @@ async function getApiMatch(matchId: string, league: string): Promise<LocalMatch 
       awayId: game.teams.away.id,
       venue: game.venue || 'Unknown',
       status: game.status.long || 'Unknown',
-      broadcasters: ['nba-league-pass', 'hbo-max', 'allente'],
+      broadcasters: LEAGUE_BROADCASTERS[league] || [],
     };
   } catch {
     return null;

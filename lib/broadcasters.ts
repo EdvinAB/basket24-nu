@@ -181,3 +181,22 @@ export function getBroadcasterById(id: string): Broadcaster {
     }
   );
 }
+export const LEAGUE_BROADCASTERS: Record<string, string[]> = {
+  'nba': ['nba-league-pass', 'hbo-max', 'allente', 'telia-play'],
+  'sbl': ['expressen-tv'],
+  'euroleague': ['viaplay', 'eurocup-tv'],
+  'acb': ['dazn'],
+  'turkish-bsl': ['bet365', 'bein-sports-turkey', 'nettv-plus'],
+  'aba-liga': ['bet365', 'unibet', 'nettv-plus', 'arena-sport'],
+  'bbl': ['dazn'],
+  'lega-a': ['dazn', 'eurocup-tv'],
+  'lkl': ['fanseat', 'lkl-tv'],
+  'kls': ['rts', 'sportklub', 'nettv-plus', 'arena-sport'],
+  'eurocup': ['eurocup-tv'],
+  'champions-league': ['courtside1891', 'dazn'],
+  'fiba-europe-cup': ['courtside1891'],
+  'lnb': ['lnb-tv'],
+  'greek-cup': ['cosmote-tv'],
+  'world-cup': ['courtside1891-max'],
+  'serbian-super-league': ['arena-sport'],
+};
