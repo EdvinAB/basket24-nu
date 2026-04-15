@@ -100,6 +100,45 @@ function getLocalMatch(matchId: string, league: string): LocalMatch | null {
   const matches = (data as any).matches as LocalMatch[];
   return matches.find(m => String(m.id) === String(matchId)) || null;
 }
+
+async function getApiMatch(matchId: string, league: string): Promise<LocalMatch | null> {
+  if (league !== 'nba') return null;
+  
+  try {
+    const res = await fetch(
+      `https://v1.basketball.api-sports.io/games?id=${matchId}`,
+      {
+        headers: { 'x-apisports-key': process.env.APISPORTS_KEY || '' },
+        next: { revalidate: 60 },
+      }
+    );
+    const data = await res.json();
+    const game = data.response?.[0];
+    if (!game) return null;
+
+    return {
+      id: game.id,
+      date: game.date,
+      time: new Date(game.date).toLocaleTimeString('sv-SE', {
+        hour: '2-digit',
+        minute: '2-digit',
+        timeZone: 'Europe/Stockholm',
+      }),
+      home: game.teams.home.name,
+      away: game.teams.away.name,
+      homeLogo: game.teams.home.logo,
+      awayLogo: game.teams.away.logo,
+      homeId: game.teams.home.id,
+      awayId: game.teams.away.id,
+      venue: game.venue || 'Unknown',
+      status: game.status.long || 'Unknown',
+      broadcasters: ['nba-league-pass', 'hbo-max', 'allente'],
+    };
+  } catch {
+    return null;
+  }
+}
+
 export async function generateMetadata({ params }: Props) {
   const { league, slug } = await params;
   const decodedSlug = decodeURIComponent(slug);
@@ -148,10 +187,14 @@ export default async function MatchPage({ params }: Props) {
 
   const decodedSlug = decodeURIComponent(slug);
   const matchId = getIdFromSlug(decodedSlug);
-  const match = getLocalMatch(matchId, league);
+  let match = getLocalMatch(matchId, league);
 
   if (!match) {
-    notFound();
+  match = await getApiMatch(matchId, league);
+  }
+
+  if (!match) {
+  notFound();
   }
 
   const matchDate = new Date(match.date);
