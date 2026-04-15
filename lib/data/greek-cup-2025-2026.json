@@ -1,1 +1,408 @@
-{"league": "Greek Cup", "season": "2025-2026", "updated": "2026-02-14", "total": 25, "matches": [{"id": 471449, "date": "2025-09-24T14:00:00+02:00", "time": "14:00", "home": "Eleftheroupoli", "away": "Panerythraikos", "homeLogo": "https://media.api-sports.io/basketball/teams/597.png", "awayLogo": "https://media.api-sports.io/basketball/teams/2269.png", "homeId": 597, "awayId": 2269, "venue": "Unknown", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 471450, "date": "2025-09-24T16:00:00+02:00", "time": "16:00", "home": "Volos", "away": "Psychikou", "homeLogo": "https://media.api-sports.io/basketball/teams/5263.png", "awayLogo": "https://media.api-sports.io/basketball/teams/604.png", "homeId": 5263, "awayId": 604, "venue": "Unknown", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 471451, "date": "2025-09-24T16:00:00+02:00", "time": "16:00", "home": "Vikos", "away": "Koroivos", "homeLogo": "https://media.api-sports.io/basketball/teams/6179.png", "awayLogo": "https://media.api-sports.io/basketball/teams/600.png", "homeId": 6179, "awayId": 600, "venue": "Unknown", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 471452, "date": "2025-09-24T16:00:00+02:00", "time": "16:00", "home": "Sofadon", "away": "Egaleo", "homeLogo": "https://media.api-sports.io/basketball/teams/5645.png", "awayLogo": "https://media.api-sports.io/basketball/teams/5279.png", "homeId": 5645, "awayId": 5279, "venue": "Unknown", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 471453, "date": "2025-09-24T16:00:00+02:00", "time": "16:00", "home": "Apollon Patras", "away": "Lefkadas", "homeLogo": "https://media.api-sports.io/basketball/teams/594.png", "awayLogo": "https://media.api-sports.io/basketball/teams/1535.png", "homeId": 594, "awayId": 1535, "venue": "Apollon Patras Indoor Hall", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 463262, "date": "2025-09-24T18:00:00+02:00", "time": "18:00", "home": "NE Megaridas", "away": "Proteas Voulas", "homeLogo": "https://media.api-sports.io/basketball/teams/5572.png", "awayLogo": "https://media.api-sports.io/basketball/teams/5644.png", "homeId": 5572, "awayId": 5644, "venue": "Unknown", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 471454, "date": "2025-09-24T18:30:00+02:00", "time": "18:30", "home": "Dafni", "away": "Trikala", "homeLogo": "https://media.api-sports.io/basketball/teams/5265.png", "awayLogo": "https://media.api-sports.io/basketball/teams/1543.png", "homeId": 5265, "awayId": 1543, "venue": "Unknown", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 463261, "date": "2025-09-26T19:00:00+02:00", "time": "19:00", "home": "Lavrio", "away": "Ermis Schimatari", "homeLogo": "https://media.api-sports.io/basketball/teams/612.png", "awayLogo": "https://media.api-sports.io/basketball/teams/5570.png", "homeId": 612, "awayId": 5570, "venue": "Sports Center Lavrio", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 471455, "date": "2025-09-26T19:00:00+02:00", "time": "19:00", "home": "Lavrio", "away": "Chalkida", "homeLogo": "https://media.api-sports.io/basketball/teams/612.png", "awayLogo": "https://media.api-sports.io/basketball/teams/7527.png", "homeId": 612, "awayId": 7527, "venue": "Sports Center Lavrio", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 471456, "date": "2025-09-27T16:00:00+02:00", "time": "16:00", "home": "Eleftheroupoli", "away": "Dafni", "homeLogo": "https://media.api-sports.io/basketball/teams/597.png", "awayLogo": "https://media.api-sports.io/basketball/teams/5265.png", "homeId": 597, "awayId": 5265, "venue": "Unknown", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 471457, "date": "2025-09-27T16:00:00+02:00", "time": "16:00", "home": "Lefkadas", "away": "Sofadon", "homeLogo": "https://media.api-sports.io/basketball/teams/1535.png", "awayLogo": "https://media.api-sports.io/basketball/teams/5645.png", "homeId": 1535, "awayId": 5645, "venue": "Unknown", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 471458, "date": "2025-09-27T16:00:00+02:00", "time": "16:00", "home": "Proteas Voulas", "away": "Volos", "homeLogo": "https://media.api-sports.io/basketball/teams/5644.png", "awayLogo": "https://media.api-sports.io/basketball/teams/5263.png", "homeId": 5644, "awayId": 5263, "venue": "Unknown", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 471459, "date": "2025-09-28T18:00:00+02:00", "time": "18:00", "home": "Chalkida", "away": "Koroivos", "homeLogo": "https://media.api-sports.io/basketball/teams/7527.png", "awayLogo": "https://media.api-sports.io/basketball/teams/600.png", "homeId": 7527, "awayId": 600, "venue": "Unknown", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 486912, "date": "2025-12-27T16:00:00+01:00", "time": "16:00", "home": "Volos", "away": "Chalkida", "homeLogo": "https://media.api-sports.io/basketball/teams/5263.png", "awayLogo": "https://media.api-sports.io/basketball/teams/7527.png", "homeId": 5263, "awayId": 7527, "venue": "Unknown", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 486913, "date": "2025-12-27T19:00:00+01:00", "time": "19:00", "home": "Eleftheroupoli", "away": "Lefkadas", "homeLogo": "https://media.api-sports.io/basketball/teams/597.png", "awayLogo": "https://media.api-sports.io/basketball/teams/1535.png", "homeId": 597, "awayId": 1535, "venue": "Unknown", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 488713, "date": "2025-12-28T17:00:00+01:00", "time": "17:00", "home": "Chalkida", "away": "Lefkadas", "homeLogo": "https://media.api-sports.io/basketball/teams/7527.png", "awayLogo": "https://media.api-sports.io/basketball/teams/1535.png", "homeId": 7527, "awayId": 1535, "venue": "Unknown", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 489793, "date": "2026-01-14T16:00:00+01:00", "time": "16:00", "home": "Lefkadas", "away": "Maroussi", "homeLogo": "https://media.api-sports.io/basketball/teams/1535.png", "awayLogo": "https://media.api-sports.io/basketball/teams/1529.png", "homeId": 1535, "awayId": 1529, "venue": "Unknown", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 489794, "date": "2026-01-17T15:00:00+01:00", "time": "15:00", "home": "Aris", "away": "Peristeri", "homeLogo": "https://media.api-sports.io/basketball/teams/606.png", "awayLogo": "https://media.api-sports.io/basketball/teams/616.png", "homeId": 606, "awayId": 616, "venue": "Unknown", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 489795, "date": "2026-01-28T15:00:00+01:00", "time": "15:00", "home": "Iraklis", "away": "Kolossos Rhodes", "homeLogo": "https://media.api-sports.io/basketball/teams/609.png", "awayLogo": "https://media.api-sports.io/basketball/teams/610.png", "homeId": 609, "awayId": 610, "venue": "Ivanofeio Sports Arena", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 489796, "date": "2026-02-02T13:00:00+01:00", "time": "13:00", "home": "Mykonos", "away": "AS Karditsas", "homeLogo": "https://media.api-sports.io/basketball/teams/6176.png", "awayLogo": "https://media.api-sports.io/basketball/teams/590.png", "homeId": 6176, "awayId": 590, "venue": "Panagiotis Chaniotis Sports Hall", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 489797, "date": "2026-02-04T18:45:00+01:00", "time": "18:45", "home": "Promitheas", "away": "Maroussi", "homeLogo": "https://media.api-sports.io/basketball/teams/617.png", "awayLogo": "https://media.api-sports.io/basketball/teams/1529.png", "homeId": 617, "awayId": 1529, "venue": "Dimitris Tofalos Arena", "status": "FT", "broadcasters": ["cosmote-tv"]}, {"id": 492034, "date": "2026-02-17T16:00:00+01:00", "time": "16:00", "home": "Maroussi", "away": "Aris", "homeLogo": "https://media.api-sports.io/basketball/teams/1529.png", "awayLogo": "https://media.api-sports.io/basketball/teams/606.png", "homeId": 1529, "awayId": 606, "venue": "Dimotiko Gimnastirio Amarousiou", "status": "NS", "broadcasters": ["cosmote-tv"]}, {"id": 491316, "date": "2026-02-17T19:00:00+01:00", "time": "19:00", "home": "Olympiacos", "away": "AEK Athens", "homeLogo": "https://media.api-sports.io/basketball/teams/1542.png", "awayLogo": "https://media.api-sports.io/basketball/teams/605.png", "homeId": 1542, "awayId": 605, "venue": "Peace and Friendship Stadium", "status": "NS", "broadcasters": ["cosmote-tv"]}, {"id": 491518, "date": "2026-02-18T16:00:00+01:00", "time": "16:00", "home": "Iraklis", "away": "Mykonos", "homeLogo": "https://media.api-sports.io/basketball/teams/609.png", "awayLogo": "https://media.api-sports.io/basketball/teams/6176.png", "homeId": 609, "awayId": 6176, "venue": "Ivanofeio Sports Arena", "status": "NS", "broadcasters": ["cosmote-tv"]}, {"id": 491317, "date": "2026-02-18T19:00:00+01:00", "time": "19:00", "home": "Panathinaikos", "away": "PAOK", "homeLogo": "https://media.api-sports.io/basketball/teams/614.png", "awayLogo": "https://media.api-sports.io/basketball/teams/613.png", "homeId": 614, "awayId": 613, "venue": "Telekom Center Athens", "status": "NS", "broadcasters": ["cosmote-tv"]}]}
+{
+  "league": "Greek Cup",
+  "season": "2025-2026",
+  "updated": "2026-02-14",
+  "total": 25,
+  "matches": [
+    {
+      "id": 471449,
+      "date": "2025-09-24T14:00:00+02:00",
+      "time": "14:00",
+      "home": "Eleftheroupoli",
+      "away": "Panerythraikos",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/597.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/2269.png",
+      "homeId": 597,
+      "awayId": 2269,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 471450,
+      "date": "2025-09-24T16:00:00+02:00",
+      "time": "16:00",
+      "home": "Volos",
+      "away": "Psychikou",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5263.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/604.png",
+      "homeId": 5263,
+      "awayId": 604,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 471451,
+      "date": "2025-09-24T16:00:00+02:00",
+      "time": "16:00",
+      "home": "Vikos",
+      "away": "Koroivos",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/6179.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/600.png",
+      "homeId": 6179,
+      "awayId": 600,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 471452,
+      "date": "2025-09-24T16:00:00+02:00",
+      "time": "16:00",
+      "home": "Sofadon",
+      "away": "Egaleo",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5645.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5279.png",
+      "homeId": 5645,
+      "awayId": 5279,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 471453,
+      "date": "2025-09-24T16:00:00+02:00",
+      "time": "16:00",
+      "home": "Apollon Patras",
+      "away": "Lefkadas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/594.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1535.png",
+      "homeId": 594,
+      "awayId": 1535,
+      "venue": "Apollon Patras Indoor Hall",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 463262,
+      "date": "2025-09-24T18:00:00+02:00",
+      "time": "18:00",
+      "home": "NE Megaridas",
+      "away": "Proteas Voulas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5572.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5644.png",
+      "homeId": 5572,
+      "awayId": 5644,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 471454,
+      "date": "2025-09-24T18:30:00+02:00",
+      "time": "18:30",
+      "home": "Dafni",
+      "away": "Trikala",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5265.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1543.png",
+      "homeId": 5265,
+      "awayId": 1543,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 463261,
+      "date": "2025-09-26T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Lavrio",
+      "away": "Ermis Schimatari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/612.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5570.png",
+      "homeId": 612,
+      "awayId": 5570,
+      "venue": "Sports Center Lavrio",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 471455,
+      "date": "2025-09-26T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Lavrio",
+      "away": "Chalkida",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/612.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/7527.png",
+      "homeId": 612,
+      "awayId": 7527,
+      "venue": "Sports Center Lavrio",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 471456,
+      "date": "2025-09-27T16:00:00+02:00",
+      "time": "16:00",
+      "home": "Eleftheroupoli",
+      "away": "Dafni",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/597.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5265.png",
+      "homeId": 597,
+      "awayId": 5265,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 471457,
+      "date": "2025-09-27T16:00:00+02:00",
+      "time": "16:00",
+      "home": "Lefkadas",
+      "away": "Sofadon",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1535.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5645.png",
+      "homeId": 1535,
+      "awayId": 5645,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 471458,
+      "date": "2025-09-27T16:00:00+02:00",
+      "time": "16:00",
+      "home": "Proteas Voulas",
+      "away": "Volos",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5644.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/5263.png",
+      "homeId": 5644,
+      "awayId": 5263,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 471459,
+      "date": "2025-09-28T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Chalkida",
+      "away": "Koroivos",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/7527.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/600.png",
+      "homeId": 7527,
+      "awayId": 600,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 486912,
+      "date": "2025-12-27T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Volos",
+      "away": "Chalkida",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/5263.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/7527.png",
+      "homeId": 5263,
+      "awayId": 7527,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 486913,
+      "date": "2025-12-27T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Eleftheroupoli",
+      "away": "Lefkadas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/597.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1535.png",
+      "homeId": 597,
+      "awayId": 1535,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 488713,
+      "date": "2025-12-28T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Chalkida",
+      "away": "Lefkadas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/7527.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1535.png",
+      "homeId": 7527,
+      "awayId": 1535,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 489793,
+      "date": "2026-01-14T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Lefkadas",
+      "away": "Maroussi",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1535.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1529.png",
+      "homeId": 1535,
+      "awayId": 1529,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 489794,
+      "date": "2026-01-17T15:00:00+01:00",
+      "time": "15:00",
+      "home": "Aris",
+      "away": "Peristeri",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/616.png",
+      "homeId": 606,
+      "awayId": 616,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 489795,
+      "date": "2026-01-28T15:00:00+01:00",
+      "time": "15:00",
+      "home": "Iraklis",
+      "away": "Kolossos Rhodes",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/609.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/610.png",
+      "homeId": 609,
+      "awayId": 610,
+      "venue": "Ivanofeio Sports Arena",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 489796,
+      "date": "2026-02-02T13:00:00+01:00",
+      "time": "13:00",
+      "home": "Mykonos",
+      "away": "AS Karditsas",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/6176.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/590.png",
+      "homeId": 6176,
+      "awayId": 590,
+      "venue": "Panagiotis Chaniotis Sports Hall",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 489797,
+      "date": "2026-02-04T18:45:00+01:00",
+      "time": "18:45",
+      "home": "Promitheas",
+      "away": "Maroussi",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/617.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/1529.png",
+      "homeId": 617,
+      "awayId": 1529,
+      "venue": "Dimitris Tofalos Arena",
+      "status": "FT",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 492034,
+      "date": "2026-02-17T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Maroussi",
+      "away": "Aris",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1529.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/606.png",
+      "homeId": 1529,
+      "awayId": 606,
+      "venue": "Dimotiko Gimnastirio Amarousiou",
+      "status": "NS",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 491316,
+      "date": "2026-02-17T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Olympiacos",
+      "away": "AEK Athens",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/1542.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/605.png",
+      "homeId": 1542,
+      "awayId": 605,
+      "venue": "Peace and Friendship Stadium",
+      "status": "NS",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 491518,
+      "date": "2026-02-18T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Iraklis",
+      "away": "Mykonos",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/609.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/6176.png",
+      "homeId": 609,
+      "awayId": 6176,
+      "venue": "Ivanofeio Sports Arena",
+      "status": "NS",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    },
+    {
+      "id": 491317,
+      "date": "2026-02-18T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Panathinaikos",
+      "away": "PAOK",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/614.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/613.png",
+      "homeId": 614,
+      "awayId": 613,
+      "venue": "Telekom Center Athens",
+      "status": "NS",
+      "broadcasters": [
+        "cosmote-tv"
+      ]
+    }
+  ]
+}

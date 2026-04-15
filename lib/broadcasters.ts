@@ -19,21 +19,25 @@ export const BROADCASTERS: Broadcaster[] = [
     id: "hbo-max",
     name: "HBO Max",
     displayName: "HBO MAX",
-    affiliateUrl: "#", // Byt till riktig affiliate-URL innan launch
+    affiliateUrl: "#",
     buttonText: "Se på HBO Max",
   },
   {
     id: "allente",
     name: "Allente",
     displayName: "ALLENTE",
-    affiliateUrl: "#", // Byt till riktig affiliate-URL innan launch
+    affiliateUrl: "#",
     buttonText: "Se på Allente",
   },
   {
-    id: "kanal-9",
-    name: "Kanal 9",
-    displayName: "KANAL 9",
+    id: "telia-play",
+    name: "Telia Play",
+    displayName: "TELIA PLAY",
+    affiliateUrl: "#",
+    buttonText: "Se på Telia Play",
   },
+
+  // SBL
   {
     id: "expressen-tv",
     name: "Expressen TV",
@@ -41,17 +45,39 @@ export const BROADCASTERS: Broadcaster[] = [
     affiliateUrl: "https://www.expressen.se/tv",
     buttonText: "Se på Expressen",
   },
+
+  // EuroLeague
   {
     id: "viaplay",
     name: "Viaplay",
     displayName: "VIAPLAY",
-    affiliateUrl: "#", // Byt till riktig affiliate-URL innan launch
+    affiliateUrl: "#",
     buttonText: "Se på Viaplay",
   },
   {
-    id: "movistar-plus",
-    name: "Movistar+",
-    displayName: "MOVISTAR+",
+    id: "eurocup-tv",
+    name: "EuroLeague TV",
+    displayName: "EUROLEAGUE TV",
+    affiliateUrl: "#",
+    buttonText: "Se på EuroLeague TV",
+  },
+
+  // ACB, BBL, Lega A, Champions League
+  {
+    id: "dazn",
+    name: "DAZN",
+    displayName: "DAZN",
+    affiliateUrl: "#",
+    buttonText: "Se på DAZN",
+  },
+
+  // Turkish BSL, ABA Liga
+  {
+    id: "bet365",
+    name: "bet365",
+    displayName: "BET365",
+    affiliateUrl: "#",
+    buttonText: "Se på bet365",
   },
   {
     id: "bein-sports-turkey",
@@ -59,76 +85,90 @@ export const BROADCASTERS: Broadcaster[] = [
     displayName: "BEIN TR",
   },
   {
-    id: "arena-sport",
-    name: "Arena Sport",
-    displayName: "ARENA",
-  },
-  {
-    id: "dyn",
-    name: "Dyn",
-    displayName: "DYN",
-  },
-  {
-    id: "cosmote-tv",
-    name: "Cosmote TV",
-    displayName: "COSMOTE",
-  },
-  {
-    id: "dazn-italy",
-    name: "DAZN Italy",
-    displayName: "DAZN IT",
-  },
-  {
-    id: "go3",
-    name: "Go3",
-    displayName: "GO3",
+    id: "nettv-plus",
+    name: "NetTV Plus",
+    displayName: "NETTV+",
   },
 
-  // === NYA ===
+  // ABA Liga
   {
-    id: "eurocup-tv",
-    name: "EuroLeague TV",
-    displayName: "EUROCUP TV",
-    affiliateUrl: "#", // Byt till riktig affiliate-URL innan launch
-    buttonText: "Se på EuroLeague TV",
+    id: "unibet",
+    name: "Unibet",
+    displayName: "UNIBET",
+    affiliateUrl: "#",
+    buttonText: "Se på Unibet",
   },
+  {
+    id: "arena-sport",
+    name: "Arena Sport",
+    displayName: "ARENA SPORT",
+  },
+
+  // LKL
+  {
+    id: "fanseat",
+    name: "Fanseat",
+    displayName: "FANSEAT",
+    affiliateUrl: "#",
+    buttonText: "Se på Fanseat",
+  },
+  {
+    id: "lkl-tv",
+    name: "LKL.lt",
+    displayName: "LKL TV",
+  },
+
+  // KLS
+  {
+    id: "rts",
+    name: "RTS",
+    displayName: "RTS",
+  },
+  {
+    id: "sportklub",
+    name: "Sportklub",
+    displayName: "SPORTKLUB",
+  },
+
+  // Champions League, FIBA Europe Cup
   {
     id: "courtside1891",
     name: "Courtside 1891",
     displayName: "COURTSIDE",
-    affiliateUrl: "#", // Byt till riktig affiliate-URL innan launch
+    affiliateUrl: "#",
     buttonText: "Se på Courtside 1891",
   },
-  {
-    id: "dazn",
-    name: "DAZN",
-    displayName: "DAZN",
-    affiliateUrl: "#", // Byt till riktig affiliate-URL innan launch
-    buttonText: "Se på DAZN",
-  },
+
+  // World Cup
   {
     id: "courtside1891-max",
     name: "Courtside 1891 Max",
     displayName: "COURTSIDE MAX",
-    affiliateUrl: "#", // Byt till riktig affiliate-URL innan launch
+    affiliateUrl: "#",
     buttonText: "Se på Courtside Max",
   },
-  {
-    id: "fiba-plus",
-    name: "FIBA+",
-    displayName: "FIBA+",
-    affiliateUrl: "#", // Byt till riktig affiliate-URL innan launch
-    buttonText: "Se på FIBA+",
-  },
+
+  // LNB
   {
     id: "lnb-tv",
     name: "LNB TV",
     displayName: "LNB TV",
   },
+
+  // Greek Cup
   {
-    id: "bein-sports-fr",
-    name: "beIN Sports France",
-    displayName: "BEIN FR",
+    id: "cosmote-tv",
+    name: "Cosmote TV",
+    displayName: "COSMOTE",
+  },
+
+  // Lega A
+  {
+    id: "dazn-italy",
+    name: "DAZN Italy",
+    displayName: "DAZN IT",
+    affiliateUrl: "#",
+    buttonText: "Se på DAZN",
   },
 ];
 

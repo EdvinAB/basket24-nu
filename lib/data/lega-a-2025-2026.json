@@ -1,1 +1,3833 @@
-{"league": "Lega A", "season": "2025-2026", "updated": "2026-02-14", "total": 225, "matches": [{"id": 458138, "date": "2025-10-04T20:00:00+02:00", "time": "20:00", "home": "Trieste", "away": "Trapani", "homeLogo": "https://media.api-sports.io/basketball/teams/729.png", "awayLogo": "https://media.api-sports.io/basketball/teams/701.png", "homeId": 729, "awayId": 701, "venue": "PalaTrieste", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458134, "date": "2025-10-05T16:00:00+02:00", "time": "16:00", "home": "Olimpia Milano", "away": "Tortona", "homeLogo": "https://media.api-sports.io/basketball/teams/722.png", "awayLogo": "https://media.api-sports.io/basketball/teams/700.png", "homeId": 722, "awayId": 700, "venue": "Unipol Forum", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458141, "date": "2025-10-05T17:00:00+02:00", "time": "17:00", "home": "Reggiana", "away": "Udine", "homeLogo": "https://media.api-sports.io/basketball/teams/725.png", "awayLogo": "https://media.api-sports.io/basketball/teams/714.png", "homeId": 725, "awayId": 714, "venue": "PalaBigi", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458137, "date": "2025-10-05T17:30:00+02:00", "time": "17:30", "home": "Treviso", "away": "Brescia", "homeLogo": "https://media.api-sports.io/basketball/teams/728.png", "awayLogo": "https://media.api-sports.io/basketball/teams/717.png", "homeId": 728, "awayId": 717, "venue": "PalaVerde", "status": "AOT", "broadcasters": ["dazn-italy"]}, {"id": 458136, "date": "2025-10-05T18:00:00+02:00", "time": "18:00", "home": "Trento", "away": "Cantu", "homeLogo": "https://media.api-sports.io/basketball/teams/727.png", "awayLogo": "https://media.api-sports.io/basketball/teams/719.png", "homeId": 727, "awayId": 719, "venue": "BLM Group Arena", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458139, "date": "2025-10-05T19:00:00+02:00", "time": "19:00", "home": "Venezia", "away": "Cremona", "homeLogo": "https://media.api-sports.io/basketball/teams/731.png", "awayLogo": "https://media.api-sports.io/basketball/teams/720.png", "homeId": 731, "awayId": 720, "venue": "Palasport Giuseppe Taliercio", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458135, "date": "2025-10-05T20:00:00+02:00", "time": "20:00", "home": "Sassari", "away": "Varese", "homeLogo": "https://media.api-sports.io/basketball/teams/726.png", "awayLogo": "https://media.api-sports.io/basketball/teams/730.png", "homeId": 726, "awayId": 730, "venue": "Palasport Roberta Serradimigni", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458140, "date": "2025-10-06T20:00:00+02:00", "time": "20:00", "home": "Virtus Bologna", "away": "Basket Napoli", "homeLogo": "https://media.api-sports.io/basketball/teams/732.png", "awayLogo": "https://media.api-sports.io/basketball/teams/690.png", "homeId": 732, "awayId": 690, "venue": "Segafredo Arena", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458144, "date": "2025-10-11T18:15:00+02:00", "time": "18:15", "home": "Varese", "away": "Olimpia Milano", "homeLogo": "https://media.api-sports.io/basketball/teams/730.png", "awayLogo": "https://media.api-sports.io/basketball/teams/722.png", "homeId": 730, "awayId": 722, "venue": "Palasport Lino Oldrini", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458142, "date": "2025-10-11T20:00:00+02:00", "time": "20:00", "home": "Brescia", "away": "Trento", "homeLogo": "https://media.api-sports.io/basketball/teams/717.png", "awayLogo": "https://media.api-sports.io/basketball/teams/727.png", "homeId": 717, "awayId": 727, "venue": "PalaLeonessa", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458143, "date": "2025-10-11T20:00:00+02:00", "time": "20:00", "home": "Udine", "away": "Virtus Bologna", "homeLogo": "https://media.api-sports.io/basketball/teams/714.png", "awayLogo": "https://media.api-sports.io/basketball/teams/732.png", "homeId": 714, "awayId": 732, "venue": "PalaCarnera", "status": "AOT", "broadcasters": ["dazn-italy"]}, {"id": 458149, "date": "2025-10-11T20:30:00+02:00", "time": "20:30", "home": "Basket Napoli", "away": "Trieste", "homeLogo": "https://media.api-sports.io/basketball/teams/690.png", "awayLogo": "https://media.api-sports.io/basketball/teams/729.png", "homeId": 690, "awayId": 729, "venue": "PalaBarbuto", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458148, "date": "2025-10-12T12:00:00+02:00", "time": "12:00", "home": "Cantu", "away": "Reggiana", "homeLogo": "https://media.api-sports.io/basketball/teams/719.png", "awayLogo": "https://media.api-sports.io/basketball/teams/725.png", "homeId": 719, "awayId": 725, "venue": "PalaFitLineDesio", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458145, "date": "2025-10-12T17:00:00+02:00", "time": "17:00", "home": "Trapani", "away": "Venezia", "homeLogo": "https://media.api-sports.io/basketball/teams/701.png", "awayLogo": "https://media.api-sports.io/basketball/teams/731.png", "homeId": 701, "awayId": 731, "venue": "Pala Shark", "status": "AOT", "broadcasters": ["dazn-italy"]}, {"id": 458147, "date": "2025-10-12T17:30:00+02:00", "time": "17:30", "home": "Cremona", "away": "Sassari", "homeLogo": "https://media.api-sports.io/basketball/teams/720.png", "awayLogo": "https://media.api-sports.io/basketball/teams/726.png", "homeId": 720, "awayId": 726, "venue": "PalaRadi", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458146, "date": "2025-10-12T18:00:00+02:00", "time": "18:00", "home": "Tortona", "away": "Treviso", "homeLogo": "https://media.api-sports.io/basketball/teams/700.png", "awayLogo": "https://media.api-sports.io/basketball/teams/728.png", "homeId": 700, "awayId": 728, "venue": "PalaFerraris", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458156, "date": "2025-10-18T20:00:00+02:00", "time": "20:00", "home": "Venezia", "away": "Trieste", "homeLogo": "https://media.api-sports.io/basketball/teams/731.png", "awayLogo": "https://media.api-sports.io/basketball/teams/729.png", "homeId": 731, "awayId": 729, "venue": "Palasport Giuseppe Taliercio", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458152, "date": "2025-10-19T12:00:00+02:00", "time": "12:00", "home": "Sassari", "away": "Olimpia Milano", "homeLogo": "https://media.api-sports.io/basketball/teams/726.png", "awayLogo": "https://media.api-sports.io/basketball/teams/722.png", "homeId": 726, "awayId": 722, "venue": "Palasport Roberta Serradimigni", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458153, "date": "2025-10-19T16:00:00+02:00", "time": "16:00", "home": "Trento", "away": "Tortona", "homeLogo": "https://media.api-sports.io/basketball/teams/727.png", "awayLogo": "https://media.api-sports.io/basketball/teams/700.png", "homeId": 727, "awayId": 700, "venue": "BLM Group Arena", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458151, "date": "2025-10-19T18:00:00+02:00", "time": "18:00", "home": "Reggiana", "away": "Varese", "homeLogo": "https://media.api-sports.io/basketball/teams/725.png", "awayLogo": "https://media.api-sports.io/basketball/teams/730.png", "homeId": 725, "awayId": 730, "venue": "PalaBigi", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458150, "date": "2025-10-19T18:30:00+02:00", "time": "18:30", "home": "Cantu", "away": "Trapani", "homeLogo": "https://media.api-sports.io/basketball/teams/719.png", "awayLogo": "https://media.api-sports.io/basketball/teams/701.png", "homeId": 719, "awayId": 701, "venue": "PalaFitLineDesio", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458154, "date": "2025-10-19T19:00:00+02:00", "time": "19:00", "home": "Treviso", "away": "Basket Napoli", "homeLogo": "https://media.api-sports.io/basketball/teams/728.png", "awayLogo": "https://media.api-sports.io/basketball/teams/690.png", "homeId": 728, "awayId": 690, "venue": "PalaVerde", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458155, "date": "2025-10-19T20:00:00+02:00", "time": "20:00", "home": "Udine", "away": "Brescia", "homeLogo": "https://media.api-sports.io/basketball/teams/714.png", "awayLogo": "https://media.api-sports.io/basketball/teams/717.png", "homeId": 714, "awayId": 717, "venue": "PalaCarnera", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458157, "date": "2025-10-20T20:00:00+02:00", "time": "20:00", "home": "Virtus Bologna", "away": "Cremona", "homeLogo": "https://media.api-sports.io/basketball/teams/732.png", "awayLogo": "https://media.api-sports.io/basketball/teams/720.png", "homeId": 732, "awayId": 720, "venue": "Segafredo Arena", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458160, "date": "2025-10-25T20:00:00+02:00", "time": "20:00", "home": "Varese", "away": "Trento", "homeLogo": "https://media.api-sports.io/basketball/teams/730.png", "awayLogo": "https://media.api-sports.io/basketball/teams/727.png", "homeId": 730, "awayId": 727, "venue": "Palasport Lino Oldrini", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458158, "date": "2025-10-25T20:30:00+02:00", "time": "20:30", "home": "Tortona", "away": "Trapani", "homeLogo": "https://media.api-sports.io/basketball/teams/700.png", "awayLogo": "https://media.api-sports.io/basketball/teams/701.png", "homeId": 700, "awayId": 701, "venue": "PalaFerraris", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458162, "date": "2025-10-26T16:00:00+01:00", "time": "16:00", "home": "Olimpia Milano", "away": "Venezia", "homeLogo": "https://media.api-sports.io/basketball/teams/722.png", "awayLogo": "https://media.api-sports.io/basketball/teams/731.png", "homeId": 722, "awayId": 731, "venue": "Unipol Forum", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458164, "date": "2025-10-26T17:00:00+01:00", "time": "17:00", "home": "Brescia", "away": "Cantu", "homeLogo": "https://media.api-sports.io/basketball/teams/717.png", "awayLogo": "https://media.api-sports.io/basketball/teams/719.png", "homeId": 717, "awayId": 719, "venue": "PalaLeonessa", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458165, "date": "2025-10-26T17:30:00+01:00", "time": "17:30", "home": "Basket Napoli", "away": "Reggiana", "homeLogo": "https://media.api-sports.io/basketball/teams/690.png", "awayLogo": "https://media.api-sports.io/basketball/teams/725.png", "homeId": 690, "awayId": 725, "venue": "PalaBarbuto", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458161, "date": "2025-10-26T18:00:00+01:00", "time": "18:00", "home": "Trieste", "away": "Udine", "homeLogo": "https://media.api-sports.io/basketball/teams/729.png", "awayLogo": "https://media.api-sports.io/basketball/teams/714.png", "homeId": 729, "awayId": 714, "venue": "PalaTrieste", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458159, "date": "2025-10-26T19:00:00+01:00", "time": "19:00", "home": "Virtus Bologna", "away": "Sassari", "homeLogo": "https://media.api-sports.io/basketball/teams/732.png", "awayLogo": "https://media.api-sports.io/basketball/teams/726.png", "homeId": 732, "awayId": 726, "venue": "Segafredo Arena", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458163, "date": "2025-10-26T20:00:00+01:00", "time": "20:00", "home": "Cremona", "away": "Treviso", "homeLogo": "https://media.api-sports.io/basketball/teams/720.png", "awayLogo": "https://media.api-sports.io/basketball/teams/728.png", "homeId": 720, "awayId": 728, "venue": "PalaRadi", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458168, "date": "2025-11-01T18:15:00+01:00", "time": "18:15", "home": "Sassari", "away": "Udine", "homeLogo": "https://media.api-sports.io/basketball/teams/726.png", "awayLogo": "https://media.api-sports.io/basketball/teams/714.png", "homeId": 726, "awayId": 714, "venue": "Palasport Roberta Serradimigni", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458171, "date": "2025-11-01T20:00:00+01:00", "time": "20:00", "home": "Trento", "away": "Virtus Bologna", "homeLogo": "https://media.api-sports.io/basketball/teams/727.png", "awayLogo": "https://media.api-sports.io/basketball/teams/732.png", "homeId": 727, "awayId": 732, "venue": "BLM Group Arena", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458172, "date": "2025-11-01T20:30:00+01:00", "time": "20:30", "home": "Treviso", "away": "Trieste", "homeLogo": "https://media.api-sports.io/basketball/teams/728.png", "awayLogo": "https://media.api-sports.io/basketball/teams/729.png", "homeId": 728, "awayId": 729, "venue": "PalaVerde", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458166, "date": "2025-11-02T16:00:00+01:00", "time": "16:00", "home": "Cantu", "away": "Cremona", "homeLogo": "https://media.api-sports.io/basketball/teams/719.png", "awayLogo": "https://media.api-sports.io/basketball/teams/720.png", "homeId": 719, "awayId": 720, "venue": "PalaFitLineDesio", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458173, "date": "2025-11-02T16:30:00+01:00", "time": "16:30", "home": "Venezia", "away": "Varese", "homeLogo": "https://media.api-sports.io/basketball/teams/731.png", "awayLogo": "https://media.api-sports.io/basketball/teams/730.png", "homeId": 731, "awayId": 730, "venue": "Palasport Giuseppe Taliercio", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458170, "date": "2025-11-02T17:00:00+01:00", "time": "17:00", "home": "Trapani", "away": "Brescia", "homeLogo": "https://media.api-sports.io/basketball/teams/701.png", "awayLogo": "https://media.api-sports.io/basketball/teams/717.png", "homeId": 701, "awayId": 717, "venue": "Pala Shark", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458167, "date": "2025-11-02T18:00:00+01:00", "time": "18:00", "home": "Reggiana", "away": "Olimpia Milano", "homeLogo": "https://media.api-sports.io/basketball/teams/725.png", "awayLogo": "https://media.api-sports.io/basketball/teams/722.png", "homeId": 725, "awayId": 722, "venue": "PalaBigi", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458169, "date": "2025-11-02T19:00:00+01:00", "time": "19:00", "home": "Tortona", "away": "Basket Napoli", "homeLogo": "https://media.api-sports.io/basketball/teams/700.png", "awayLogo": "https://media.api-sports.io/basketball/teams/690.png", "homeId": 700, "awayId": 690, "venue": "PalaFerraris", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458175, "date": "2025-11-04T20:00:00+01:00", "time": "20:00", "home": "Varese", "away": "Virtus Bologna", "homeLogo": "https://media.api-sports.io/basketball/teams/730.png", "awayLogo": "https://media.api-sports.io/basketball/teams/732.png", "homeId": 730, "awayId": 732, "venue": "Palasport Lino Oldrini", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458180, "date": "2025-11-05T18:30:00+01:00", "time": "18:30", "home": "Brescia", "away": "Olimpia Milano", "homeLogo": "https://media.api-sports.io/basketball/teams/717.png", "awayLogo": "https://media.api-sports.io/basketball/teams/722.png", "homeId": 717, "awayId": 722, "venue": "PalaLeonessa", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458181, "date": "2025-11-05T20:45:00+01:00", "time": "20:45", "home": "Basket Napoli", "away": "Trapani", "homeLogo": "https://media.api-sports.io/basketball/teams/690.png", "awayLogo": "https://media.api-sports.io/basketball/teams/701.png", "homeId": 690, "awayId": 701, "venue": "PalaBarbuto", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458178, "date": "2025-11-06T20:30:00+01:00", "time": "20:30", "home": "Sassari", "away": "Cantu", "homeLogo": "https://media.api-sports.io/basketball/teams/726.png", "awayLogo": "https://media.api-sports.io/basketball/teams/719.png", "homeId": 726, "awayId": 719, "venue": "Palasport Roberta Serradimigni", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458179, "date": "2025-11-06T20:45:00+01:00", "time": "20:45", "home": "Cremona", "away": "Trento", "homeLogo": "https://media.api-sports.io/basketball/teams/720.png", "awayLogo": "https://media.api-sports.io/basketball/teams/727.png", "homeId": 720, "awayId": 727, "venue": "PalaRadi", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458176, "date": "2025-11-07T20:30:00+01:00", "time": "20:30", "home": "Udine", "away": "Venezia", "homeLogo": "https://media.api-sports.io/basketball/teams/714.png", "awayLogo": "https://media.api-sports.io/basketball/teams/731.png", "homeId": 714, "awayId": 731, "venue": "PalaCarnera", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458177, "date": "2025-11-07T20:45:00+01:00", "time": "20:45", "home": "Reggiana", "away": "Treviso", "homeLogo": "https://media.api-sports.io/basketball/teams/725.png", "awayLogo": "https://media.api-sports.io/basketball/teams/728.png", "homeId": 725, "awayId": 728, "venue": "PalaBigi", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458186, "date": "2025-11-09T12:00:00+01:00", "time": "12:00", "home": "Trapani", "away": "Cremona", "homeLogo": "https://media.api-sports.io/basketball/teams/701.png", "awayLogo": "https://media.api-sports.io/basketball/teams/720.png", "homeId": 701, "awayId": 720, "venue": "Pala Shark", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458182, "date": "2025-11-09T16:00:00+01:00", "time": "16:00", "home": "Brescia", "away": "Trieste", "homeLogo": "https://media.api-sports.io/basketball/teams/717.png", "awayLogo": "https://media.api-sports.io/basketball/teams/729.png", "homeId": 717, "awayId": 729, "venue": "PalaLeonessa", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458184, "date": "2025-11-09T17:00:00+01:00", "time": "17:00", "home": "Olimpia Milano", "away": "Treviso", "homeLogo": "https://media.api-sports.io/basketball/teams/722.png", "awayLogo": "https://media.api-sports.io/basketball/teams/728.png", "homeId": 722, "awayId": 728, "venue": "Unipol Forum", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458187, "date": "2025-11-09T17:30:00+01:00", "time": "17:30", "home": "Trento", "away": "Basket Napoli", "homeLogo": "https://media.api-sports.io/basketball/teams/727.png", "awayLogo": "https://media.api-sports.io/basketball/teams/690.png", "homeId": 727, "awayId": 690, "venue": "BLM Group Arena", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458185, "date": "2025-11-09T18:00:00+01:00", "time": "18:00", "home": "Tortona", "away": "Varese", "homeLogo": "https://media.api-sports.io/basketball/teams/700.png", "awayLogo": "https://media.api-sports.io/basketball/teams/730.png", "homeId": 700, "awayId": 730, "venue": "PalaFerraris", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458189, "date": "2025-11-09T18:30:00+01:00", "time": "18:30", "home": "Virtus Bologna", "away": "Reggiana", "homeLogo": "https://media.api-sports.io/basketball/teams/732.png", "awayLogo": "https://media.api-sports.io/basketball/teams/725.png", "homeId": 732, "awayId": 725, "venue": "Segafredo Arena", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458188, "date": "2025-11-09T19:00:00+01:00", "time": "19:00", "home": "Venezia", "away": "Sassari", "homeLogo": "https://media.api-sports.io/basketball/teams/731.png", "awayLogo": "https://media.api-sports.io/basketball/teams/726.png", "homeId": 731, "awayId": 726, "venue": "Palasport Giuseppe Taliercio", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458183, "date": "2025-11-09T20:00:00+01:00", "time": "20:00", "home": "Cantu", "away": "Udine", "homeLogo": "https://media.api-sports.io/basketball/teams/719.png", "awayLogo": "https://media.api-sports.io/basketball/teams/714.png", "homeId": 719, "awayId": 714, "venue": "PalaFitLineDesio", "status": "AOT", "broadcasters": ["dazn-italy"]}, {"id": 458174, "date": "2025-11-12T20:00:00+01:00", "time": "20:00", "home": "Trieste", "away": "Tortona", "homeLogo": "https://media.api-sports.io/basketball/teams/729.png", "awayLogo": "https://media.api-sports.io/basketball/teams/700.png", "homeId": 729, "awayId": 700, "venue": "PalaTrieste", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458192, "date": "2025-11-15T20:00:00+01:00", "time": "20:00", "home": "Udine", "away": "Tortona", "homeLogo": "https://media.api-sports.io/basketball/teams/714.png", "awayLogo": "https://media.api-sports.io/basketball/teams/700.png", "homeId": 714, "awayId": 700, "venue": "PalaCarnera", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458196, "date": "2025-11-15T20:30:00+01:00", "time": "20:30", "home": "Cremona", "away": "Trieste", "homeLogo": "https://media.api-sports.io/basketball/teams/720.png", "awayLogo": "https://media.api-sports.io/basketball/teams/729.png", "homeId": 720, "awayId": 729, "venue": "PalaRadi", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458190, "date": "2025-11-16T12:00:00+01:00", "time": "12:00", "home": "Sassari", "away": "Trento", "homeLogo": "https://media.api-sports.io/basketball/teams/726.png", "awayLogo": "https://media.api-sports.io/basketball/teams/727.png", "homeId": 726, "awayId": 727, "venue": "Palasport Roberta Serradimigni", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458191, "date": "2025-11-16T17:00:00+01:00", "time": "17:00", "home": "Varese", "away": "Cantu", "homeLogo": "https://media.api-sports.io/basketball/teams/730.png", "awayLogo": "https://media.api-sports.io/basketball/teams/719.png", "homeId": 730, "awayId": 719, "venue": "Palasport Lino Oldrini", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458194, "date": "2025-11-16T17:30:00+01:00", "time": "17:30", "home": "Reggiana", "away": "Venezia", "homeLogo": "https://media.api-sports.io/basketball/teams/725.png", "awayLogo": "https://media.api-sports.io/basketball/teams/731.png", "homeId": 725, "awayId": 731, "venue": "PalaBigi", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458195, "date": "2025-11-16T18:00:00+01:00", "time": "18:00", "home": "Olimpia Milano", "away": "Trapani", "homeLogo": "https://media.api-sports.io/basketball/teams/722.png", "awayLogo": "https://media.api-sports.io/basketball/teams/701.png", "homeId": 722, "awayId": 701, "venue": "Unipol Forum", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458197, "date": "2025-11-16T19:00:00+01:00", "time": "19:00", "home": "Basket Napoli", "away": "Brescia", "homeLogo": "https://media.api-sports.io/basketball/teams/690.png", "awayLogo": "https://media.api-sports.io/basketball/teams/717.png", "homeId": 690, "awayId": 717, "venue": "PalaBarbuto", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458193, "date": "2025-11-17T20:00:00+01:00", "time": "20:00", "home": "Treviso", "away": "Virtus Bologna", "homeLogo": "https://media.api-sports.io/basketball/teams/728.png", "awayLogo": "https://media.api-sports.io/basketball/teams/732.png", "homeId": 728, "awayId": 732, "venue": "PalaVerde", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458198, "date": "2025-11-21T20:30:00+01:00", "time": "20:30", "home": "Brescia", "away": "Cremona", "homeLogo": "https://media.api-sports.io/basketball/teams/717.png", "awayLogo": "https://media.api-sports.io/basketball/teams/720.png", "homeId": 717, "awayId": 720, "venue": "PalaLeonessa", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458203, "date": "2025-11-22T18:15:00+01:00", "time": "18:15", "home": "Trento", "away": "Treviso", "homeLogo": "https://media.api-sports.io/basketball/teams/727.png", "awayLogo": "https://media.api-sports.io/basketball/teams/728.png", "homeId": 727, "awayId": 728, "venue": "BLM Group Arena", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458204, "date": "2025-11-23T16:00:00+01:00", "time": "16:00", "home": "Trieste", "away": "Olimpia Milano", "homeLogo": "https://media.api-sports.io/basketball/teams/729.png", "awayLogo": "https://media.api-sports.io/basketball/teams/722.png", "homeId": 729, "awayId": 722, "venue": "PalaTrieste", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458205, "date": "2025-11-23T16:30:00+01:00", "time": "16:30", "home": "Varese", "away": "Udine", "homeLogo": "https://media.api-sports.io/basketball/teams/730.png", "awayLogo": "https://media.api-sports.io/basketball/teams/714.png", "homeId": 730, "awayId": 714, "venue": "Palasport Lino Oldrini", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458202, "date": "2025-11-23T17:00:00+01:00", "time": "17:00", "home": "Trapani", "away": "Reggiana", "homeLogo": "https://media.api-sports.io/basketball/teams/701.png", "awayLogo": "https://media.api-sports.io/basketball/teams/725.png", "homeId": 701, "awayId": 725, "venue": "Pala Shark", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458201, "date": "2025-11-23T18:00:00+01:00", "time": "18:00", "home": "Tortona", "away": "Venezia", "homeLogo": "https://media.api-sports.io/basketball/teams/700.png", "awayLogo": "https://media.api-sports.io/basketball/teams/731.png", "homeId": 700, "awayId": 731, "venue": "PalaFerraris", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458200, "date": "2025-11-23T19:00:00+01:00", "time": "19:00", "home": "Cantu", "away": "Virtus Bologna", "homeLogo": "https://media.api-sports.io/basketball/teams/719.png", "awayLogo": "https://media.api-sports.io/basketball/teams/732.png", "homeId": 719, "awayId": 732, "venue": "PalaFitLineDesio", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458199, "date": "2025-11-23T20:00:00+01:00", "time": "20:00", "home": "Basket Napoli", "away": "Sassari", "homeLogo": "https://media.api-sports.io/basketball/teams/690.png", "awayLogo": "https://media.api-sports.io/basketball/teams/726.png", "homeId": 690, "awayId": 726, "venue": "PalaBarbuto", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458209, "date": "2025-12-06T20:00:00+01:00", "time": "20:00", "home": "Sassari", "away": "Trieste", "homeLogo": "https://media.api-sports.io/basketball/teams/726.png", "awayLogo": "https://media.api-sports.io/basketball/teams/729.png", "homeId": 726, "awayId": 729, "venue": "Palasport Roberta Serradimigni", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458211, "date": "2025-12-06T20:30:00+01:00", "time": "20:30", "home": "Reggiana", "away": "Brescia", "homeLogo": "https://media.api-sports.io/basketball/teams/725.png", "awayLogo": "https://media.api-sports.io/basketball/teams/717.png", "homeId": 725, "awayId": 717, "venue": "PalaBigi", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458206, "date": "2025-12-07T16:00:00+01:00", "time": "16:00", "home": "Udine", "away": "Basket Napoli", "homeLogo": "https://media.api-sports.io/basketball/teams/714.png", "awayLogo": "https://media.api-sports.io/basketball/teams/690.png", "homeId": 714, "awayId": 690, "venue": "PalaCarnera", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458208, "date": "2025-12-07T17:00:00+01:00", "time": "17:00", "home": "Venezia", "away": "Cantu", "homeLogo": "https://media.api-sports.io/basketball/teams/731.png", "awayLogo": "https://media.api-sports.io/basketball/teams/719.png", "homeId": 731, "awayId": 719, "venue": "Palasport Giuseppe Taliercio", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458212, "date": "2025-12-07T18:00:00+01:00", "time": "18:00", "home": "Olimpia Milano", "away": "Trento", "homeLogo": "https://media.api-sports.io/basketball/teams/722.png", "awayLogo": "https://media.api-sports.io/basketball/teams/727.png", "homeId": 722, "awayId": 727, "venue": "Unipol Forum", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458210, "date": "2025-12-07T19:00:00+01:00", "time": "19:00", "home": "Treviso", "away": "Trapani", "homeLogo": "https://media.api-sports.io/basketball/teams/728.png", "awayLogo": "https://media.api-sports.io/basketball/teams/701.png", "homeId": 728, "awayId": 701, "venue": "PalaVerde", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458213, "date": "2025-12-08T17:30:00+01:00", "time": "17:30", "home": "Cremona", "away": "Varese", "homeLogo": "https://media.api-sports.io/basketball/teams/720.png", "awayLogo": "https://media.api-sports.io/basketball/teams/730.png", "homeId": 720, "awayId": 730, "venue": "PalaRadi", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458207, "date": "2025-12-08T18:30:00+01:00", "time": "18:30", "home": "Virtus Bologna", "away": "Tortona", "homeLogo": "https://media.api-sports.io/basketball/teams/732.png", "awayLogo": "https://media.api-sports.io/basketball/teams/700.png", "homeId": 732, "awayId": 700, "venue": "Segafredo Arena", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458221, "date": "2025-12-13T18:15:00+01:00", "time": "18:15", "home": "Trieste", "away": "Reggiana", "homeLogo": "https://media.api-sports.io/basketball/teams/729.png", "awayLogo": "https://media.api-sports.io/basketball/teams/725.png", "homeId": 729, "awayId": 725, "venue": "PalaTrieste", "status": "AOT", "broadcasters": ["dazn-italy"]}, {"id": 458219, "date": "2025-12-13T20:00:00+01:00", "time": "20:00", "home": "Trento", "away": "Venezia", "homeLogo": "https://media.api-sports.io/basketball/teams/727.png", "awayLogo": "https://media.api-sports.io/basketball/teams/731.png", "homeId": 727, "awayId": 731, "venue": "BLM Group Arena", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458218, "date": "2025-12-14T12:00:00+01:00", "time": "12:00", "home": "Trapani", "away": "Udine", "homeLogo": "https://media.api-sports.io/basketball/teams/701.png", "awayLogo": "https://media.api-sports.io/basketball/teams/714.png", "homeId": 701, "awayId": 714, "venue": "Pala Shark", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458217, "date": "2025-12-14T16:30:00+01:00", "time": "16:30", "home": "Tortona", "away": "Sassari", "homeLogo": "https://media.api-sports.io/basketball/teams/700.png", "awayLogo": "https://media.api-sports.io/basketball/teams/726.png", "homeId": 700, "awayId": 726, "venue": "PalaFerraris", "status": "AOT", "broadcasters": ["dazn-italy"]}, {"id": 458215, "date": "2025-12-14T17:00:00+01:00", "time": "17:00", "home": "Brescia", "away": "Varese", "homeLogo": "https://media.api-sports.io/basketball/teams/717.png", "awayLogo": "https://media.api-sports.io/basketball/teams/730.png", "homeId": 717, "awayId": 730, "venue": "PalaLeonessa", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458214, "date": "2025-12-14T18:00:00+01:00", "time": "18:00", "home": "Basket Napoli", "away": "Cremona", "homeLogo": "https://media.api-sports.io/basketball/teams/690.png", "awayLogo": "https://media.api-sports.io/basketball/teams/720.png", "homeId": 690, "awayId": 720, "venue": "PalaBarbuto", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458220, "date": "2025-12-14T19:00:00+01:00", "time": "19:00", "home": "Treviso", "away": "Cantu", "homeLogo": "https://media.api-sports.io/basketball/teams/728.png", "awayLogo": "https://media.api-sports.io/basketball/teams/719.png", "homeId": 728, "awayId": 719, "venue": "PalaVerde", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458216, "date": "2025-12-14T20:00:00+01:00", "time": "20:00", "home": "Olimpia Milano", "away": "Virtus Bologna", "homeLogo": "https://media.api-sports.io/basketball/teams/722.png", "awayLogo": "https://media.api-sports.io/basketball/teams/732.png", "homeId": 722, "awayId": 732, "venue": "Unipol Forum", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458229, "date": "2025-12-20T20:00:00+01:00", "time": "20:00", "home": "Cantu", "away": "Olimpia Milano", "homeLogo": "https://media.api-sports.io/basketball/teams/719.png", "awayLogo": "https://media.api-sports.io/basketball/teams/722.png", "homeId": 719, "awayId": 722, "venue": "PalaFitLineDesio", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458225, "date": "2025-12-21T12:00:00+01:00", "time": "12:00", "home": "Sassari", "away": "Trapani", "homeLogo": "https://media.api-sports.io/basketball/teams/726.png", "awayLogo": "https://media.api-sports.io/basketball/teams/701.png", "homeId": 726, "awayId": 701, "venue": "Palasport Roberta Serradimigni", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458224, "date": "2025-12-21T16:00:00+01:00", "time": "16:00", "home": "Venezia", "away": "Basket Napoli", "homeLogo": "https://media.api-sports.io/basketball/teams/731.png", "awayLogo": "https://media.api-sports.io/basketball/teams/690.png", "homeId": 731, "awayId": 690, "venue": "Palasport Giuseppe Taliercio", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458226, "date": "2025-12-21T17:00:00+01:00", "time": "17:00", "home": "Udine", "away": "Treviso", "homeLogo": "https://media.api-sports.io/basketball/teams/714.png", "awayLogo": "https://media.api-sports.io/basketball/teams/728.png", "homeId": 714, "awayId": 728, "venue": "PalaCarnera", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458228, "date": "2025-12-21T18:00:00+01:00", "time": "18:00", "home": "Cremona", "away": "Tortona", "homeLogo": "https://media.api-sports.io/basketball/teams/720.png", "awayLogo": "https://media.api-sports.io/basketball/teams/700.png", "homeId": 720, "awayId": 700, "venue": "PalaRadi", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458227, "date": "2025-12-21T19:00:00+01:00", "time": "19:00", "home": "Reggiana", "away": "Trento", "homeLogo": "https://media.api-sports.io/basketball/teams/725.png", "awayLogo": "https://media.api-sports.io/basketball/teams/727.png", "homeId": 725, "awayId": 727, "venue": "PalaBigi", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458222, "date": "2025-12-21T20:00:00+01:00", "time": "20:00", "home": "Varese", "away": "Trieste", "homeLogo": "https://media.api-sports.io/basketball/teams/730.png", "awayLogo": "https://media.api-sports.io/basketball/teams/729.png", "homeId": 730, "awayId": 729, "venue": "Palasport Lino Oldrini", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458223, "date": "2025-12-22T20:30:00+01:00", "time": "20:30", "home": "Virtus Bologna", "away": "Brescia", "homeLogo": "https://media.api-sports.io/basketball/teams/732.png", "awayLogo": "https://media.api-sports.io/basketball/teams/717.png", "homeId": 732, "awayId": 717, "venue": "Segafredo Arena", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458234, "date": "2025-12-27T20:00:00+01:00", "time": "20:00", "home": "Trento", "away": "Udine", "homeLogo": "https://media.api-sports.io/basketball/teams/727.png", "awayLogo": "https://media.api-sports.io/basketball/teams/714.png", "homeId": 727, "awayId": 714, "venue": "BLM Group Arena", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458231, "date": "2025-12-28T16:00:00+01:00", "time": "16:00", "home": "Brescia", "away": "Venezia", "homeLogo": "https://media.api-sports.io/basketball/teams/717.png", "awayLogo": "https://media.api-sports.io/basketball/teams/731.png", "homeId": 717, "awayId": 731, "venue": "PalaLeonessa", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458235, "date": "2025-12-28T17:00:00+01:00", "time": "17:00", "home": "Treviso", "away": "Sassari", "homeLogo": "https://media.api-sports.io/basketball/teams/728.png", "awayLogo": "https://media.api-sports.io/basketball/teams/726.png", "homeId": 728, "awayId": 726, "venue": "PalaVerde", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458232, "date": "2025-12-28T18:00:00+01:00", "time": "18:00", "home": "Tortona", "away": "Reggiana", "homeLogo": "https://media.api-sports.io/basketball/teams/700.png", "awayLogo": "https://media.api-sports.io/basketball/teams/725.png", "homeId": 700, "awayId": 725, "venue": "PalaFerraris", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458230, "date": "2025-12-28T18:30:00+01:00", "time": "18:30", "home": "Basket Napoli", "away": "Cantu", "homeLogo": "https://media.api-sports.io/basketball/teams/690.png", "awayLogo": "https://media.api-sports.io/basketball/teams/719.png", "homeId": 690, "awayId": 719, "venue": "PalaBarbuto", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458233, "date": "2025-12-28T19:00:00+01:00", "time": "19:00", "home": "Trapani", "away": "Varese", "homeLogo": "https://media.api-sports.io/basketball/teams/701.png", "awayLogo": "https://media.api-sports.io/basketball/teams/730.png", "homeId": 701, "awayId": 730, "venue": "Pala Shark", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458237, "date": "2025-12-29T20:00:00+01:00", "time": "20:00", "home": "Olimpia Milano", "away": "Cremona", "homeLogo": "https://media.api-sports.io/basketball/teams/722.png", "awayLogo": "https://media.api-sports.io/basketball/teams/720.png", "homeId": 722, "awayId": 720, "venue": "Unipol Forum", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458236, "date": "2025-12-29T20:30:00+01:00", "time": "20:30", "home": "Trieste", "away": "Virtus Bologna", "homeLogo": "https://media.api-sports.io/basketball/teams/729.png", "awayLogo": "https://media.api-sports.io/basketball/teams/732.png", "homeId": 729, "awayId": 732, "venue": "PalaTrieste", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458238, "date": "2026-01-03T18:15:00+01:00", "time": "18:15", "home": "Varese", "away": "Basket Napoli", "homeLogo": "https://media.api-sports.io/basketball/teams/730.png", "awayLogo": "https://media.api-sports.io/basketball/teams/690.png", "homeId": 730, "awayId": 690, "venue": "Palasport Lino Oldrini", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458241, "date": "2026-01-04T16:00:00+01:00", "time": "16:00", "home": "Sassari", "away": "Brescia", "homeLogo": "https://media.api-sports.io/basketball/teams/726.png", "awayLogo": "https://media.api-sports.io/basketball/teams/717.png", "homeId": 726, "awayId": 717, "venue": "Palasport Roberta Serradimigni", "status": "AOT", "broadcasters": ["dazn-italy"]}, {"id": 458242, "date": "2026-01-04T17:00:00+01:00", "time": "17:00", "home": "Trento", "away": "Trieste", "homeLogo": "https://media.api-sports.io/basketball/teams/727.png", "awayLogo": "https://media.api-sports.io/basketball/teams/729.png", "homeId": 727, "awayId": 729, "venue": "BLM Group Arena", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458244, "date": "2026-01-04T17:30:00+01:00", "time": "17:30", "home": "Cremona", "away": "Reggiana", "homeLogo": "https://media.api-sports.io/basketball/teams/720.png", "awayLogo": "https://media.api-sports.io/basketball/teams/725.png", "homeId": 720, "awayId": 725, "venue": "PalaRadi", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458243, "date": "2026-01-04T18:00:00+01:00", "time": "18:00", "home": "Olimpia Milano", "away": "Udine", "homeLogo": "https://media.api-sports.io/basketball/teams/722.png", "awayLogo": "https://media.api-sports.io/basketball/teams/714.png", "homeId": 722, "awayId": 714, "venue": "Unipol Forum", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458245, "date": "2026-01-04T19:00:00+01:00", "time": "19:00", "home": "Cantu", "away": "Tortona", "homeLogo": "https://media.api-sports.io/basketball/teams/719.png", "awayLogo": "https://media.api-sports.io/basketball/teams/700.png", "homeId": 719, "awayId": 700, "venue": "PalaFitLineDesio", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458239, "date": "2026-01-04T20:00:00+01:00", "time": "20:00", "home": "Virtus Bologna", "away": "Trapani", "homeLogo": "https://media.api-sports.io/basketball/teams/732.png", "awayLogo": "https://media.api-sports.io/basketball/teams/701.png", "homeId": 732, "awayId": 701, "venue": "Segafredo Arena", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458240, "date": "2026-01-05T20:00:00+01:00", "time": "20:00", "home": "Venezia", "away": "Treviso", "homeLogo": "https://media.api-sports.io/basketball/teams/731.png", "awayLogo": "https://media.api-sports.io/basketball/teams/728.png", "homeId": 731, "awayId": 728, "venue": "Palasport Giuseppe Taliercio", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458248, "date": "2026-01-10T18:00:00+01:00", "time": "18:00", "home": "Reggiana", "away": "Sassari", "homeLogo": "https://media.api-sports.io/basketball/teams/725.png", "awayLogo": "https://media.api-sports.io/basketball/teams/726.png", "homeId": 725, "awayId": 726, "venue": "PalaBigi", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458249, "date": "2026-01-10T20:00:00+01:00", "time": "20:00", "home": "Trapani", "away": "Trento", "homeLogo": "https://media.api-sports.io/basketball/teams/701.png", "awayLogo": "https://media.api-sports.io/basketball/teams/727.png", "homeId": 701, "awayId": 727, "venue": "Pala Shark", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458250, "date": "2026-01-11T16:00:00+01:00", "time": "16:00", "home": "Treviso", "away": "Varese", "homeLogo": "https://media.api-sports.io/basketball/teams/728.png", "awayLogo": "https://media.api-sports.io/basketball/teams/730.png", "homeId": 728, "awayId": 730, "venue": "PalaVerde", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458251, "date": "2026-01-11T17:00:00+01:00", "time": "17:00", "home": "Trieste", "away": "Cantu", "homeLogo": "https://media.api-sports.io/basketball/teams/729.png", "awayLogo": "https://media.api-sports.io/basketball/teams/719.png", "homeId": 729, "awayId": 719, "venue": "PalaTrieste", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458252, "date": "2026-01-11T18:00:00+01:00", "time": "18:00", "home": "Udine", "away": "Cremona", "homeLogo": "https://media.api-sports.io/basketball/teams/714.png", "awayLogo": "https://media.api-sports.io/basketball/teams/720.png", "homeId": 714, "awayId": 720, "venue": "PalaCarnera", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458253, "date": "2026-01-11T18:30:00+01:00", "time": "18:30", "home": "Venezia", "away": "Virtus Bologna", "homeLogo": "https://media.api-sports.io/basketball/teams/731.png", "awayLogo": "https://media.api-sports.io/basketball/teams/732.png", "homeId": 731, "awayId": 732, "venue": "Palasport Giuseppe Taliercio", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458247, "date": "2026-01-11T19:00:00+01:00", "time": "19:00", "home": "Brescia", "away": "Tortona", "homeLogo": "https://media.api-sports.io/basketball/teams/717.png", "awayLogo": "https://media.api-sports.io/basketball/teams/700.png", "homeId": 717, "awayId": 700, "venue": "PalaLeonessa", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458246, "date": "2026-01-12T18:45:00+01:00", "time": "18:45", "home": "Basket Napoli", "away": "Olimpia Milano", "homeLogo": "https://media.api-sports.io/basketball/teams/690.png", "awayLogo": "https://media.api-sports.io/basketball/teams/722.png", "homeId": 690, "awayId": 722, "venue": "PalaBarbuto", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458259, "date": "2026-01-17T18:45:00+01:00", "time": "18:45", "home": "Tortona", "away": "Olimpia Milano", "homeLogo": "https://media.api-sports.io/basketball/teams/700.png", "awayLogo": "https://media.api-sports.io/basketball/teams/722.png", "homeId": 700, "awayId": 722, "venue": "Unknown", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458258, "date": "2026-01-17T20:00:00+01:00", "time": "20:00", "home": "Trento", "away": "Cremona", "homeLogo": "https://media.api-sports.io/basketball/teams/727.png", "awayLogo": "https://media.api-sports.io/basketball/teams/720.png", "homeId": 727, "awayId": 720, "venue": "Unknown", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458256, "date": "2026-01-18T16:00:00+01:00", "time": "16:00", "home": "Varese", "away": "Venezia", "homeLogo": "https://media.api-sports.io/basketball/teams/730.png", "awayLogo": "https://media.api-sports.io/basketball/teams/731.png", "homeId": 730, "awayId": 731, "venue": "Unknown", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458260, "date": "2026-01-18T17:00:00+01:00", "time": "17:00", "home": "Sassari", "away": "Basket Napoli", "homeLogo": "https://media.api-sports.io/basketball/teams/726.png", "awayLogo": "https://media.api-sports.io/basketball/teams/690.png", "homeId": 726, "awayId": 690, "venue": "Unknown", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458254, "date": "2026-01-18T18:00:00+01:00", "time": "18:00", "home": "Udine", "away": "Reggiana", "homeLogo": "https://media.api-sports.io/basketball/teams/714.png", "awayLogo": "https://media.api-sports.io/basketball/teams/725.png", "homeId": 714, "awayId": 725, "venue": "Unknown", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458255, "date": "2026-01-18T19:00:00+01:00", "time": "19:00", "home": "Virtus Bologna", "away": "Treviso", "homeLogo": "https://media.api-sports.io/basketball/teams/732.png", "awayLogo": "https://media.api-sports.io/basketball/teams/728.png", "homeId": 732, "awayId": 728, "venue": "Unknown", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458257, "date": "2026-01-18T20:00:00+01:00", "time": "20:00", "home": "Cantu", "away": "Brescia", "homeLogo": "https://media.api-sports.io/basketball/teams/719.png", "awayLogo": "https://media.api-sports.io/basketball/teams/717.png", "homeId": 719, "awayId": 717, "venue": "Unknown", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458269, "date": "2026-01-24T18:15:00+01:00", "time": "18:15", "home": "Basket Napoli", "away": "Tortona", "homeLogo": "https://media.api-sports.io/basketball/teams/690.png", "awayLogo": "https://media.api-sports.io/basketball/teams/700.png", "homeId": 690, "awayId": 700, "venue": "PalaBarbuto", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458263, "date": "2026-01-24T20:00:00+01:00", "time": "20:00", "home": "Trieste", "away": "Sassari", "homeLogo": "https://media.api-sports.io/basketball/teams/729.png", "awayLogo": "https://media.api-sports.io/basketball/teams/726.png", "homeId": 729, "awayId": 726, "venue": "PalaTrieste", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458264, "date": "2026-01-25T17:00:00+01:00", "time": "17:00", "home": "Treviso", "away": "Trento", "homeLogo": "https://media.api-sports.io/basketball/teams/728.png", "awayLogo": "https://media.api-sports.io/basketball/teams/727.png", "homeId": 728, "awayId": 727, "venue": "PalaVerde", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458262, "date": "2026-01-25T18:00:00+01:00", "time": "18:00", "home": "Reggiana", "away": "Cantu", "homeLogo": "https://media.api-sports.io/basketball/teams/725.png", "awayLogo": "https://media.api-sports.io/basketball/teams/719.png", "homeId": 725, "awayId": 719, "venue": "PalaBigi", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458268, "date": "2026-01-25T19:00:00+01:00", "time": "19:00", "home": "Brescia", "away": "Udine", "homeLogo": "https://media.api-sports.io/basketball/teams/717.png", "awayLogo": "https://media.api-sports.io/basketball/teams/714.png", "homeId": 717, "awayId": 714, "venue": "PalaLeonessa", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458266, "date": "2026-01-26T20:00:00+01:00", "time": "20:00", "home": "Olimpia Milano", "away": "Varese", "homeLogo": "https://media.api-sports.io/basketball/teams/722.png", "awayLogo": "https://media.api-sports.io/basketball/teams/730.png", "homeId": 722, "awayId": 730, "venue": "Unipol Forum", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458267, "date": "2026-01-26T20:30:00+01:00", "time": "20:30", "home": "Cremona", "away": "Virtus Bologna", "homeLogo": "https://media.api-sports.io/basketball/teams/720.png", "awayLogo": "https://media.api-sports.io/basketball/teams/732.png", "homeId": 720, "awayId": 732, "venue": "PalaRadi", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458273, "date": "2026-01-31T18:15:00+01:00", "time": "18:15", "home": "Tortona", "away": "Udine", "homeLogo": "https://media.api-sports.io/basketball/teams/700.png", "awayLogo": "https://media.api-sports.io/basketball/teams/714.png", "homeId": 700, "awayId": 714, "venue": "PalaFerraris", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458270, "date": "2026-01-31T20:00:00+01:00", "time": "20:00", "home": "Cantu", "away": "Venezia", "homeLogo": "https://media.api-sports.io/basketball/teams/719.png", "awayLogo": "https://media.api-sports.io/basketball/teams/731.png", "homeId": 719, "awayId": 731, "venue": "PalaFitLineDesio", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458271, "date": "2026-02-01T16:00:00+01:00", "time": "16:00", "home": "Olimpia Milano", "away": "Brescia", "homeLogo": "https://media.api-sports.io/basketball/teams/722.png", "awayLogo": "https://media.api-sports.io/basketball/teams/717.png", "homeId": 722, "awayId": 717, "venue": "Allianz Cloud", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458272, "date": "2026-02-01T16:30:00+01:00", "time": "16:30", "home": "Sassari", "away": "Cremona", "homeLogo": "https://media.api-sports.io/basketball/teams/726.png", "awayLogo": "https://media.api-sports.io/basketball/teams/720.png", "homeId": 726, "awayId": 720, "venue": "Palasport Roberta Serradimigni", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458275, "date": "2026-02-01T17:00:00+01:00", "time": "17:00", "home": "Trieste", "away": "Treviso", "homeLogo": "https://media.api-sports.io/basketball/teams/729.png", "awayLogo": "https://media.api-sports.io/basketball/teams/728.png", "homeId": 729, "awayId": 728, "venue": "PalaTrieste", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458276, "date": "2026-02-01T18:00:00+01:00", "time": "18:00", "home": "Varese", "away": "Reggiana", "homeLogo": "https://media.api-sports.io/basketball/teams/730.png", "awayLogo": "https://media.api-sports.io/basketball/teams/725.png", "homeId": 730, "awayId": 725, "venue": "Palasport Lino Oldrini", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458277, "date": "2026-02-01T19:00:00+01:00", "time": "19:00", "home": "Virtus Bologna", "away": "Trento", "homeLogo": "https://media.api-sports.io/basketball/teams/732.png", "awayLogo": "https://media.api-sports.io/basketball/teams/727.png", "homeId": 732, "awayId": 727, "venue": "Segafredo Arena", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458283, "date": "2026-02-07T19:30:00+01:00", "time": "19:30", "home": "Cremona", "away": "Cantu", "homeLogo": "https://media.api-sports.io/basketball/teams/720.png", "awayLogo": "https://media.api-sports.io/basketball/teams/719.png", "homeId": 720, "awayId": 719, "venue": "PalaRadi", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458285, "date": "2026-02-08T16:00:00+01:00", "time": "16:00", "home": "Basket Napoli", "away": "Venezia", "homeLogo": "https://media.api-sports.io/basketball/teams/690.png", "awayLogo": "https://media.api-sports.io/basketball/teams/731.png", "homeId": 690, "awayId": 731, "venue": "PalaBarbuto", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458280, "date": "2026-02-08T17:00:00+01:00", "time": "17:00", "home": "Trento", "away": "Varese", "homeLogo": "https://media.api-sports.io/basketball/teams/727.png", "awayLogo": "https://media.api-sports.io/basketball/teams/730.png", "homeId": 727, "awayId": 730, "venue": "BLM Group Arena", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458278, "date": "2026-02-08T17:30:00+01:00", "time": "17:30", "home": "Tortona", "away": "Trieste", "homeLogo": "https://media.api-sports.io/basketball/teams/700.png", "awayLogo": "https://media.api-sports.io/basketball/teams/729.png", "homeId": 700, "awayId": 729, "venue": "PalaFerraris", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458281, "date": "2026-02-08T18:00:00+01:00", "time": "18:00", "home": "Udine", "away": "Sassari", "homeLogo": "https://media.api-sports.io/basketball/teams/714.png", "awayLogo": "https://media.api-sports.io/basketball/teams/726.png", "homeId": 714, "awayId": 726, "venue": "PalaCarnera", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458284, "date": "2026-02-09T20:00:00+01:00", "time": "20:00", "home": "Brescia", "away": "Virtus Bologna", "homeLogo": "https://media.api-sports.io/basketball/teams/717.png", "awayLogo": "https://media.api-sports.io/basketball/teams/732.png", "homeId": 717, "awayId": 732, "venue": "PalaLeonessa", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458279, "date": "2026-02-09T20:30:00+01:00", "time": "20:30", "home": "Treviso", "away": "Olimpia Milano", "homeLogo": "https://media.api-sports.io/basketball/teams/728.png", "awayLogo": "https://media.api-sports.io/basketball/teams/722.png", "homeId": 728, "awayId": 722, "venue": "PalaVerde", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458291, "date": "2026-02-14T18:15:00+01:00", "time": "18:15", "home": "Varese", "away": "Brescia", "homeLogo": "https://media.api-sports.io/basketball/teams/730.png", "awayLogo": "https://media.api-sports.io/basketball/teams/717.png", "homeId": 730, "awayId": 717, "venue": "Palasport Lino Oldrini", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458290, "date": "2026-02-14T20:00:00+01:00", "time": "20:00", "home": "Trieste", "away": "Basket Napoli", "homeLogo": "https://media.api-sports.io/basketball/teams/729.png", "awayLogo": "https://media.api-sports.io/basketball/teams/690.png", "homeId": 729, "awayId": 690, "venue": "PalaTrieste", "status": "FT", "broadcasters": ["dazn-italy"]}, {"id": 458288, "date": "2026-02-15T16:00:00+01:00", "time": "16:00", "home": "Sassari", "away": "Tortona", "homeLogo": "https://media.api-sports.io/basketball/teams/726.png", "awayLogo": "https://media.api-sports.io/basketball/teams/700.png", "homeId": 726, "awayId": 700, "venue": "Palasport Roberta Serradimigni", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458292, "date": "2026-02-15T17:00:00+01:00", "time": "17:00", "home": "Venezia", "away": "Reggiana", "homeLogo": "https://media.api-sports.io/basketball/teams/731.png", "awayLogo": "https://media.api-sports.io/basketball/teams/725.png", "homeId": 731, "awayId": 725, "venue": "Palasport Giuseppe Taliercio", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458286, "date": "2026-02-15T18:00:00+01:00", "time": "18:00", "home": "Cantu", "away": "Trento", "homeLogo": "https://media.api-sports.io/basketball/teams/719.png", "awayLogo": "https://media.api-sports.io/basketball/teams/727.png", "homeId": 719, "awayId": 727, "venue": "PalaFitLineDesio", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458293, "date": "2026-02-15T18:30:00+01:00", "time": "18:30", "home": "Virtus Bologna", "away": "Udine", "homeLogo": "https://media.api-sports.io/basketball/teams/732.png", "awayLogo": "https://media.api-sports.io/basketball/teams/714.png", "homeId": 732, "awayId": 714, "venue": "Segafredo Arena", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458287, "date": "2026-02-15T20:00:00+01:00", "time": "20:00", "home": "Cremona", "away": "Olimpia Milano", "homeLogo": "https://media.api-sports.io/basketball/teams/720.png", "awayLogo": "https://media.api-sports.io/basketball/teams/722.png", "homeId": 720, "awayId": 722, "venue": "PalaRadi", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458296, "date": "2026-03-07T19:30:00+01:00", "time": "19:30", "home": "Trento", "away": "Sassari", "homeLogo": "https://media.api-sports.io/basketball/teams/727.png", "awayLogo": "https://media.api-sports.io/basketball/teams/726.png", "homeId": 727, "awayId": 726, "venue": "BLM Group Arena", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458298, "date": "2026-03-07T20:00:00+01:00", "time": "20:00", "home": "Reggiana", "away": "Trieste", "homeLogo": "https://media.api-sports.io/basketball/teams/725.png", "awayLogo": "https://media.api-sports.io/basketball/teams/729.png", "homeId": 725, "awayId": 729, "venue": "PalaBigi", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458300, "date": "2026-03-07T20:30:00+01:00", "time": "20:30", "home": "Basket Napoli", "away": "Virtus Bologna", "homeLogo": "https://media.api-sports.io/basketball/teams/690.png", "awayLogo": "https://media.api-sports.io/basketball/teams/732.png", "homeId": 690, "awayId": 732, "venue": "PalaBarbuto", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458295, "date": "2026-03-08T17:00:00+01:00", "time": "17:00", "home": "Treviso", "away": "Venezia", "homeLogo": "https://media.api-sports.io/basketball/teams/728.png", "awayLogo": "https://media.api-sports.io/basketball/teams/731.png", "homeId": 728, "awayId": 731, "venue": "PalaVerde", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458294, "date": "2026-03-08T17:30:00+01:00", "time": "17:30", "home": "Udine", "away": "Varese", "homeLogo": "https://media.api-sports.io/basketball/teams/714.png", "awayLogo": "https://media.api-sports.io/basketball/teams/730.png", "homeId": 714, "awayId": 730, "venue": "PalaCarnera", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458297, "date": "2026-03-08T18:00:00+01:00", "time": "18:00", "home": "Tortona", "away": "Cremona", "homeLogo": "https://media.api-sports.io/basketball/teams/700.png", "awayLogo": "https://media.api-sports.io/basketball/teams/720.png", "homeId": 700, "awayId": 720, "venue": "PalaFerraris", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458301, "date": "2026-03-09T20:00:00+01:00", "time": "20:00", "home": "Olimpia Milano", "away": "Cantu", "homeLogo": "https://media.api-sports.io/basketball/teams/722.png", "awayLogo": "https://media.api-sports.io/basketball/teams/719.png", "homeId": 722, "awayId": 719, "venue": "Unknown", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458302, "date": "2026-03-15T20:00:00+01:00", "time": "20:00", "home": "Cantu", "away": "Basket Napoli", "homeLogo": "https://media.api-sports.io/basketball/teams/719.png", "awayLogo": "https://media.api-sports.io/basketball/teams/690.png", "homeId": 719, "awayId": 690, "venue": "PalaFitLineDesio", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458303, "date": "2026-03-15T20:00:00+01:00", "time": "20:00", "home": "Cremona", "away": "Brescia", "homeLogo": "https://media.api-sports.io/basketball/teams/720.png", "awayLogo": "https://media.api-sports.io/basketball/teams/717.png", "homeId": 720, "awayId": 717, "venue": "PalaRadi", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458304, "date": "2026-03-15T20:00:00+01:00", "time": "20:00", "home": "Sassari", "away": "Reggiana", "homeLogo": "https://media.api-sports.io/basketball/teams/726.png", "awayLogo": "https://media.api-sports.io/basketball/teams/725.png", "homeId": 726, "awayId": 725, "venue": "Palasport Roberta Serradimigni", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458306, "date": "2026-03-15T20:00:00+01:00", "time": "20:00", "home": "Trieste", "away": "Trento", "homeLogo": "https://media.api-sports.io/basketball/teams/729.png", "awayLogo": "https://media.api-sports.io/basketball/teams/727.png", "homeId": 729, "awayId": 727, "venue": "PalaTrieste", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458307, "date": "2026-03-15T20:00:00+01:00", "time": "20:00", "home": "Varese", "away": "Treviso", "homeLogo": "https://media.api-sports.io/basketball/teams/730.png", "awayLogo": "https://media.api-sports.io/basketball/teams/728.png", "homeId": 730, "awayId": 728, "venue": "Palasport Lino Oldrini", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458308, "date": "2026-03-15T20:00:00+01:00", "time": "20:00", "home": "Venezia", "away": "Udine", "homeLogo": "https://media.api-sports.io/basketball/teams/731.png", "awayLogo": "https://media.api-sports.io/basketball/teams/714.png", "homeId": 731, "awayId": 714, "venue": "Palasport Giuseppe Taliercio", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458309, "date": "2026-03-15T20:00:00+01:00", "time": "20:00", "home": "Virtus Bologna", "away": "Olimpia Milano", "homeLogo": "https://media.api-sports.io/basketball/teams/732.png", "awayLogo": "https://media.api-sports.io/basketball/teams/722.png", "homeId": 732, "awayId": 722, "venue": "Segafredo Arena", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458311, "date": "2026-03-22T20:00:00+01:00", "time": "20:00", "home": "Trento", "away": "Brescia", "homeLogo": "https://media.api-sports.io/basketball/teams/727.png", "awayLogo": "https://media.api-sports.io/basketball/teams/717.png", "homeId": 727, "awayId": 717, "venue": "BLM Group Arena", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458312, "date": "2026-03-22T20:00:00+01:00", "time": "20:00", "home": "Treviso", "away": "Cremona", "homeLogo": "https://media.api-sports.io/basketball/teams/728.png", "awayLogo": "https://media.api-sports.io/basketball/teams/720.png", "homeId": 728, "awayId": 720, "venue": "PalaVerde", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458313, "date": "2026-03-22T20:00:00+01:00", "time": "20:00", "home": "Trieste", "away": "Venezia", "homeLogo": "https://media.api-sports.io/basketball/teams/729.png", "awayLogo": "https://media.api-sports.io/basketball/teams/731.png", "homeId": 729, "awayId": 731, "venue": "PalaTrieste", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458314, "date": "2026-03-22T20:00:00+01:00", "time": "20:00", "home": "Tortona", "away": "Cantu", "homeLogo": "https://media.api-sports.io/basketball/teams/700.png", "awayLogo": "https://media.api-sports.io/basketball/teams/719.png", "homeId": 700, "awayId": 719, "venue": "PalaFerraris", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458315, "date": "2026-03-22T20:00:00+01:00", "time": "20:00", "home": "Basket Napoli", "away": "Varese", "homeLogo": "https://media.api-sports.io/basketball/teams/690.png", "awayLogo": "https://media.api-sports.io/basketball/teams/730.png", "homeId": 690, "awayId": 730, "venue": "PalaBarbuto", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458316, "date": "2026-03-22T20:00:00+01:00", "time": "20:00", "home": "Reggiana", "away": "Virtus Bologna", "homeLogo": "https://media.api-sports.io/basketball/teams/725.png", "awayLogo": "https://media.api-sports.io/basketball/teams/732.png", "homeId": 725, "awayId": 732, "venue": "PalaBigi", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458317, "date": "2026-03-22T20:00:00+01:00", "time": "20:00", "home": "Olimpia Milano", "away": "Sassari", "homeLogo": "https://media.api-sports.io/basketball/teams/722.png", "awayLogo": "https://media.api-sports.io/basketball/teams/726.png", "homeId": 722, "awayId": 726, "venue": "Unknown", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458318, "date": "2026-03-29T20:00:00+02:00", "time": "20:00", "home": "Cantu", "away": "Trieste", "homeLogo": "https://media.api-sports.io/basketball/teams/719.png", "awayLogo": "https://media.api-sports.io/basketball/teams/729.png", "homeId": 719, "awayId": 729, "venue": "PalaFitLineDesio", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458319, "date": "2026-03-29T20:00:00+02:00", "time": "20:00", "home": "Cremona", "away": "Basket Napoli", "homeLogo": "https://media.api-sports.io/basketball/teams/720.png", "awayLogo": "https://media.api-sports.io/basketball/teams/690.png", "homeId": 720, "awayId": 690, "venue": "PalaRadi", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458320, "date": "2026-03-29T20:00:00+02:00", "time": "20:00", "home": "Sassari", "away": "Treviso", "homeLogo": "https://media.api-sports.io/basketball/teams/726.png", "awayLogo": "https://media.api-sports.io/basketball/teams/728.png", "homeId": 726, "awayId": 728, "venue": "Palasport Roberta Serradimigni", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458322, "date": "2026-03-29T20:00:00+02:00", "time": "20:00", "home": "Udine", "away": "Olimpia Milano", "homeLogo": "https://media.api-sports.io/basketball/teams/714.png", "awayLogo": "https://media.api-sports.io/basketball/teams/722.png", "homeId": 714, "awayId": 722, "venue": "PalaCarnera", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458323, "date": "2026-03-29T20:00:00+02:00", "time": "20:00", "home": "Varese", "away": "Tortona", "homeLogo": "https://media.api-sports.io/basketball/teams/730.png", "awayLogo": "https://media.api-sports.io/basketball/teams/700.png", "homeId": 730, "awayId": 700, "venue": "Palasport Lino Oldrini", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458324, "date": "2026-03-29T20:00:00+02:00", "time": "20:00", "home": "Venezia", "away": "Trento", "homeLogo": "https://media.api-sports.io/basketball/teams/731.png", "awayLogo": "https://media.api-sports.io/basketball/teams/727.png", "homeId": 731, "awayId": 727, "venue": "Palasport Giuseppe Taliercio", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458325, "date": "2026-03-29T20:00:00+02:00", "time": "20:00", "home": "Brescia", "away": "Reggiana", "homeLogo": "https://media.api-sports.io/basketball/teams/717.png", "awayLogo": "https://media.api-sports.io/basketball/teams/725.png", "homeId": 717, "awayId": 725, "venue": "PalaLeonessa", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458327, "date": "2026-04-04T20:00:00+02:00", "time": "20:00", "home": "Virtus Bologna", "away": "Venezia", "homeLogo": "https://media.api-sports.io/basketball/teams/732.png", "awayLogo": "https://media.api-sports.io/basketball/teams/731.png", "homeId": 732, "awayId": 731, "venue": "Segafredo Arena", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458328, "date": "2026-04-04T20:00:00+02:00", "time": "20:00", "home": "Trieste", "away": "Varese", "homeLogo": "https://media.api-sports.io/basketball/teams/729.png", "awayLogo": "https://media.api-sports.io/basketball/teams/730.png", "homeId": 729, "awayId": 730, "venue": "PalaTrieste", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458329, "date": "2026-04-04T20:00:00+02:00", "time": "20:00", "home": "Treviso", "away": "Tortona", "homeLogo": "https://media.api-sports.io/basketball/teams/728.png", "awayLogo": "https://media.api-sports.io/basketball/teams/700.png", "homeId": 728, "awayId": 700, "venue": "PalaVerde", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458330, "date": "2026-04-04T20:00:00+02:00", "time": "20:00", "home": "Cremona", "away": "Udine", "homeLogo": "https://media.api-sports.io/basketball/teams/720.png", "awayLogo": "https://media.api-sports.io/basketball/teams/714.png", "homeId": 720, "awayId": 714, "venue": "PalaRadi", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458331, "date": "2026-04-04T20:00:00+02:00", "time": "20:00", "home": "Cantu", "away": "Sassari", "homeLogo": "https://media.api-sports.io/basketball/teams/719.png", "awayLogo": "https://media.api-sports.io/basketball/teams/726.png", "homeId": 719, "awayId": 726, "venue": "PalaFitLineDesio", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458332, "date": "2026-04-04T20:00:00+02:00", "time": "20:00", "home": "Brescia", "away": "Basket Napoli", "homeLogo": "https://media.api-sports.io/basketball/teams/717.png", "awayLogo": "https://media.api-sports.io/basketball/teams/690.png", "homeId": 717, "awayId": 690, "venue": "PalaLeonessa", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458333, "date": "2026-04-04T20:00:00+02:00", "time": "20:00", "home": "Olimpia Milano", "away": "Reggiana", "homeLogo": "https://media.api-sports.io/basketball/teams/722.png", "awayLogo": "https://media.api-sports.io/basketball/teams/725.png", "homeId": 722, "awayId": 725, "venue": "Unipol Forum", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458334, "date": "2026-04-12T20:00:00+02:00", "time": "20:00", "home": "Basket Napoli", "away": "Treviso", "homeLogo": "https://media.api-sports.io/basketball/teams/690.png", "awayLogo": "https://media.api-sports.io/basketball/teams/728.png", "homeId": 690, "awayId": 728, "venue": "PalaBarbuto", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458335, "date": "2026-04-12T20:00:00+02:00", "time": "20:00", "home": "Reggiana", "away": "Cremona", "homeLogo": "https://media.api-sports.io/basketball/teams/725.png", "awayLogo": "https://media.api-sports.io/basketball/teams/720.png", "homeId": 725, "awayId": 720, "venue": "PalaBigi", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458336, "date": "2026-04-12T20:00:00+02:00", "time": "20:00", "home": "Tortona", "away": "Trento", "homeLogo": "https://media.api-sports.io/basketball/teams/700.png", "awayLogo": "https://media.api-sports.io/basketball/teams/727.png", "homeId": 700, "awayId": 727, "venue": "PalaFerraris", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458338, "date": "2026-04-12T20:00:00+02:00", "time": "20:00", "home": "Udine", "away": "Trieste", "homeLogo": "https://media.api-sports.io/basketball/teams/714.png", "awayLogo": "https://media.api-sports.io/basketball/teams/729.png", "homeId": 714, "awayId": 729, "venue": "PalaCarnera", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458339, "date": "2026-04-12T20:00:00+02:00", "time": "20:00", "home": "Varese", "away": "Sassari", "homeLogo": "https://media.api-sports.io/basketball/teams/730.png", "awayLogo": "https://media.api-sports.io/basketball/teams/726.png", "homeId": 730, "awayId": 726, "venue": "Palasport Lino Oldrini", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458340, "date": "2026-04-12T20:00:00+02:00", "time": "20:00", "home": "Venezia", "away": "Brescia", "homeLogo": "https://media.api-sports.io/basketball/teams/731.png", "awayLogo": "https://media.api-sports.io/basketball/teams/717.png", "homeId": 731, "awayId": 717, "venue": "Palasport Giuseppe Taliercio", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458341, "date": "2026-04-12T20:00:00+02:00", "time": "20:00", "home": "Virtus Bologna", "away": "Cantu", "homeLogo": "https://media.api-sports.io/basketball/teams/732.png", "awayLogo": "https://media.api-sports.io/basketball/teams/719.png", "homeId": 732, "awayId": 719, "venue": "Segafredo Arena", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458342, "date": "2026-04-19T20:00:00+02:00", "time": "20:00", "home": "Trento", "away": "Reggiana", "homeLogo": "https://media.api-sports.io/basketball/teams/727.png", "awayLogo": "https://media.api-sports.io/basketball/teams/725.png", "homeId": 727, "awayId": 725, "venue": "BLM Group Arena", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458343, "date": "2026-04-19T20:00:00+02:00", "time": "20:00", "home": "Trieste", "away": "Brescia", "homeLogo": "https://media.api-sports.io/basketball/teams/729.png", "awayLogo": "https://media.api-sports.io/basketball/teams/717.png", "homeId": 729, "awayId": 717, "venue": "PalaTrieste", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458344, "date": "2026-04-19T20:00:00+02:00", "time": "20:00", "home": "Treviso", "away": "Udine", "homeLogo": "https://media.api-sports.io/basketball/teams/728.png", "awayLogo": "https://media.api-sports.io/basketball/teams/714.png", "homeId": 728, "awayId": 714, "venue": "PalaVerde", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458345, "date": "2026-04-19T20:00:00+02:00", "time": "20:00", "home": "Olimpia Milano", "away": "Basket Napoli", "homeLogo": "https://media.api-sports.io/basketball/teams/722.png", "awayLogo": "https://media.api-sports.io/basketball/teams/690.png", "homeId": 722, "awayId": 690, "venue": "Unipol Forum", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458346, "date": "2026-04-19T20:00:00+02:00", "time": "20:00", "home": "Tortona", "away": "Virtus Bologna", "homeLogo": "https://media.api-sports.io/basketball/teams/700.png", "awayLogo": "https://media.api-sports.io/basketball/teams/732.png", "homeId": 700, "awayId": 732, "venue": "PalaFerraris", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458348, "date": "2026-04-19T20:00:00+02:00", "time": "20:00", "home": "Cantu", "away": "Varese", "homeLogo": "https://media.api-sports.io/basketball/teams/719.png", "awayLogo": "https://media.api-sports.io/basketball/teams/730.png", "homeId": 719, "awayId": 730, "venue": "PalaFitLineDesio", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458349, "date": "2026-04-19T20:00:00+02:00", "time": "20:00", "home": "Sassari", "away": "Venezia", "homeLogo": "https://media.api-sports.io/basketball/teams/726.png", "awayLogo": "https://media.api-sports.io/basketball/teams/731.png", "homeId": 726, "awayId": 731, "venue": "Palasport Roberta Serradimigni", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458350, "date": "2026-04-26T20:00:00+02:00", "time": "20:00", "home": "Basket Napoli", "away": "Trento", "homeLogo": "https://media.api-sports.io/basketball/teams/690.png", "awayLogo": "https://media.api-sports.io/basketball/teams/727.png", "homeId": 690, "awayId": 727, "venue": "PalaBarbuto", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458351, "date": "2026-04-26T20:00:00+02:00", "time": "20:00", "home": "Brescia", "away": "Treviso", "homeLogo": "https://media.api-sports.io/basketball/teams/717.png", "awayLogo": "https://media.api-sports.io/basketball/teams/728.png", "homeId": 717, "awayId": 728, "venue": "PalaLeonessa", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458352, "date": "2026-04-26T20:00:00+02:00", "time": "20:00", "home": "Reggiana", "away": "Tortona", "homeLogo": "https://media.api-sports.io/basketball/teams/725.png", "awayLogo": "https://media.api-sports.io/basketball/teams/700.png", "homeId": 725, "awayId": 700, "venue": "PalaBigi", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458354, "date": "2026-04-26T20:00:00+02:00", "time": "20:00", "home": "Udine", "away": "Cantu", "homeLogo": "https://media.api-sports.io/basketball/teams/714.png", "awayLogo": "https://media.api-sports.io/basketball/teams/719.png", "homeId": 714, "awayId": 719, "venue": "PalaCarnera", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458355, "date": "2026-04-26T20:00:00+02:00", "time": "20:00", "home": "Varese", "away": "Cremona", "homeLogo": "https://media.api-sports.io/basketball/teams/730.png", "awayLogo": "https://media.api-sports.io/basketball/teams/720.png", "homeId": 730, "awayId": 720, "venue": "Palasport Lino Oldrini", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458356, "date": "2026-04-26T20:00:00+02:00", "time": "20:00", "home": "Venezia", "away": "Olimpia Milano", "homeLogo": "https://media.api-sports.io/basketball/teams/731.png", "awayLogo": "https://media.api-sports.io/basketball/teams/722.png", "homeId": 731, "awayId": 722, "venue": "Palasport Giuseppe Taliercio", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458357, "date": "2026-04-26T20:00:00+02:00", "time": "20:00", "home": "Virtus Bologna", "away": "Trieste", "homeLogo": "https://media.api-sports.io/basketball/teams/732.png", "awayLogo": "https://media.api-sports.io/basketball/teams/729.png", "homeId": 732, "awayId": 729, "venue": "Segafredo Arena", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458358, "date": "2026-05-03T20:00:00+02:00", "time": "20:00", "home": "Tortona", "away": "Brescia", "homeLogo": "https://media.api-sports.io/basketball/teams/700.png", "awayLogo": "https://media.api-sports.io/basketball/teams/717.png", "homeId": 700, "awayId": 717, "venue": "PalaFerraris", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458360, "date": "2026-05-03T20:00:00+02:00", "time": "20:00", "home": "Udine", "away": "Trento", "homeLogo": "https://media.api-sports.io/basketball/teams/714.png", "awayLogo": "https://media.api-sports.io/basketball/teams/727.png", "homeId": 714, "awayId": 727, "venue": "PalaCarnera", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458361, "date": "2026-05-03T20:00:00+02:00", "time": "20:00", "home": "Olimpia Milano", "away": "Trieste", "homeLogo": "https://media.api-sports.io/basketball/teams/722.png", "awayLogo": "https://media.api-sports.io/basketball/teams/729.png", "homeId": 722, "awayId": 729, "venue": "Unipol Forum", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458362, "date": "2026-05-03T20:00:00+02:00", "time": "20:00", "home": "Sassari", "away": "Virtus Bologna", "homeLogo": "https://media.api-sports.io/basketball/teams/726.png", "awayLogo": "https://media.api-sports.io/basketball/teams/732.png", "homeId": 726, "awayId": 732, "venue": "Palasport Roberta Serradimigni", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458363, "date": "2026-05-03T20:00:00+02:00", "time": "20:00", "home": "Reggiana", "away": "Basket Napoli", "homeLogo": "https://media.api-sports.io/basketball/teams/725.png", "awayLogo": "https://media.api-sports.io/basketball/teams/690.png", "homeId": 725, "awayId": 690, "venue": "PalaBigi", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458364, "date": "2026-05-03T20:00:00+02:00", "time": "20:00", "home": "Cremona", "away": "Venezia", "homeLogo": "https://media.api-sports.io/basketball/teams/720.png", "awayLogo": "https://media.api-sports.io/basketball/teams/731.png", "homeId": 720, "awayId": 731, "venue": "PalaRadi", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458365, "date": "2026-05-03T20:00:00+02:00", "time": "20:00", "home": "Cantu", "away": "Treviso", "homeLogo": "https://media.api-sports.io/basketball/teams/719.png", "awayLogo": "https://media.api-sports.io/basketball/teams/728.png", "homeId": 719, "awayId": 728, "venue": "PalaFitLineDesio", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458366, "date": "2026-05-10T20:00:00+02:00", "time": "20:00", "home": "Basket Napoli", "away": "Udine", "homeLogo": "https://media.api-sports.io/basketball/teams/690.png", "awayLogo": "https://media.api-sports.io/basketball/teams/714.png", "homeId": 690, "awayId": 714, "venue": "PalaBarbuto", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458367, "date": "2026-05-10T20:00:00+02:00", "time": "20:00", "home": "Brescia", "away": "Sassari", "homeLogo": "https://media.api-sports.io/basketball/teams/717.png", "awayLogo": "https://media.api-sports.io/basketball/teams/726.png", "homeId": 717, "awayId": 726, "venue": "PalaLeonessa", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458369, "date": "2026-05-10T20:00:00+02:00", "time": "20:00", "home": "Trento", "away": "Olimpia Milano", "homeLogo": "https://media.api-sports.io/basketball/teams/727.png", "awayLogo": "https://media.api-sports.io/basketball/teams/722.png", "homeId": 727, "awayId": 722, "venue": "BLM Group Arena", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458370, "date": "2026-05-10T20:00:00+02:00", "time": "20:00", "home": "Treviso", "away": "Reggiana", "homeLogo": "https://media.api-sports.io/basketball/teams/728.png", "awayLogo": "https://media.api-sports.io/basketball/teams/725.png", "homeId": 728, "awayId": 725, "venue": "PalaVerde", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458371, "date": "2026-05-10T20:00:00+02:00", "time": "20:00", "home": "Trieste", "away": "Cremona", "homeLogo": "https://media.api-sports.io/basketball/teams/729.png", "awayLogo": "https://media.api-sports.io/basketball/teams/720.png", "homeId": 729, "awayId": 720, "venue": "PalaTrieste", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458372, "date": "2026-05-10T20:00:00+02:00", "time": "20:00", "home": "Venezia", "away": "Tortona", "homeLogo": "https://media.api-sports.io/basketball/teams/731.png", "awayLogo": "https://media.api-sports.io/basketball/teams/700.png", "homeId": 731, "awayId": 700, "venue": "Palasport Giuseppe Taliercio", "status": "NS", "broadcasters": ["dazn-italy"]}, {"id": 458373, "date": "2026-05-10T20:00:00+02:00", "time": "20:00", "home": "Virtus Bologna", "away": "Varese", "homeLogo": "https://media.api-sports.io/basketball/teams/732.png", "awayLogo": "https://media.api-sports.io/basketball/teams/730.png", "homeId": 732, "awayId": 730, "venue": "Segafredo Arena", "status": "NS", "broadcasters": ["dazn-italy"]}]}
+{
+  "league": "Lega A",
+  "season": "2025-2026",
+  "updated": "2026-02-14",
+  "total": 225,
+  "matches": [
+    {
+      "id": 458138,
+      "date": "2025-10-04T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Trieste",
+      "away": "Trapani",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/701.png",
+      "homeId": 729,
+      "awayId": 701,
+      "venue": "PalaTrieste",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458134,
+      "date": "2025-10-05T16:00:00+02:00",
+      "time": "16:00",
+      "home": "Olimpia Milano",
+      "away": "Tortona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "homeId": 722,
+      "awayId": 700,
+      "venue": "Unipol Forum",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458141,
+      "date": "2025-10-05T17:00:00+02:00",
+      "time": "17:00",
+      "home": "Reggiana",
+      "away": "Udine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "homeId": 725,
+      "awayId": 714,
+      "venue": "PalaBigi",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458137,
+      "date": "2025-10-05T17:30:00+02:00",
+      "time": "17:30",
+      "home": "Treviso",
+      "away": "Brescia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "homeId": 728,
+      "awayId": 717,
+      "venue": "PalaVerde",
+      "status": "AOT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458136,
+      "date": "2025-10-05T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Trento",
+      "away": "Cantu",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "homeId": 727,
+      "awayId": 719,
+      "venue": "BLM Group Arena",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458139,
+      "date": "2025-10-05T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Venezia",
+      "away": "Cremona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "homeId": 731,
+      "awayId": 720,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458135,
+      "date": "2025-10-05T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Sassari",
+      "away": "Varese",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "homeId": 726,
+      "awayId": 730,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458140,
+      "date": "2025-10-06T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Virtus Bologna",
+      "away": "Basket Napoli",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "homeId": 732,
+      "awayId": 690,
+      "venue": "Segafredo Arena",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458144,
+      "date": "2025-10-11T18:15:00+02:00",
+      "time": "18:15",
+      "home": "Varese",
+      "away": "Olimpia Milano",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "homeId": 730,
+      "awayId": 722,
+      "venue": "Palasport Lino Oldrini",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458142,
+      "date": "2025-10-11T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Brescia",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 717,
+      "awayId": 727,
+      "venue": "PalaLeonessa",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458143,
+      "date": "2025-10-11T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Udine",
+      "away": "Virtus Bologna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "homeId": 714,
+      "awayId": 732,
+      "venue": "PalaCarnera",
+      "status": "AOT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458149,
+      "date": "2025-10-11T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Basket Napoli",
+      "away": "Trieste",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "homeId": 690,
+      "awayId": 729,
+      "venue": "PalaBarbuto",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458148,
+      "date": "2025-10-12T12:00:00+02:00",
+      "time": "12:00",
+      "home": "Cantu",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 719,
+      "awayId": 725,
+      "venue": "PalaFitLineDesio",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458145,
+      "date": "2025-10-12T17:00:00+02:00",
+      "time": "17:00",
+      "home": "Trapani",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/701.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 701,
+      "awayId": 731,
+      "venue": "Pala Shark",
+      "status": "AOT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458147,
+      "date": "2025-10-12T17:30:00+02:00",
+      "time": "17:30",
+      "home": "Cremona",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 720,
+      "awayId": 726,
+      "venue": "PalaRadi",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458146,
+      "date": "2025-10-12T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Tortona",
+      "away": "Treviso",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "homeId": 700,
+      "awayId": 728,
+      "venue": "PalaFerraris",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458156,
+      "date": "2025-10-18T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Venezia",
+      "away": "Trieste",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "homeId": 731,
+      "awayId": 729,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458152,
+      "date": "2025-10-19T12:00:00+02:00",
+      "time": "12:00",
+      "home": "Sassari",
+      "away": "Olimpia Milano",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "homeId": 726,
+      "awayId": 722,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458153,
+      "date": "2025-10-19T16:00:00+02:00",
+      "time": "16:00",
+      "home": "Trento",
+      "away": "Tortona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "homeId": 727,
+      "awayId": 700,
+      "venue": "BLM Group Arena",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458151,
+      "date": "2025-10-19T18:00:00+02:00",
+      "time": "18:00",
+      "home": "Reggiana",
+      "away": "Varese",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "homeId": 725,
+      "awayId": 730,
+      "venue": "PalaBigi",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458150,
+      "date": "2025-10-19T18:30:00+02:00",
+      "time": "18:30",
+      "home": "Cantu",
+      "away": "Trapani",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/701.png",
+      "homeId": 719,
+      "awayId": 701,
+      "venue": "PalaFitLineDesio",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458154,
+      "date": "2025-10-19T19:00:00+02:00",
+      "time": "19:00",
+      "home": "Treviso",
+      "away": "Basket Napoli",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "homeId": 728,
+      "awayId": 690,
+      "venue": "PalaVerde",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458155,
+      "date": "2025-10-19T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Udine",
+      "away": "Brescia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "homeId": 714,
+      "awayId": 717,
+      "venue": "PalaCarnera",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458157,
+      "date": "2025-10-20T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Virtus Bologna",
+      "away": "Cremona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "homeId": 732,
+      "awayId": 720,
+      "venue": "Segafredo Arena",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458160,
+      "date": "2025-10-25T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Varese",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 730,
+      "awayId": 727,
+      "venue": "Palasport Lino Oldrini",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458158,
+      "date": "2025-10-25T20:30:00+02:00",
+      "time": "20:30",
+      "home": "Tortona",
+      "away": "Trapani",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/701.png",
+      "homeId": 700,
+      "awayId": 701,
+      "venue": "PalaFerraris",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458162,
+      "date": "2025-10-26T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Olimpia Milano",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 722,
+      "awayId": 731,
+      "venue": "Unipol Forum",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458164,
+      "date": "2025-10-26T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Brescia",
+      "away": "Cantu",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "homeId": 717,
+      "awayId": 719,
+      "venue": "PalaLeonessa",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458165,
+      "date": "2025-10-26T17:30:00+01:00",
+      "time": "17:30",
+      "home": "Basket Napoli",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 690,
+      "awayId": 725,
+      "venue": "PalaBarbuto",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458161,
+      "date": "2025-10-26T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Trieste",
+      "away": "Udine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "homeId": 729,
+      "awayId": 714,
+      "venue": "PalaTrieste",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458159,
+      "date": "2025-10-26T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Virtus Bologna",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 732,
+      "awayId": 726,
+      "venue": "Segafredo Arena",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458163,
+      "date": "2025-10-26T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Cremona",
+      "away": "Treviso",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "homeId": 720,
+      "awayId": 728,
+      "venue": "PalaRadi",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458168,
+      "date": "2025-11-01T18:15:00+01:00",
+      "time": "18:15",
+      "home": "Sassari",
+      "away": "Udine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "homeId": 726,
+      "awayId": 714,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458171,
+      "date": "2025-11-01T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Trento",
+      "away": "Virtus Bologna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "homeId": 727,
+      "awayId": 732,
+      "venue": "BLM Group Arena",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458172,
+      "date": "2025-11-01T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Treviso",
+      "away": "Trieste",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "homeId": 728,
+      "awayId": 729,
+      "venue": "PalaVerde",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458166,
+      "date": "2025-11-02T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Cantu",
+      "away": "Cremona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "homeId": 719,
+      "awayId": 720,
+      "venue": "PalaFitLineDesio",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458173,
+      "date": "2025-11-02T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Venezia",
+      "away": "Varese",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "homeId": 731,
+      "awayId": 730,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458170,
+      "date": "2025-11-02T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Trapani",
+      "away": "Brescia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/701.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "homeId": 701,
+      "awayId": 717,
+      "venue": "Pala Shark",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458167,
+      "date": "2025-11-02T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Reggiana",
+      "away": "Olimpia Milano",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "homeId": 725,
+      "awayId": 722,
+      "venue": "PalaBigi",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458169,
+      "date": "2025-11-02T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Tortona",
+      "away": "Basket Napoli",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "homeId": 700,
+      "awayId": 690,
+      "venue": "PalaFerraris",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458175,
+      "date": "2025-11-04T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Varese",
+      "away": "Virtus Bologna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "homeId": 730,
+      "awayId": 732,
+      "venue": "Palasport Lino Oldrini",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458180,
+      "date": "2025-11-05T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Brescia",
+      "away": "Olimpia Milano",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "homeId": 717,
+      "awayId": 722,
+      "venue": "PalaLeonessa",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458181,
+      "date": "2025-11-05T20:45:00+01:00",
+      "time": "20:45",
+      "home": "Basket Napoli",
+      "away": "Trapani",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/701.png",
+      "homeId": 690,
+      "awayId": 701,
+      "venue": "PalaBarbuto",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458178,
+      "date": "2025-11-06T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Sassari",
+      "away": "Cantu",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "homeId": 726,
+      "awayId": 719,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458179,
+      "date": "2025-11-06T20:45:00+01:00",
+      "time": "20:45",
+      "home": "Cremona",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 720,
+      "awayId": 727,
+      "venue": "PalaRadi",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458176,
+      "date": "2025-11-07T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Udine",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 714,
+      "awayId": 731,
+      "venue": "PalaCarnera",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458177,
+      "date": "2025-11-07T20:45:00+01:00",
+      "time": "20:45",
+      "home": "Reggiana",
+      "away": "Treviso",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "homeId": 725,
+      "awayId": 728,
+      "venue": "PalaBigi",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458186,
+      "date": "2025-11-09T12:00:00+01:00",
+      "time": "12:00",
+      "home": "Trapani",
+      "away": "Cremona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/701.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "homeId": 701,
+      "awayId": 720,
+      "venue": "Pala Shark",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458182,
+      "date": "2025-11-09T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Brescia",
+      "away": "Trieste",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "homeId": 717,
+      "awayId": 729,
+      "venue": "PalaLeonessa",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458184,
+      "date": "2025-11-09T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Olimpia Milano",
+      "away": "Treviso",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "homeId": 722,
+      "awayId": 728,
+      "venue": "Unipol Forum",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458187,
+      "date": "2025-11-09T17:30:00+01:00",
+      "time": "17:30",
+      "home": "Trento",
+      "away": "Basket Napoli",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "homeId": 727,
+      "awayId": 690,
+      "venue": "BLM Group Arena",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458185,
+      "date": "2025-11-09T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Tortona",
+      "away": "Varese",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "homeId": 700,
+      "awayId": 730,
+      "venue": "PalaFerraris",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458189,
+      "date": "2025-11-09T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Virtus Bologna",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 732,
+      "awayId": 725,
+      "venue": "Segafredo Arena",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458188,
+      "date": "2025-11-09T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Venezia",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 731,
+      "awayId": 726,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458183,
+      "date": "2025-11-09T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Cantu",
+      "away": "Udine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "homeId": 719,
+      "awayId": 714,
+      "venue": "PalaFitLineDesio",
+      "status": "AOT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458174,
+      "date": "2025-11-12T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Trieste",
+      "away": "Tortona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "homeId": 729,
+      "awayId": 700,
+      "venue": "PalaTrieste",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458192,
+      "date": "2025-11-15T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Udine",
+      "away": "Tortona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "homeId": 714,
+      "awayId": 700,
+      "venue": "PalaCarnera",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458196,
+      "date": "2025-11-15T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Cremona",
+      "away": "Trieste",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "homeId": 720,
+      "awayId": 729,
+      "venue": "PalaRadi",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458190,
+      "date": "2025-11-16T12:00:00+01:00",
+      "time": "12:00",
+      "home": "Sassari",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 726,
+      "awayId": 727,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458191,
+      "date": "2025-11-16T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Varese",
+      "away": "Cantu",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "homeId": 730,
+      "awayId": 719,
+      "venue": "Palasport Lino Oldrini",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458194,
+      "date": "2025-11-16T17:30:00+01:00",
+      "time": "17:30",
+      "home": "Reggiana",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 725,
+      "awayId": 731,
+      "venue": "PalaBigi",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458195,
+      "date": "2025-11-16T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Olimpia Milano",
+      "away": "Trapani",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/701.png",
+      "homeId": 722,
+      "awayId": 701,
+      "venue": "Unipol Forum",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458197,
+      "date": "2025-11-16T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Basket Napoli",
+      "away": "Brescia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "homeId": 690,
+      "awayId": 717,
+      "venue": "PalaBarbuto",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458193,
+      "date": "2025-11-17T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Treviso",
+      "away": "Virtus Bologna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "homeId": 728,
+      "awayId": 732,
+      "venue": "PalaVerde",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458198,
+      "date": "2025-11-21T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Brescia",
+      "away": "Cremona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "homeId": 717,
+      "awayId": 720,
+      "venue": "PalaLeonessa",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458203,
+      "date": "2025-11-22T18:15:00+01:00",
+      "time": "18:15",
+      "home": "Trento",
+      "away": "Treviso",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "homeId": 727,
+      "awayId": 728,
+      "venue": "BLM Group Arena",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458204,
+      "date": "2025-11-23T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Trieste",
+      "away": "Olimpia Milano",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "homeId": 729,
+      "awayId": 722,
+      "venue": "PalaTrieste",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458205,
+      "date": "2025-11-23T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Varese",
+      "away": "Udine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "homeId": 730,
+      "awayId": 714,
+      "venue": "Palasport Lino Oldrini",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458202,
+      "date": "2025-11-23T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Trapani",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/701.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 701,
+      "awayId": 725,
+      "venue": "Pala Shark",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458201,
+      "date": "2025-11-23T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Tortona",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 700,
+      "awayId": 731,
+      "venue": "PalaFerraris",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458200,
+      "date": "2025-11-23T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Cantu",
+      "away": "Virtus Bologna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "homeId": 719,
+      "awayId": 732,
+      "venue": "PalaFitLineDesio",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458199,
+      "date": "2025-11-23T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Basket Napoli",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 690,
+      "awayId": 726,
+      "venue": "PalaBarbuto",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458209,
+      "date": "2025-12-06T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Sassari",
+      "away": "Trieste",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "homeId": 726,
+      "awayId": 729,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458211,
+      "date": "2025-12-06T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Reggiana",
+      "away": "Brescia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "homeId": 725,
+      "awayId": 717,
+      "venue": "PalaBigi",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458206,
+      "date": "2025-12-07T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Udine",
+      "away": "Basket Napoli",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "homeId": 714,
+      "awayId": 690,
+      "venue": "PalaCarnera",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458208,
+      "date": "2025-12-07T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Venezia",
+      "away": "Cantu",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "homeId": 731,
+      "awayId": 719,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458212,
+      "date": "2025-12-07T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Olimpia Milano",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 722,
+      "awayId": 727,
+      "venue": "Unipol Forum",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458210,
+      "date": "2025-12-07T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Treviso",
+      "away": "Trapani",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/701.png",
+      "homeId": 728,
+      "awayId": 701,
+      "venue": "PalaVerde",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458213,
+      "date": "2025-12-08T17:30:00+01:00",
+      "time": "17:30",
+      "home": "Cremona",
+      "away": "Varese",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "homeId": 720,
+      "awayId": 730,
+      "venue": "PalaRadi",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458207,
+      "date": "2025-12-08T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Virtus Bologna",
+      "away": "Tortona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "homeId": 732,
+      "awayId": 700,
+      "venue": "Segafredo Arena",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458221,
+      "date": "2025-12-13T18:15:00+01:00",
+      "time": "18:15",
+      "home": "Trieste",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 729,
+      "awayId": 725,
+      "venue": "PalaTrieste",
+      "status": "AOT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458219,
+      "date": "2025-12-13T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Trento",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 727,
+      "awayId": 731,
+      "venue": "BLM Group Arena",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458218,
+      "date": "2025-12-14T12:00:00+01:00",
+      "time": "12:00",
+      "home": "Trapani",
+      "away": "Udine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/701.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "homeId": 701,
+      "awayId": 714,
+      "venue": "Pala Shark",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458217,
+      "date": "2025-12-14T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Tortona",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 700,
+      "awayId": 726,
+      "venue": "PalaFerraris",
+      "status": "AOT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458215,
+      "date": "2025-12-14T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Brescia",
+      "away": "Varese",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "homeId": 717,
+      "awayId": 730,
+      "venue": "PalaLeonessa",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458214,
+      "date": "2025-12-14T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Basket Napoli",
+      "away": "Cremona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "homeId": 690,
+      "awayId": 720,
+      "venue": "PalaBarbuto",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458220,
+      "date": "2025-12-14T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Treviso",
+      "away": "Cantu",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "homeId": 728,
+      "awayId": 719,
+      "venue": "PalaVerde",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458216,
+      "date": "2025-12-14T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Olimpia Milano",
+      "away": "Virtus Bologna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "homeId": 722,
+      "awayId": 732,
+      "venue": "Unipol Forum",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458229,
+      "date": "2025-12-20T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Cantu",
+      "away": "Olimpia Milano",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "homeId": 719,
+      "awayId": 722,
+      "venue": "PalaFitLineDesio",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458225,
+      "date": "2025-12-21T12:00:00+01:00",
+      "time": "12:00",
+      "home": "Sassari",
+      "away": "Trapani",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/701.png",
+      "homeId": 726,
+      "awayId": 701,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458224,
+      "date": "2025-12-21T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Venezia",
+      "away": "Basket Napoli",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "homeId": 731,
+      "awayId": 690,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458226,
+      "date": "2025-12-21T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Udine",
+      "away": "Treviso",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "homeId": 714,
+      "awayId": 728,
+      "venue": "PalaCarnera",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458228,
+      "date": "2025-12-21T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Cremona",
+      "away": "Tortona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "homeId": 720,
+      "awayId": 700,
+      "venue": "PalaRadi",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458227,
+      "date": "2025-12-21T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Reggiana",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 725,
+      "awayId": 727,
+      "venue": "PalaBigi",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458222,
+      "date": "2025-12-21T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Varese",
+      "away": "Trieste",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "homeId": 730,
+      "awayId": 729,
+      "venue": "Palasport Lino Oldrini",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458223,
+      "date": "2025-12-22T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Virtus Bologna",
+      "away": "Brescia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "homeId": 732,
+      "awayId": 717,
+      "venue": "Segafredo Arena",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458234,
+      "date": "2025-12-27T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Trento",
+      "away": "Udine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "homeId": 727,
+      "awayId": 714,
+      "venue": "BLM Group Arena",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458231,
+      "date": "2025-12-28T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Brescia",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 717,
+      "awayId": 731,
+      "venue": "PalaLeonessa",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458235,
+      "date": "2025-12-28T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Treviso",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 728,
+      "awayId": 726,
+      "venue": "PalaVerde",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458232,
+      "date": "2025-12-28T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Tortona",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 700,
+      "awayId": 725,
+      "venue": "PalaFerraris",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458230,
+      "date": "2025-12-28T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Basket Napoli",
+      "away": "Cantu",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "homeId": 690,
+      "awayId": 719,
+      "venue": "PalaBarbuto",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458233,
+      "date": "2025-12-28T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Trapani",
+      "away": "Varese",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/701.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "homeId": 701,
+      "awayId": 730,
+      "venue": "Pala Shark",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458237,
+      "date": "2025-12-29T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Olimpia Milano",
+      "away": "Cremona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "homeId": 722,
+      "awayId": 720,
+      "venue": "Unipol Forum",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458236,
+      "date": "2025-12-29T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Trieste",
+      "away": "Virtus Bologna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "homeId": 729,
+      "awayId": 732,
+      "venue": "PalaTrieste",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458238,
+      "date": "2026-01-03T18:15:00+01:00",
+      "time": "18:15",
+      "home": "Varese",
+      "away": "Basket Napoli",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "homeId": 730,
+      "awayId": 690,
+      "venue": "Palasport Lino Oldrini",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458241,
+      "date": "2026-01-04T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Sassari",
+      "away": "Brescia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "homeId": 726,
+      "awayId": 717,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "AOT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458242,
+      "date": "2026-01-04T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Trento",
+      "away": "Trieste",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "homeId": 727,
+      "awayId": 729,
+      "venue": "BLM Group Arena",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458244,
+      "date": "2026-01-04T17:30:00+01:00",
+      "time": "17:30",
+      "home": "Cremona",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 720,
+      "awayId": 725,
+      "venue": "PalaRadi",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458243,
+      "date": "2026-01-04T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Olimpia Milano",
+      "away": "Udine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "homeId": 722,
+      "awayId": 714,
+      "venue": "Unipol Forum",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458245,
+      "date": "2026-01-04T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Cantu",
+      "away": "Tortona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "homeId": 719,
+      "awayId": 700,
+      "venue": "PalaFitLineDesio",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458239,
+      "date": "2026-01-04T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Virtus Bologna",
+      "away": "Trapani",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/701.png",
+      "homeId": 732,
+      "awayId": 701,
+      "venue": "Segafredo Arena",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458240,
+      "date": "2026-01-05T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Venezia",
+      "away": "Treviso",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "homeId": 731,
+      "awayId": 728,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458248,
+      "date": "2026-01-10T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Reggiana",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 725,
+      "awayId": 726,
+      "venue": "PalaBigi",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458249,
+      "date": "2026-01-10T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Trapani",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/701.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 701,
+      "awayId": 727,
+      "venue": "Pala Shark",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458250,
+      "date": "2026-01-11T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Treviso",
+      "away": "Varese",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "homeId": 728,
+      "awayId": 730,
+      "venue": "PalaVerde",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458251,
+      "date": "2026-01-11T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Trieste",
+      "away": "Cantu",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "homeId": 729,
+      "awayId": 719,
+      "venue": "PalaTrieste",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458252,
+      "date": "2026-01-11T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Udine",
+      "away": "Cremona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "homeId": 714,
+      "awayId": 720,
+      "venue": "PalaCarnera",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458253,
+      "date": "2026-01-11T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Venezia",
+      "away": "Virtus Bologna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "homeId": 731,
+      "awayId": 732,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458247,
+      "date": "2026-01-11T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Brescia",
+      "away": "Tortona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "homeId": 717,
+      "awayId": 700,
+      "venue": "PalaLeonessa",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458246,
+      "date": "2026-01-12T18:45:00+01:00",
+      "time": "18:45",
+      "home": "Basket Napoli",
+      "away": "Olimpia Milano",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "homeId": 690,
+      "awayId": 722,
+      "venue": "PalaBarbuto",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458259,
+      "date": "2026-01-17T18:45:00+01:00",
+      "time": "18:45",
+      "home": "Tortona",
+      "away": "Olimpia Milano",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "homeId": 700,
+      "awayId": 722,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458258,
+      "date": "2026-01-17T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Trento",
+      "away": "Cremona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "homeId": 727,
+      "awayId": 720,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458256,
+      "date": "2026-01-18T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Varese",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 730,
+      "awayId": 731,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458260,
+      "date": "2026-01-18T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Sassari",
+      "away": "Basket Napoli",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "homeId": 726,
+      "awayId": 690,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458254,
+      "date": "2026-01-18T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Udine",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 714,
+      "awayId": 725,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458255,
+      "date": "2026-01-18T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Virtus Bologna",
+      "away": "Treviso",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "homeId": 732,
+      "awayId": 728,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458257,
+      "date": "2026-01-18T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Cantu",
+      "away": "Brescia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "homeId": 719,
+      "awayId": 717,
+      "venue": "Unknown",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458269,
+      "date": "2026-01-24T18:15:00+01:00",
+      "time": "18:15",
+      "home": "Basket Napoli",
+      "away": "Tortona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "homeId": 690,
+      "awayId": 700,
+      "venue": "PalaBarbuto",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458263,
+      "date": "2026-01-24T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Trieste",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 729,
+      "awayId": 726,
+      "venue": "PalaTrieste",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458264,
+      "date": "2026-01-25T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Treviso",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 728,
+      "awayId": 727,
+      "venue": "PalaVerde",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458262,
+      "date": "2026-01-25T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Reggiana",
+      "away": "Cantu",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "homeId": 725,
+      "awayId": 719,
+      "venue": "PalaBigi",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458268,
+      "date": "2026-01-25T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Brescia",
+      "away": "Udine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "homeId": 717,
+      "awayId": 714,
+      "venue": "PalaLeonessa",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458266,
+      "date": "2026-01-26T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Olimpia Milano",
+      "away": "Varese",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "homeId": 722,
+      "awayId": 730,
+      "venue": "Unipol Forum",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458267,
+      "date": "2026-01-26T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Cremona",
+      "away": "Virtus Bologna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "homeId": 720,
+      "awayId": 732,
+      "venue": "PalaRadi",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458273,
+      "date": "2026-01-31T18:15:00+01:00",
+      "time": "18:15",
+      "home": "Tortona",
+      "away": "Udine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "homeId": 700,
+      "awayId": 714,
+      "venue": "PalaFerraris",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458270,
+      "date": "2026-01-31T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Cantu",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 719,
+      "awayId": 731,
+      "venue": "PalaFitLineDesio",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458271,
+      "date": "2026-02-01T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Olimpia Milano",
+      "away": "Brescia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "homeId": 722,
+      "awayId": 717,
+      "venue": "Allianz Cloud",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458272,
+      "date": "2026-02-01T16:30:00+01:00",
+      "time": "16:30",
+      "home": "Sassari",
+      "away": "Cremona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "homeId": 726,
+      "awayId": 720,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458275,
+      "date": "2026-02-01T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Trieste",
+      "away": "Treviso",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "homeId": 729,
+      "awayId": 728,
+      "venue": "PalaTrieste",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458276,
+      "date": "2026-02-01T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Varese",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 730,
+      "awayId": 725,
+      "venue": "Palasport Lino Oldrini",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458277,
+      "date": "2026-02-01T19:00:00+01:00",
+      "time": "19:00",
+      "home": "Virtus Bologna",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 732,
+      "awayId": 727,
+      "venue": "Segafredo Arena",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458283,
+      "date": "2026-02-07T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Cremona",
+      "away": "Cantu",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "homeId": 720,
+      "awayId": 719,
+      "venue": "PalaRadi",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458285,
+      "date": "2026-02-08T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Basket Napoli",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 690,
+      "awayId": 731,
+      "venue": "PalaBarbuto",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458280,
+      "date": "2026-02-08T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Trento",
+      "away": "Varese",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "homeId": 727,
+      "awayId": 730,
+      "venue": "BLM Group Arena",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458278,
+      "date": "2026-02-08T17:30:00+01:00",
+      "time": "17:30",
+      "home": "Tortona",
+      "away": "Trieste",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "homeId": 700,
+      "awayId": 729,
+      "venue": "PalaFerraris",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458281,
+      "date": "2026-02-08T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Udine",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 714,
+      "awayId": 726,
+      "venue": "PalaCarnera",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458284,
+      "date": "2026-02-09T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Brescia",
+      "away": "Virtus Bologna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "homeId": 717,
+      "awayId": 732,
+      "venue": "PalaLeonessa",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458279,
+      "date": "2026-02-09T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Treviso",
+      "away": "Olimpia Milano",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "homeId": 728,
+      "awayId": 722,
+      "venue": "PalaVerde",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458291,
+      "date": "2026-02-14T18:15:00+01:00",
+      "time": "18:15",
+      "home": "Varese",
+      "away": "Brescia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "homeId": 730,
+      "awayId": 717,
+      "venue": "Palasport Lino Oldrini",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458290,
+      "date": "2026-02-14T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Trieste",
+      "away": "Basket Napoli",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "homeId": 729,
+      "awayId": 690,
+      "venue": "PalaTrieste",
+      "status": "FT",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458288,
+      "date": "2026-02-15T16:00:00+01:00",
+      "time": "16:00",
+      "home": "Sassari",
+      "away": "Tortona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "homeId": 726,
+      "awayId": 700,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458292,
+      "date": "2026-02-15T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Venezia",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 731,
+      "awayId": 725,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458286,
+      "date": "2026-02-15T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Cantu",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 719,
+      "awayId": 727,
+      "venue": "PalaFitLineDesio",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458293,
+      "date": "2026-02-15T18:30:00+01:00",
+      "time": "18:30",
+      "home": "Virtus Bologna",
+      "away": "Udine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "homeId": 732,
+      "awayId": 714,
+      "venue": "Segafredo Arena",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458287,
+      "date": "2026-02-15T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Cremona",
+      "away": "Olimpia Milano",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "homeId": 720,
+      "awayId": 722,
+      "venue": "PalaRadi",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458296,
+      "date": "2026-03-07T19:30:00+01:00",
+      "time": "19:30",
+      "home": "Trento",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 727,
+      "awayId": 726,
+      "venue": "BLM Group Arena",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458298,
+      "date": "2026-03-07T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Reggiana",
+      "away": "Trieste",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "homeId": 725,
+      "awayId": 729,
+      "venue": "PalaBigi",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458300,
+      "date": "2026-03-07T20:30:00+01:00",
+      "time": "20:30",
+      "home": "Basket Napoli",
+      "away": "Virtus Bologna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "homeId": 690,
+      "awayId": 732,
+      "venue": "PalaBarbuto",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458295,
+      "date": "2026-03-08T17:00:00+01:00",
+      "time": "17:00",
+      "home": "Treviso",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 728,
+      "awayId": 731,
+      "venue": "PalaVerde",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458294,
+      "date": "2026-03-08T17:30:00+01:00",
+      "time": "17:30",
+      "home": "Udine",
+      "away": "Varese",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "homeId": 714,
+      "awayId": 730,
+      "venue": "PalaCarnera",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458297,
+      "date": "2026-03-08T18:00:00+01:00",
+      "time": "18:00",
+      "home": "Tortona",
+      "away": "Cremona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "homeId": 700,
+      "awayId": 720,
+      "venue": "PalaFerraris",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458301,
+      "date": "2026-03-09T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Olimpia Milano",
+      "away": "Cantu",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "homeId": 722,
+      "awayId": 719,
+      "venue": "Unknown",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458302,
+      "date": "2026-03-15T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Cantu",
+      "away": "Basket Napoli",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "homeId": 719,
+      "awayId": 690,
+      "venue": "PalaFitLineDesio",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458303,
+      "date": "2026-03-15T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Cremona",
+      "away": "Brescia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "homeId": 720,
+      "awayId": 717,
+      "venue": "PalaRadi",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458304,
+      "date": "2026-03-15T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Sassari",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 726,
+      "awayId": 725,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458306,
+      "date": "2026-03-15T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Trieste",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 729,
+      "awayId": 727,
+      "venue": "PalaTrieste",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458307,
+      "date": "2026-03-15T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Varese",
+      "away": "Treviso",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "homeId": 730,
+      "awayId": 728,
+      "venue": "Palasport Lino Oldrini",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458308,
+      "date": "2026-03-15T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Venezia",
+      "away": "Udine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "homeId": 731,
+      "awayId": 714,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458309,
+      "date": "2026-03-15T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Virtus Bologna",
+      "away": "Olimpia Milano",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "homeId": 732,
+      "awayId": 722,
+      "venue": "Segafredo Arena",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458311,
+      "date": "2026-03-22T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Trento",
+      "away": "Brescia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "homeId": 727,
+      "awayId": 717,
+      "venue": "BLM Group Arena",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458312,
+      "date": "2026-03-22T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Treviso",
+      "away": "Cremona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "homeId": 728,
+      "awayId": 720,
+      "venue": "PalaVerde",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458313,
+      "date": "2026-03-22T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Trieste",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 729,
+      "awayId": 731,
+      "venue": "PalaTrieste",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458314,
+      "date": "2026-03-22T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Tortona",
+      "away": "Cantu",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "homeId": 700,
+      "awayId": 719,
+      "venue": "PalaFerraris",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458315,
+      "date": "2026-03-22T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Basket Napoli",
+      "away": "Varese",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "homeId": 690,
+      "awayId": 730,
+      "venue": "PalaBarbuto",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458316,
+      "date": "2026-03-22T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Reggiana",
+      "away": "Virtus Bologna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "homeId": 725,
+      "awayId": 732,
+      "venue": "PalaBigi",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458317,
+      "date": "2026-03-22T20:00:00+01:00",
+      "time": "20:00",
+      "home": "Olimpia Milano",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 722,
+      "awayId": 726,
+      "venue": "Unknown",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458318,
+      "date": "2026-03-29T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Cantu",
+      "away": "Trieste",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "homeId": 719,
+      "awayId": 729,
+      "venue": "PalaFitLineDesio",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458319,
+      "date": "2026-03-29T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Cremona",
+      "away": "Basket Napoli",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "homeId": 720,
+      "awayId": 690,
+      "venue": "PalaRadi",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458320,
+      "date": "2026-03-29T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Sassari",
+      "away": "Treviso",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "homeId": 726,
+      "awayId": 728,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458322,
+      "date": "2026-03-29T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Udine",
+      "away": "Olimpia Milano",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "homeId": 714,
+      "awayId": 722,
+      "venue": "PalaCarnera",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458323,
+      "date": "2026-03-29T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Varese",
+      "away": "Tortona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "homeId": 730,
+      "awayId": 700,
+      "venue": "Palasport Lino Oldrini",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458324,
+      "date": "2026-03-29T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Venezia",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 731,
+      "awayId": 727,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458325,
+      "date": "2026-03-29T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Brescia",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 717,
+      "awayId": 725,
+      "venue": "PalaLeonessa",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458327,
+      "date": "2026-04-04T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Virtus Bologna",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 732,
+      "awayId": 731,
+      "venue": "Segafredo Arena",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458328,
+      "date": "2026-04-04T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Trieste",
+      "away": "Varese",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "homeId": 729,
+      "awayId": 730,
+      "venue": "PalaTrieste",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458329,
+      "date": "2026-04-04T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Treviso",
+      "away": "Tortona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "homeId": 728,
+      "awayId": 700,
+      "venue": "PalaVerde",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458330,
+      "date": "2026-04-04T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Cremona",
+      "away": "Udine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "homeId": 720,
+      "awayId": 714,
+      "venue": "PalaRadi",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458331,
+      "date": "2026-04-04T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Cantu",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 719,
+      "awayId": 726,
+      "venue": "PalaFitLineDesio",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458332,
+      "date": "2026-04-04T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Brescia",
+      "away": "Basket Napoli",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "homeId": 717,
+      "awayId": 690,
+      "venue": "PalaLeonessa",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458333,
+      "date": "2026-04-04T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Olimpia Milano",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 722,
+      "awayId": 725,
+      "venue": "Unipol Forum",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458334,
+      "date": "2026-04-12T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Basket Napoli",
+      "away": "Treviso",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "homeId": 690,
+      "awayId": 728,
+      "venue": "PalaBarbuto",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458335,
+      "date": "2026-04-12T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Reggiana",
+      "away": "Cremona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "homeId": 725,
+      "awayId": 720,
+      "venue": "PalaBigi",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458336,
+      "date": "2026-04-12T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Tortona",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 700,
+      "awayId": 727,
+      "venue": "PalaFerraris",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458338,
+      "date": "2026-04-12T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Udine",
+      "away": "Trieste",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "homeId": 714,
+      "awayId": 729,
+      "venue": "PalaCarnera",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458339,
+      "date": "2026-04-12T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Varese",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 730,
+      "awayId": 726,
+      "venue": "Palasport Lino Oldrini",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458340,
+      "date": "2026-04-12T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Venezia",
+      "away": "Brescia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "homeId": 731,
+      "awayId": 717,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458341,
+      "date": "2026-04-12T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Virtus Bologna",
+      "away": "Cantu",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "homeId": 732,
+      "awayId": 719,
+      "venue": "Segafredo Arena",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458342,
+      "date": "2026-04-19T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Trento",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 727,
+      "awayId": 725,
+      "venue": "BLM Group Arena",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458343,
+      "date": "2026-04-19T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Trieste",
+      "away": "Brescia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "homeId": 729,
+      "awayId": 717,
+      "venue": "PalaTrieste",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458344,
+      "date": "2026-04-19T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Treviso",
+      "away": "Udine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "homeId": 728,
+      "awayId": 714,
+      "venue": "PalaVerde",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458345,
+      "date": "2026-04-19T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Olimpia Milano",
+      "away": "Basket Napoli",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "homeId": 722,
+      "awayId": 690,
+      "venue": "Unipol Forum",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458346,
+      "date": "2026-04-19T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Tortona",
+      "away": "Virtus Bologna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "homeId": 700,
+      "awayId": 732,
+      "venue": "PalaFerraris",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458348,
+      "date": "2026-04-19T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Cantu",
+      "away": "Varese",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "homeId": 719,
+      "awayId": 730,
+      "venue": "PalaFitLineDesio",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458349,
+      "date": "2026-04-19T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Sassari",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 726,
+      "awayId": 731,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458350,
+      "date": "2026-04-26T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Basket Napoli",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 690,
+      "awayId": 727,
+      "venue": "PalaBarbuto",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458351,
+      "date": "2026-04-26T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Brescia",
+      "away": "Treviso",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "homeId": 717,
+      "awayId": 728,
+      "venue": "PalaLeonessa",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458352,
+      "date": "2026-04-26T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Reggiana",
+      "away": "Tortona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "homeId": 725,
+      "awayId": 700,
+      "venue": "PalaBigi",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458354,
+      "date": "2026-04-26T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Udine",
+      "away": "Cantu",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "homeId": 714,
+      "awayId": 719,
+      "venue": "PalaCarnera",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458355,
+      "date": "2026-04-26T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Varese",
+      "away": "Cremona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "homeId": 730,
+      "awayId": 720,
+      "venue": "Palasport Lino Oldrini",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458356,
+      "date": "2026-04-26T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Venezia",
+      "away": "Olimpia Milano",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "homeId": 731,
+      "awayId": 722,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458357,
+      "date": "2026-04-26T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Virtus Bologna",
+      "away": "Trieste",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "homeId": 732,
+      "awayId": 729,
+      "venue": "Segafredo Arena",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458358,
+      "date": "2026-05-03T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Tortona",
+      "away": "Brescia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "homeId": 700,
+      "awayId": 717,
+      "venue": "PalaFerraris",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458360,
+      "date": "2026-05-03T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Udine",
+      "away": "Trento",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "homeId": 714,
+      "awayId": 727,
+      "venue": "PalaCarnera",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458361,
+      "date": "2026-05-03T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Olimpia Milano",
+      "away": "Trieste",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "homeId": 722,
+      "awayId": 729,
+      "venue": "Unipol Forum",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458362,
+      "date": "2026-05-03T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Sassari",
+      "away": "Virtus Bologna",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "homeId": 726,
+      "awayId": 732,
+      "venue": "Palasport Roberta Serradimigni",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458363,
+      "date": "2026-05-03T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Reggiana",
+      "away": "Basket Napoli",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "homeId": 725,
+      "awayId": 690,
+      "venue": "PalaBigi",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458364,
+      "date": "2026-05-03T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Cremona",
+      "away": "Venezia",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "homeId": 720,
+      "awayId": 731,
+      "venue": "PalaRadi",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458365,
+      "date": "2026-05-03T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Cantu",
+      "away": "Treviso",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/719.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "homeId": 719,
+      "awayId": 728,
+      "venue": "PalaFitLineDesio",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458366,
+      "date": "2026-05-10T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Basket Napoli",
+      "away": "Udine",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/690.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/714.png",
+      "homeId": 690,
+      "awayId": 714,
+      "venue": "PalaBarbuto",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458367,
+      "date": "2026-05-10T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Brescia",
+      "away": "Sassari",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/717.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/726.png",
+      "homeId": 717,
+      "awayId": 726,
+      "venue": "PalaLeonessa",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458369,
+      "date": "2026-05-10T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Trento",
+      "away": "Olimpia Milano",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/727.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/722.png",
+      "homeId": 727,
+      "awayId": 722,
+      "venue": "BLM Group Arena",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458370,
+      "date": "2026-05-10T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Treviso",
+      "away": "Reggiana",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/728.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/725.png",
+      "homeId": 728,
+      "awayId": 725,
+      "venue": "PalaVerde",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458371,
+      "date": "2026-05-10T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Trieste",
+      "away": "Cremona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/729.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/720.png",
+      "homeId": 729,
+      "awayId": 720,
+      "venue": "PalaTrieste",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458372,
+      "date": "2026-05-10T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Venezia",
+      "away": "Tortona",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/731.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/700.png",
+      "homeId": 731,
+      "awayId": 700,
+      "venue": "Palasport Giuseppe Taliercio",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    },
+    {
+      "id": 458373,
+      "date": "2026-05-10T20:00:00+02:00",
+      "time": "20:00",
+      "home": "Virtus Bologna",
+      "away": "Varese",
+      "homeLogo": "https://media.api-sports.io/basketball/teams/732.png",
+      "awayLogo": "https://media.api-sports.io/basketball/teams/730.png",
+      "homeId": 732,
+      "awayId": 730,
+      "venue": "Segafredo Arena",
+      "status": "NS",
+      "broadcasters": [
+        "dazn",
+        "eurocup-tv"
+      ]
+    }
+  ]
+}
