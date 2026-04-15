@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from 'react';
 import MatchCard from './MatchCard';
-import nbaData from '@/lib/data/nba-2025-2026.json';
 import sblData from '@/lib/data/sbl-2025-2026.json';
 import euroleagueData from '@/lib/data/euroleague-2025-2026.json';
 import acbData from '@/lib/data/acb-2025-2026.json';
@@ -46,7 +45,6 @@ function getBroadcastersForMatch(matchId: number | string, league: string, apiBr
   const lower = league.toLowerCase();
 
   const leagueMap: Record<string, any> = {
-    'nba': nbaData,
     'sbl': sblData,
     'basketligan': sblData,
     'euroleague': euroleagueData,
@@ -113,55 +111,64 @@ export default function TodaysMatches({ selectedLeague, selectedDate }: TodaysMa
 
   console.log('🎯 TodaysMatches render:', { selectedLeague, selectedDate });
 
-  useEffect(() => {
-    function loadMatches() {
+useEffect(() => {
+    async function loadMatches() {
       try {
         setLoading(true);
         setError(null);
 
         const allLeagueData: Record<string, any> = {
-          'nba': nbaData,
           'sbl': sblData,
           'euroleague': euroleagueData,
           'acb': acbData,
-          '117': acbData,
           'turkish-bsl': turkishBslData,
-          '104': turkishBslData,
           'aba-liga': abaLigaData,
-          '198': abaLigaData,
           'bbl': bblData,
-          '40': bblData,
           'greek-cup': greekCupData,
-          '136': greekCupData,
           'lega-a': legaAData,
-          '52': legaAData,
           'lkl': lklData,
-          '60': lklData,
           'kls': klsData,
-          '85': klsData,
           'serbian-super-league': serbianSuperLeagueData,
-          '86': serbianSuperLeagueData,
           'eurocup': eurocupData,
-          '194': eurocupData,
           'champions-league': championsLeagueData,
-          '202': championsLeagueData,
           'fiba-europe-cup': fibaEuropeCupData,
-          '201': fibaEuropeCupData,
           'lnb': lnbData,
-          '2': lnbData,
           'world-cup': worldCupData,
-          '281': worldCupData,
         };
 
         let allMatches: Match[] = [];
 
+        // Hämta NBA live från API
+        if (selectedLeague === 'all' || selectedLeague === 'nba') {
+          try {
+            const res = await fetch(`/api/basketball?league=nba&date=${selectedDate}`);
+            const data = await res.json();
+            if (data.success && data.matches) {
+              const nbaMatches = data.matches.map((m: any) => ({
+                id: m.id,
+                league: 'nba',
+                home: m.home,
+                away: m.away,
+                time: m.time,
+                date: m.date,
+                status: m.status || 'Scheduled',
+                venue: m.venue,
+                broadcaster: '',
+              }));
+              allMatches.push(...nbaMatches);
+            }
+          } catch {
+            console.error('❌ Failed to fetch NBA matches');
+          }
+        }
+
+        // Alla andra ligor från lokal JSON
         if (selectedLeague === 'all') {
           const leagues = [
-            'nba', 'sbl', 'euroleague', 'acb', 'turkish-bsl', 'aba-liga',
+            'sbl', 'euroleague', 'acb', 'turkish-bsl', 'aba-liga',
             'bbl', 'greek-cup', 'lega-a', 'lkl', 'kls', 'serbian-super-league',
             'eurocup', 'champions-league', 'fiba-europe-cup', 'lnb', 'world-cup',
           ];
-
           leagues.forEach(leagueName => {
             const leagueData = allLeagueData[leagueName];
             if (leagueData && (leagueData as any).matches) {
@@ -179,7 +186,7 @@ export default function TodaysMatches({ selectedLeague, selectedDate }: TodaysMa
               allMatches.push(...leagueMatches);
             }
           });
-        } else {
+        } else if (selectedLeague !== 'nba') {
           const leagueData = allLeagueData[selectedLeague.toLowerCase()];
           if (leagueData && (leagueData as any).matches) {
             allMatches = (leagueData as any).matches.map((m: any) => ({
@@ -196,7 +203,6 @@ export default function TodaysMatches({ selectedLeague, selectedDate }: TodaysMa
           }
         }
 
-        console.log('📦 Loaded matches from local JSON:', allMatches.length);
         setMatches(allMatches);
       } catch (err) {
         console.error('❌ Error loading matches:', err);

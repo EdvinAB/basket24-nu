@@ -100,6 +100,48 @@ function getLocalMatch(matchId: string, league: string): LocalMatch | null {
   const matches = (data as any).matches as LocalMatch[];
   return matches.find(m => String(m.id) === String(matchId)) || null;
 }
+export async function generateMetadata({ params }: Props) {
+  const { league, slug } = await params;
+  const decodedSlug = decodeURIComponent(slug);
+  const matchId = getIdFromSlug(decodedSlug);
+  const match = getLocalMatch(matchId, league);
+  const leagueName = getLeagueName(league);
+
+  if (!match) {
+    return { title: 'Match hittades inte | basket24.nu' };
+  }
+
+  const matchDate = new Date(match.date);
+  const dateStr = matchDate.toLocaleDateString('sv-SE', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+    timeZone: 'Europe/Stockholm',
+  });
+
+  const title = `${match.home} vs ${match.away} – ${dateStr} | basket24.nu`;
+  const description = `Se ${match.home} möta ${match.away} i ${leagueName}. Matchen spelas ${dateStr} kl ${match.time}. Hitta var du kan streama matchen live på TV.`;
+  const canonical = `https://basket24.nu/${league}/${slug}`;
+
+  return {
+    title,
+    description,
+    alternates: { canonical },
+    openGraph: {
+      title,
+      description,
+      url: canonical,
+      siteName: 'basket24.nu',
+      locale: 'sv_SE',
+      type: 'website',
+    },
+    twitter: {
+      card: 'summary',
+      title,
+      description,
+    },
+  };
+}
 
 export default async function MatchPage({ params }: Props) {
   const { league, slug } = await params;

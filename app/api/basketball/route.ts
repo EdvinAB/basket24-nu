@@ -126,7 +126,7 @@ export async function GET(request: NextRequest) {
           date: game.date,
           status: game.status?.long || 'Unknown',
           venue: game.venue || 'Unknown',
-          broadcaster: getBroadcasters(leagueName),
+          broadcasters: ['nba-league-pass', 'hbo-max', 'allente'],
         })) || [];
 
         allMatches.push(...mappedMatches);

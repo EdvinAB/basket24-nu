@@ -1,95 +1,98 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import LeagueHero from '@/components/LeagueHero';
 import DateNavigation from '@/components/DateNavigation';
 import MatchCard from '@/components/MatchCard';
 import DayNavigation from '@/components/DayNavigation';
 import LeagueStandings from '@/components/LeagueStandings';
-import nbaData from '@/lib/data/nba-2025-2026.json';
 
-interface LocalMatch {
+interface ApiMatch {
   id: number | string;
   date: string;
   time: string;
   home: string;
   away: string;
   venue: string;
+  status: string;
   broadcasters: string[];
 }
 
 export default function NBAPage() {
   const [activeTab, setActiveTab] = useState<'spelschema' | 'tabell'>('spelschema');
   const [selectedDate, setSelectedDate] = useState<string>(() => {
-    return new Date().toISOString().split('T')[0];
+    const today = new Date();
+    return `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
   });
+  const [matches, setMatches] = useState<ApiMatch[]>([]);
+  const [loading, setLoading] = useState(false);
 
-  const allMatches = useMemo(() => {
-    return (nbaData as any).matches as LocalMatch[];
-  }, []);
-
-  const filteredMatches = useMemo(() => {
-    return allMatches.filter((match) => {
-      return match.date.split('T')[0] === selectedDate;
-    });
-  }, [allMatches, selectedDate]);
+  useEffect(() => {
+    async function fetchMatches() {
+      try {
+        setLoading(true);
+        const res = await fetch(`/api/basketball?league=nba&date=${selectedDate}`);
+        const data = await res.json();
+        if (data.success && data.matches) {
+          setMatches(data.matches);
+        } else {
+          setMatches([]);
+        }
+      } catch {
+        setMatches([]);
+      } finally {
+        setLoading(false);
+      }
+    }
+    fetchMatches();
+  }, [selectedDate]);
 
   const sortedMatches = useMemo(() => {
-    return [...filteredMatches].sort((a, b) => a.time.localeCompare(b.time));
-  }, [filteredMatches]);
+    return [...matches].sort((a, b) => a.time.localeCompare(b.time));
+  }, [matches]);
 
   const handlePrevDay = () => {
     const d = new Date(selectedDate);
     d.setDate(d.getDate() - 1);
-    setSelectedDate(d.toISOString().split('T')[0]);
+    setSelectedDate(`${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`);
   };
 
   const handleNextDay = () => {
     const d = new Date(selectedDate);
     d.setDate(d.getDate() + 1);
-    setSelectedDate(d.toISOString().split('T')[0]);
+    setSelectedDate(`${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`);
   };
 
   return (
     <div className="min-h-screen bg-gray-50">
       <LeagueHero league="NBA" />
-
       <div className="max-w-[1092px] mx-auto px-4">
-
-        {/* Tab-knappar */}
         <div className="flex border-b border-gray-200 mt-6">
           <button
             onClick={() => setActiveTab('spelschema')}
-            className={`px-6 py-3 text-sm font-bold uppercase transition-colors ${
-              activeTab === 'spelschema'
-                ? 'border-b-2 border-primary text-primary'
-                : 'text-gray-500 hover:text-dark'
-            }`}
+            className={`px-6 py-3 text-sm font-bold uppercase transition-colors ${activeTab === 'spelschema' ? 'border-b-2 border-primary text-primary' : 'text-gray-500 hover:text-dark'}`}
           >
             Spelschema
           </button>
           <button
             onClick={() => setActiveTab('tabell')}
-            className={`px-6 py-3 text-sm font-bold uppercase transition-colors ${
-              activeTab === 'tabell'
-                ? 'border-b-2 border-primary text-primary'
-                : 'text-gray-500 hover:text-dark'
-            }`}
+            className={`px-6 py-3 text-sm font-bold uppercase transition-colors ${activeTab === 'tabell' ? 'border-b-2 border-primary text-primary' : 'text-gray-500 hover:text-dark'}`}
           >
             Tabell
           </button>
         </div>
 
-        {/* Spelschema-fliken */}
         {activeTab === 'spelschema' && (
           <>
             <DateNavigation selectedDate={selectedDate} onDateChange={setSelectedDate} />
-
             <div className="bg-primary text-white px-4 py-3 mt-6 mb-0">
               <h2 className="text-lg font-bold uppercase">NBA SPELSCHEMA</h2>
             </div>
-
-            {sortedMatches.length === 0 ? (
+            {loading ? (
+              <div className="text-center py-8 bg-white">
+                <div className="text-gray-500">Laddar matcher...</div>
+              </div>
+            ) : sortedMatches.length === 0 ? (
               <div className="text-center py-8 bg-white">
                 <div className="text-gray-500">Inga matcher hittades för valt datum</div>
               </div>
@@ -105,17 +108,15 @@ export default function NBAPage() {
                     time={match.time}
                     date={match.date}
                     venue={match.venue}
-                    broadcasters={match.broadcasters}
+                    broadcasters={match.broadcasters || ['nba-league-pass']}
                   />
                 ))}
               </div>
             )}
-
             <DayNavigation onPrevDay={handlePrevDay} onNextDay={handleNextDay} />
           </>
         )}
 
-        {/* Tabell-fliken */}
         {activeTab === 'tabell' && (
           <div className="mt-6">
             <div className="bg-primary text-white px-4 py-3 mb-0">
@@ -124,7 +125,6 @@ export default function NBAPage() {
             <LeagueStandings league="nba" />
           </div>
         )}
-
       </div>
     </div>
   );
