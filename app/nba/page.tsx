@@ -6,6 +6,7 @@ import DateNavigation from '@/components/DateNavigation';
 import MatchCard from '@/components/MatchCard';
 import DayNavigation from '@/components/DayNavigation';
 import LeagueStandings from '@/components/LeagueStandings';
+import NBAPlayoffBracket from '@/components/NBAPlayoffBracket';
 
 interface ApiMatch {
   id: number | string;
@@ -19,7 +20,7 @@ interface ApiMatch {
 }
 
 export default function NBAPage() {
-  const [activeTab, setActiveTab] = useState<'spelschema' | 'tabell'>('spelschema');
+  const [activeTab, setActiveTab] = useState<'spelschema' | 'tabell' | 'playoff'>('spelschema');
   const [selectedDate, setSelectedDate] = useState<string>(() => {
     const today = new Date();
     return `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
@@ -80,6 +81,12 @@ export default function NBAPage() {
           >
             Tabell
           </button>
+          <button
+            onClick={() => setActiveTab('playoff')}
+            className={`px-6 py-3 text-sm font-bold uppercase transition-colors ${activeTab === 'playoff' ? 'border-b-2 border-primary text-primary' : 'text-gray-500 hover:text-dark'}`}
+          >
+            Playoff
+          </button>
         </div>
 
         {activeTab === 'spelschema' && (
@@ -123,6 +130,15 @@ export default function NBAPage() {
               <h2 className="text-lg font-bold uppercase">NBA TABELL 2025/26</h2>
             </div>
             <LeagueStandings league="nba" />
+          </div>
+        )}
+  
+        {activeTab === 'playoff' && (
+          <div className="mt-6">
+            <div className="bg-primary text-white px-4 py-3 mb-0">
+              <h2 className="text-lg font-bold uppercase">NBA PLAYOFF</h2>
+            </div>
+            <NBAPlayoffBracket />
           </div>
         )}
       </div>
