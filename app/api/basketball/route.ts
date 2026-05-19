@@ -104,21 +104,24 @@ export async function GET(request: NextRequest) {
         console.log('💾 Using CACHED data for', leagueName.toUpperCase());
 
         const mappedMatches = cached.data.response?.map((game: any) => ({
-          id: game.id,
-          league: leagueName,
-          home: game.teams?.home?.name || 'Unknown',
-          away: game.teams?.away?.name || 'Unknown',
-          homeLogo: game.teams?.home?.logo || null,
-          awayLogo: game.teams?.away?.logo || null,
-          time: new Date(game.date).toLocaleTimeString('sv-SE', {
-            hour: '2-digit',
-            minute: '2-digit',
-            timeZone: 'Europe/Stockholm',
-          }),
-          date: game.date,
-          status: game.status?.long || 'Unknown',
-          venue: game.venue || 'Unknown',
-          broadcasters: LEAGUE_BROADCASTERS[leagueName] || [],
+        id: game.id,
+        league: leagueName,
+        home: game.teams?.home?.name || 'Unknown',
+        away: game.teams?.away?.name || 'Unknown',
+        homeLogo: game.teams?.home?.logo || null,
+        awayLogo: game.teams?.away?.logo || null,
+        time: new Date(game.date).toLocaleTimeString('sv-SE', {
+          hour: '2-digit',
+          minute: '2-digit',
+          timeZone: 'Europe/Stockholm',
+        }),
+        date: game.date,
+        status: game.status?.long || 'Unknown',
+        statusShort: game.status?.short ?? '',
+        homeScore: game.scores?.home?.total ?? null,
+        awayScore: game.scores?.away?.total ?? null,
+        venue: game.venue || 'Unknown',
+        broadcasters: LEAGUE_BROADCASTERS[leagueName] || [],
         })) || [];
 
         allMatches.push(...mappedMatches);
@@ -164,6 +167,9 @@ export async function GET(request: NextRequest) {
           }),
           date: game.date,
           status: game.status?.long || 'Unknown',
+          statusShort: game.status?.short ?? '',
+          homeScore: game.scores?.home?.total ?? null,
+          awayScore: game.scores?.away?.total ?? null,
           venue: game.venue || 'Unknown',
           broadcasters: LEAGUE_BROADCASTERS[leagueName] || [],
         }));

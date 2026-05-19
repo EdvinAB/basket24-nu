@@ -7,6 +7,8 @@ import MatchCard from '@/components/MatchCard';
 import DayNavigation from '@/components/DayNavigation';
 import LeagueStandings from '@/components/LeagueStandings';
 import NBAPlayoffBracket from '@/components/NBAPlayoffBracket';
+import NBAResults from '@/components/NBAResults';
+
 
 interface ApiMatch {
   id: number | string;
@@ -20,7 +22,7 @@ interface ApiMatch {
 }
 
 export default function NBAPage() {
-  const [activeTab, setActiveTab] = useState<'spelschema' | 'tabell' | 'playoff'>('spelschema');
+  const [activeTab, setActiveTab] = useState<'spelschema' | 'tabell' | 'playoff' | 'resultat'>('spelschema');
   const [selectedDate, setSelectedDate] = useState<string>(() => {
     const today = new Date();
     return `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
@@ -87,6 +89,10 @@ export default function NBAPage() {
           >
             Playoff
           </button>
+          <button onClick={() => setActiveTab('resultat')} 
+          className={`px-6 py-3 text-sm font-bold uppercase transition-colors ${activeTab === 'resultat' ? 'border-b-2 border-primary text-primary' : 'text-gray-500 hover:text-dark'}`}>
+          Resultat
+          </button>
         </div>
 
         {activeTab === 'spelschema' && (
@@ -139,6 +145,15 @@ export default function NBAPage() {
               <h2 className="text-lg font-bold uppercase">NBA PLAYOFF</h2>
             </div>
             <NBAPlayoffBracket />
+          </div>
+        )}
+
+        {activeTab === 'resultat' && (
+          <div className="mt-6">
+            <div className="bg-primary text-white px-4 py-3 mb-0">
+              <h2 className="text-lg font-bold uppercase">NBA RESULTAT</h2>
+            </div>
+            <NBAResults />
           </div>
         )}
       </div>
